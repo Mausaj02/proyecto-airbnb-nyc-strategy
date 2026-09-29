@@ -1,0 +1,707 @@
+cultureInfo es-CO
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "resumen_para_powerbi": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "resumen para powerbi": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "resumen_para_powerbi": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi.neighbourhood_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi",
+			          "ConceptualProperty": "neighbourhood_group"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "neighbourhood group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "neighbourhood_group": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "neighbourhood category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "neighbourhood organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "neighbourhood bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "neighbourhood class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "neighbourhood crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "neighbourhood team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi.neighbourhood": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi",
+			          "ConceptualProperty": "neighbourhood"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "neighbourhood": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi.room_type": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi",
+			          "ConceptualProperty": "room_type"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "room type": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "room_type": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "type": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "room category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "room genre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "room manner": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "room variety": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "genre": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "manner": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "variety": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "room brand": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "room class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "tipo de habitación": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi.categoria_estadia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi",
+			          "ConceptualProperty": "categoria_estadia"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "categoria estadia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "categoria_estadia": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Categoría estadía": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi.precio_promedio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi",
+			          "ConceptualProperty": "Precio_Promedio"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "precio promedio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Precio_Promedio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi.precio_mediana": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi",
+			          "ConceptualProperty": "Precio_Mediana"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "precio mediana": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Precio_Mediana": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi.noches_minimas_promedio": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi",
+			          "ConceptualProperty": "Noches_Minimas_Promedio"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "noches minimas promedio": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "noch minima promedio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "Noches_Minimas_Promedio": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi.total_propiedade": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "resumen_para_powerbi",
+			          "ConceptualProperty": "Total_Propiedades"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total propiedade": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Total_Propiedades": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "aggregate propiedade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall propiedade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "resumen_para_powerbi_has_noches_minimas_promedio": {
+			      "Binding": {
+			        "ConceptualEntity": "resumen_para_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "resumen_para_powerbi": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi"
+			          }
+			        },
+			        "resumen_para_powerbi.noches_minimas_promedio": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi.noches_minimas_promedio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Object": {
+			              "Role": "resumen_para_powerbi.noches_minimas_promedio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "resumen_para_powerbis_have_noches_minimas_promedios"
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi_has_precio_mediana": {
+			      "Binding": {
+			        "ConceptualEntity": "resumen_para_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "resumen_para_powerbi": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi"
+			          }
+			        },
+			        "resumen_para_powerbi.precio_mediana": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi.precio_mediana"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Object": {
+			              "Role": "resumen_para_powerbi.precio_mediana"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "resumen_para_powerbis_have_precio_medianas"
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi_has_precio_promedio": {
+			      "Binding": {
+			        "ConceptualEntity": "resumen_para_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "resumen_para_powerbi": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi"
+			          }
+			        },
+			        "resumen_para_powerbi.precio_promedio": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi.precio_promedio"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Object": {
+			              "Role": "resumen_para_powerbi.precio_promedio"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "resumen_para_powerbis_have_precio_promedios"
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi_has_categoria_estadia": {
+			      "Binding": {
+			        "ConceptualEntity": "resumen_para_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "resumen_para_powerbi": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi"
+			          }
+			        },
+			        "resumen_para_powerbi.categoria_estadia": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi.categoria_estadia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Object": {
+			              "Role": "resumen_para_powerbi.categoria_estadia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "resumen_para_powerbis_have_categoria_estadias"
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi_has_room_type": {
+			      "Binding": {
+			        "ConceptualEntity": "resumen_para_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "resumen_para_powerbi": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi"
+			          }
+			        },
+			        "resumen_para_powerbi.room_type": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi.room_type"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Object": {
+			              "Role": "resumen_para_powerbi.room_type"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "resumen_para_powerbis_have_room_types"
+			        },
+			        {
+			          "DynamicAdjective": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Adjective": {
+			              "Role": "resumen_para_powerbi.room_type"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "room_types_describe_resumen_para_powerbis"
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi_has_neighbourhood": {
+			      "Binding": {
+			        "ConceptualEntity": "resumen_para_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "resumen_para_powerbi": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi"
+			          }
+			        },
+			        "resumen_para_powerbi.neighbourhood": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi.neighbourhood"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Object": {
+			              "Role": "resumen_para_powerbi.neighbourhood"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "resumen_para_powerbis_have_neighbourhoods"
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi_has_neighbourhood_group": {
+			      "Binding": {
+			        "ConceptualEntity": "resumen_para_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "resumen_para_powerbi": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi"
+			          }
+			        },
+			        "resumen_para_powerbi.neighbourhood_group": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi.neighbourhood_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Object": {
+			              "Role": "resumen_para_powerbi.neighbourhood_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "resumen_para_powerbis_have_neighbourhood_groups"
+			        }
+			      ]
+			    },
+			    "resumen_para_powerbi_has_total_propiedade": {
+			      "Binding": {
+			        "ConceptualEntity": "resumen_para_powerbi"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "resumen_para_powerbi": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi"
+			          }
+			        },
+			        "resumen_para_powerbi.total_propiedade": {
+			          "Target": {
+			            "Entity": "resumen_para_powerbi.total_propiedade"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "resumen_para_powerbi"
+			            },
+			            "Object": {
+			              "Role": "resumen_para_powerbi.total_propiedade"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "resumen_para_powerbis_have_total_propiedades"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

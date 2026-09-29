@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "ANÁLISIS DE PROPIEDADES - AIRBNB-NYC"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "fe93b9cc-5887-4f48-bc1a-d85b5e9b40c2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "bcfad53a966b06b7e482",
+  "displayName": "Visión 360",
+  "displayOption": "ActualSize",
+  "height": 1150,
+  "width": 1500
+}

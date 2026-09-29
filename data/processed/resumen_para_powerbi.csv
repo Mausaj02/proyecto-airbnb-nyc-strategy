@@ -1,0 +1,1719 @@
+neighbourhood_group,neighbourhood,room_type,categoria_estadia,Precio_Promedio,Precio_Mediana,Noches_Minimas_Promedio,Total_Propiedades
+Bronx,Allerton,Entire home/apt,1. Corta (1 noche),67.5,67.5,1.0,2
+Bronx,Allerton,Entire home/apt,2. Corta-Media (2-3 noches),139.08333333333334,104.5,2.0833333333333335,12
+Bronx,Allerton,Entire home/apt,3. Semanal (4-7 noches),82.5,82.5,4.5,2
+Bronx,Allerton,Private room,1. Corta (1 noche),89.33333333333333,70.0,1.0,9
+Bronx,Allerton,Private room,2. Corta-Media (2-3 noches),51.642857142857146,47.0,2.142857142857143,14
+Bronx,Allerton,Private room,3. Semanal (4-7 noches),61.0,63.0,6.0,3
+Bronx,Baychester,Entire home/apt,2. Corta-Media (2-3 noches),98.0,98.0,2.5,2
+Bronx,Baychester,Entire home/apt,3. Semanal (4-7 noches),75.0,75.0,4.0,1
+Bronx,Baychester,Private room,1. Corta (1 noche),67.5,67.5,1.0,2
+Bronx,Baychester,Private room,2. Corta-Media (2-3 noches),61.0,61.0,3.0,2
+Bronx,Belmont,Entire home/apt,1. Corta (1 noche),299.0,299.0,1.0,1
+Bronx,Belmont,Entire home/apt,2. Corta-Media (2-3 noches),193.5,193.5,2.0,2
+Bronx,Belmont,Private room,1. Corta (1 noche),51.333333333333336,42.5,1.0,6
+Bronx,Belmont,Private room,2. Corta-Media (2-3 noches),60.333333333333336,50.0,2.5555555555555554,9
+Bronx,Belmont,Private room,3. Semanal (4-7 noches),42.666666666666664,29.0,5.0,3
+Bronx,Belmont,Private room,5. Mensual / Larga (30+ noches),27.0,27.0,30.0,1
+Bronx,Belmont,Shared room,1. Corta (1 noche),79.5,79.5,1.0,2
+Bronx,Bronxdale,Entire home/apt,1. Corta (1 noche),75.0,75.0,1.0,3
+Bronx,Bronxdale,Entire home/apt,2. Corta-Media (2-3 noches),79.0,79.0,2.0,1
+Bronx,Bronxdale,Entire home/apt,3. Semanal (4-7 noches),79.0,78.0,6.25,4
+Bronx,Bronxdale,Private room,1. Corta (1 noche),42.5,42.5,1.0,4
+Bronx,Bronxdale,Private room,2. Corta-Media (2-3 noches),36.666666666666664,40.0,2.0,3
+Bronx,Bronxdale,Private room,3. Semanal (4-7 noches),42.666666666666664,43.0,4.666666666666667,3
+Bronx,Bronxdale,Shared room,1. Corta (1 noche),57.0,57.0,1.0,1
+Bronx,Castle Hill,Entire home/apt,2. Corta-Media (2-3 noches),93.5,92.0,2.5,4
+Bronx,Castle Hill,Private room,2. Corta-Media (2-3 noches),38.6,39.0,2.2,5
+Bronx,City Island,Entire home/apt,1. Corta (1 noche),565.0,600.0,1.0,3
+Bronx,City Island,Entire home/apt,2. Corta-Media (2-3 noches),111.625,110.0,2.25,8
+Bronx,City Island,Private room,1. Corta (1 noche),77.75,87.5,1.0,4
+Bronx,City Island,Private room,2. Corta-Media (2-3 noches),57.5,57.5,2.5,2
+Bronx,City Island,Private room,3. Semanal (4-7 noches),100.0,100.0,7.0,1
+Bronx,Claremont Village,Entire home/apt,2. Corta-Media (2-3 noches),169.5,115.0,2.5,4
+Bronx,Claremont Village,Entire home/apt,5. Mensual / Larga (30+ noches),91.5,91.0,90.0,4
+Bronx,Claremont Village,Private room,1. Corta (1 noche),81.14285714285714,55.0,1.0,7
+Bronx,Claremont Village,Private room,2. Corta-Media (2-3 noches),66.9,61.0,2.6,10
+Bronx,Claremont Village,Private room,3. Semanal (4-7 noches),65.0,65.0,4.0,2
+Bronx,Claremont Village,Private room,4. Quincenal (8-29 noches),38.0,38.0,15.0,1
+Bronx,Clason Point,Entire home/apt,1. Corta (1 noche),132.5,132.5,1.0,2
+Bronx,Clason Point,Entire home/apt,2. Corta-Media (2-3 noches),184.83333333333334,105.0,2.3333333333333335,6
+Bronx,Clason Point,Private room,1. Corta (1 noche),132.5,80.0,1.0,4
+Bronx,Clason Point,Private room,2. Corta-Media (2-3 noches),56.5,47.0,2.3333333333333335,6
+Bronx,Clason Point,Private room,3. Semanal (4-7 noches),40.0,40.0,7.0,1
+Bronx,Clason Point,Shared room,1. Corta (1 noche),42.5,42.5,1.0,2
+Bronx,Co-op City,Private room,2. Corta-Media (2-3 noches),77.5,77.5,2.5,2
+Bronx,Concourse,Entire home/apt,1. Corta (1 noche),123.33333333333333,110.0,1.0,6
+Bronx,Concourse,Entire home/apt,2. Corta-Media (2-3 noches),113.0,100.0,2.4545454545454546,11
+Bronx,Concourse,Entire home/apt,3. Semanal (4-7 noches),122.5,122.5,4.5,2
+Bronx,Concourse,Entire home/apt,5. Mensual / Larga (30+ noches),105.0,105.0,30.0,1
+Bronx,Concourse,Private room,1. Corta (1 noche),78.5625,52.0,1.0,16
+Bronx,Concourse,Private room,2. Corta-Media (2-3 noches),51.4,47.5,2.1,10
+Bronx,Concourse,Private room,3. Semanal (4-7 noches),51.25,44.0,5.25,4
+Bronx,Concourse Village,Entire home/apt,1. Corta (1 noche),124.66666666666667,140.0,1.0,3
+Bronx,Concourse Village,Entire home/apt,2. Corta-Media (2-3 noches),75.0,75.0,3.0,1
+Bronx,Concourse Village,Entire home/apt,3. Semanal (4-7 noches),111.75,116.0,4.75,4
+Bronx,Concourse Village,Entire home/apt,5. Mensual / Larga (30+ noches),90.0,90.0,30.0,1
+Bronx,Concourse Village,Private room,1. Corta (1 noche),59.55555555555556,57.0,1.0,9
+Bronx,Concourse Village,Private room,2. Corta-Media (2-3 noches),66.11111111111111,70.0,2.4444444444444446,9
+Bronx,Concourse Village,Private room,3. Semanal (4-7 noches),46.333333333333336,47.0,5.0,3
+Bronx,Concourse Village,Shared room,1. Corta (1 noche),52.5,52.5,1.0,2
+Bronx,East Morrisania,Entire home/apt,1. Corta (1 noche),126.66666666666667,120.0,1.0,3
+Bronx,East Morrisania,Private room,1. Corta (1 noche),91.66666666666667,80.0,1.0,3
+Bronx,East Morrisania,Private room,2. Corta-Media (2-3 noches),48.75,60.0,2.0,4
+Bronx,Eastchester,Entire home/apt,1. Corta (1 noche),182.5,182.5,1.0,2
+Bronx,Eastchester,Entire home/apt,2. Corta-Media (2-3 noches),258.5,227.0,2.0,4
+Bronx,Eastchester,Private room,1. Corta (1 noche),50.0,50.0,1.0,1
+Bronx,Eastchester,Private room,2. Corta-Media (2-3 noches),69.6,68.0,2.0,5
+Bronx,Eastchester,Shared room,1. Corta (1 noche),45.0,45.0,1.0,1
+Bronx,Edenwald,Entire home/apt,1. Corta (1 noche),42.0,42.0,1.0,1
+Bronx,Edenwald,Entire home/apt,2. Corta-Media (2-3 noches),92.25,85.0,2.75,4
+Bronx,Edenwald,Entire home/apt,4. Quincenal (8-29 noches),90.0,90.0,15.0,1
+Bronx,Edenwald,Private room,1. Corta (1 noche),86.25,77.5,1.0,4
+Bronx,Edenwald,Private room,2. Corta-Media (2-3 noches),73.33333333333333,75.0,3.0,3
+Bronx,Fieldston,Entire home/apt,1. Corta (1 noche),60.0,60.0,1.0,1
+Bronx,Fieldston,Entire home/apt,2. Corta-Media (2-3 noches),109.0,109.0,2.0,1
+Bronx,Fieldston,Entire home/apt,3. Semanal (4-7 noches),135.0,135.0,6.0,1
+Bronx,Fieldston,Entire home/apt,4. Quincenal (8-29 noches),95.0,95.0,14.0,1
+Bronx,Fieldston,Private room,1. Corta (1 noche),58.25,57.0,1.0,4
+Bronx,Fieldston,Private room,2. Corta-Media (2-3 noches),72.0,72.0,2.0,2
+Bronx,Fieldston,Private room,3. Semanal (4-7 noches),75.0,75.0,5.0,1
+Bronx,Fieldston,Shared room,1. Corta (1 noche),50.0,50.0,1.0,1
+Bronx,Fordham,Entire home/apt,1. Corta (1 noche),86.0,86.0,1.0,2
+Bronx,Fordham,Entire home/apt,2. Corta-Media (2-3 noches),133.8,100.0,2.3,10
+Bronx,Fordham,Entire home/apt,5. Mensual / Larga (30+ noches),71.0,71.0,90.0,1
+Bronx,Fordham,Private room,1. Corta (1 noche),62.7,56.0,1.0,10
+Bronx,Fordham,Private room,2. Corta-Media (2-3 noches),54.09090909090909,55.0,2.5454545454545454,33
+Bronx,Fordham,Private room,3. Semanal (4-7 noches),35.0,35.0,5.0,1
+Bronx,Fordham,Private room,4. Quincenal (8-29 noches),42.5,42.5,21.5,2
+Bronx,Fordham,Shared room,1. Corta (1 noche),69.0,55.0,1.0,3
+Bronx,Fordham,Shared room,3. Semanal (4-7 noches),55.0,55.0,7.0,1
+Bronx,Highbridge,Entire home/apt,1. Corta (1 noche),240.0,240.0,1.0,1
+Bronx,Highbridge,Entire home/apt,2. Corta-Media (2-3 noches),88.5,88.5,2.0,2
+Bronx,Highbridge,Entire home/apt,3. Semanal (4-7 noches),75.5,75.5,5.5,2
+Bronx,Highbridge,Entire home/apt,4. Quincenal (8-29 noches),115.0,115.0,14.0,1
+Bronx,Highbridge,Entire home/apt,5. Mensual / Larga (30+ noches),70.0,70.0,40.0,1
+Bronx,Highbridge,Private room,1. Corta (1 noche),51.666666666666664,52.5,1.0,6
+Bronx,Highbridge,Private room,2. Corta-Media (2-3 noches),62.75,63.5,2.25,12
+Bronx,Highbridge,Private room,3. Semanal (4-7 noches),52.0,52.0,4.5,2
+Bronx,Hunts Point,Entire home/apt,2. Corta-Media (2-3 noches),150.0,150.0,2.0,1
+Bronx,Hunts Point,Private room,1. Corta (1 noche),38.0,38.0,1.0,2
+Bronx,Hunts Point,Private room,2. Corta-Media (2-3 noches),49.0,45.0,2.2,5
+Bronx,Hunts Point,Private room,3. Semanal (4-7 noches),65.0,65.0,4.0,1
+Bronx,Hunts Point,Private room,4. Quincenal (8-29 noches),46.333333333333336,45.0,16.333333333333332,3
+Bronx,Hunts Point,Private room,5. Mensual / Larga (30+ noches),39.0,40.0,30.0,6
+Bronx,Kingsbridge,Entire home/apt,1. Corta (1 noche),153.0,175.0,1.0,3
+Bronx,Kingsbridge,Entire home/apt,2. Corta-Media (2-3 noches),132.23076923076923,100.0,2.5384615384615383,13
+Bronx,Kingsbridge,Entire home/apt,4. Quincenal (8-29 noches),47.0,47.0,26.0,1
+Bronx,Kingsbridge,Entire home/apt,5. Mensual / Larga (30+ noches),90.0,90.0,30.0,1
+Bronx,Kingsbridge,Private room,1. Corta (1 noche),62.142857142857146,62.5,1.0,14
+Bronx,Kingsbridge,Private room,2. Corta-Media (2-3 noches),66.82608695652173,69.0,2.5217391304347827,23
+Bronx,Kingsbridge,Private room,3. Semanal (4-7 noches),54.142857142857146,45.0,4.571428571428571,7
+Bronx,Kingsbridge,Private room,5. Mensual / Larga (30+ noches),45.4,40.0,30.0,5
+Bronx,Kingsbridge,Shared room,1. Corta (1 noche),35.0,35.0,1.0,1
+Bronx,Kingsbridge,Shared room,2. Corta-Media (2-3 noches),46.0,46.0,2.0,2
+Bronx,Longwood,Entire home/apt,1. Corta (1 noche),86.5,80.0,1.0,6
+Bronx,Longwood,Entire home/apt,2. Corta-Media (2-3 noches),121.125,120.0,2.375,8
+Bronx,Longwood,Entire home/apt,3. Semanal (4-7 noches),128.16666666666666,92.5,5.5,6
+Bronx,Longwood,Private room,1. Corta (1 noche),113.53846153846153,60.0,1.0,13
+Bronx,Longwood,Private room,2. Corta-Media (2-3 noches),68.34782608695652,65.0,2.3043478260869565,23
+Bronx,Longwood,Private room,3. Semanal (4-7 noches),66.25,65.0,5.0,4
+Bronx,Longwood,Private room,4. Quincenal (8-29 noches),44.0,44.0,20.0,1
+Bronx,Longwood,Shared room,1. Corta (1 noche),85.0,85.0,1.0,1
+Bronx,Melrose,Entire home/apt,2. Corta-Media (2-3 noches),94.33333333333333,99.0,2.0,3
+Bronx,Melrose,Entire home/apt,3. Semanal (4-7 noches),99.66666666666667,80.0,5.666666666666667,3
+Bronx,Melrose,Private room,1. Corta (1 noche),100.0,100.0,1.0,1
+Bronx,Melrose,Private room,2. Corta-Media (2-3 noches),50.333333333333336,49.0,2.3333333333333335,3
+Bronx,Morris Heights,Entire home/apt,1. Corta (1 noche),149.5,149.5,1.0,2
+Bronx,Morris Heights,Entire home/apt,2. Corta-Media (2-3 noches),42.0,42.0,2.0,1
+Bronx,Morris Heights,Entire home/apt,3. Semanal (4-7 noches),80.0,80.0,4.0,1
+Bronx,Morris Heights,Private room,1. Corta (1 noche),106.0,75.0,1.0,5
+Bronx,Morris Heights,Private room,2. Corta-Media (2-3 noches),48.142857142857146,50.0,2.4285714285714284,7
+Bronx,Morris Heights,Shared room,1. Corta (1 noche),20.0,20.0,1.0,1
+Bronx,Morris Park,Entire home/apt,1. Corta (1 noche),157.5,157.5,1.0,2
+Bronx,Morris Park,Entire home/apt,2. Corta-Media (2-3 noches),60.0,60.0,2.0,1
+Bronx,Morris Park,Entire home/apt,3. Semanal (4-7 noches),39.0,39.0,5.0,1
+Bronx,Morris Park,Private room,1. Corta (1 noche),39.333333333333336,39.0,1.0,3
+Bronx,Morris Park,Private room,2. Corta-Media (2-3 noches),54.0,54.0,3.0,2
+Bronx,Morris Park,Private room,3. Semanal (4-7 noches),72.0,75.0,5.0,5
+Bronx,Morris Park,Shared room,1. Corta (1 noche),40.0,40.0,1.0,1
+Bronx,Morrisania,Entire home/apt,1. Corta (1 noche),141.66666666666666,150.0,1.0,3
+Bronx,Morrisania,Entire home/apt,2. Corta-Media (2-3 noches),140.0,140.0,2.0,1
+Bronx,Morrisania,Entire home/apt,3. Semanal (4-7 noches),80.0,80.0,7.0,1
+Bronx,Morrisania,Private room,1. Corta (1 noche),60.0,60.0,1.0,2
+Bronx,Morrisania,Private room,2. Corta-Media (2-3 noches),65.5,55.0,2.0,6
+Bronx,Morrisania,Private room,3. Semanal (4-7 noches),55.0,55.0,5.5,2
+Bronx,Morrisania,Shared room,1. Corta (1 noche),78.0,77.0,1.0,3
+Bronx,Mott Haven,Entire home/apt,1. Corta (1 noche),122.4,130.0,1.0,5
+Bronx,Mott Haven,Entire home/apt,2. Corta-Media (2-3 noches),110.36842105263158,115.0,2.4210526315789473,19
+Bronx,Mott Haven,Entire home/apt,3. Semanal (4-7 noches),87.0,81.0,5.333333333333333,3
+Bronx,Mott Haven,Private room,1. Corta (1 noche),58.8,55.0,1.0,20
+Bronx,Mott Haven,Private room,2. Corta-Media (2-3 noches),66.16666666666667,64.5,2.3333333333333335,6
+Bronx,Mott Haven,Private room,3. Semanal (4-7 noches),48.666666666666664,42.0,5.0,6
+Bronx,Mott Haven,Private room,4. Quincenal (8-29 noches),500.0,500.0,10.0,1
+Bronx,Mount Eden,Entire home/apt,1. Corta (1 noche),150.0,150.0,1.0,1
+Bronx,Mount Eden,Private room,2. Corta-Media (2-3 noches),40.2,43.0,2.0,5
+Bronx,Mount Hope,Entire home/apt,1. Corta (1 noche),105.0,105.0,1.0,1
+Bronx,Mount Hope,Entire home/apt,2. Corta-Media (2-3 noches),134.33333333333334,117.0,2.3333333333333335,6
+Bronx,Mount Hope,Entire home/apt,3. Semanal (4-7 noches),60.0,60.0,5.0,1
+Bronx,Mount Hope,Entire home/apt,5. Mensual / Larga (30+ noches),54.0,54.0,90.0,2
+Bronx,Mount Hope,Private room,1. Corta (1 noche),50.5,50.0,1.0,4
+Bronx,Mount Hope,Private room,2. Corta-Media (2-3 noches),43.5,35.0,2.5,4
+Bronx,Mount Hope,Private room,4. Quincenal (8-29 noches),40.0,40.0,14.0,1
+Bronx,Mount Hope,Private room,5. Mensual / Larga (30+ noches),55.0,55.0,91.0,1
+Bronx,North Riverdale,Entire home/apt,2. Corta-Media (2-3 noches),105.0,105.0,2.0,1
+Bronx,North Riverdale,Entire home/apt,3. Semanal (4-7 noches),125.0,125.0,7.0,1
+Bronx,North Riverdale,Entire home/apt,5. Mensual / Larga (30+ noches),150.0,150.0,30.0,1
+Bronx,North Riverdale,Private room,1. Corta (1 noche),40.0,40.0,1.0,3
+Bronx,North Riverdale,Private room,2. Corta-Media (2-3 noches),83.0,77.0,2.3333333333333335,3
+Bronx,North Riverdale,Private room,5. Mensual / Larga (30+ noches),50.0,50.0,365.0,1
+Bronx,Norwood,Entire home/apt,1. Corta (1 noche),140.0,140.0,1.0,2
+Bronx,Norwood,Entire home/apt,2. Corta-Media (2-3 noches),125.0,125.0,3.0,1
+Bronx,Norwood,Entire home/apt,3. Semanal (4-7 noches),94.0,94.0,5.0,2
+Bronx,Norwood,Entire home/apt,4. Quincenal (8-29 noches),120.0,120.0,10.0,1
+Bronx,Norwood,Private room,1. Corta (1 noche),60.77777777777778,51.0,1.0,9
+Bronx,Norwood,Private room,2. Corta-Media (2-3 noches),84.55555555555556,56.0,2.4444444444444446,9
+Bronx,Norwood,Private room,3. Semanal (4-7 noches),52.4,51.0,5.4,5
+Bronx,Norwood,Private room,5. Mensual / Larga (30+ noches),26.0,26.0,30.0,1
+Bronx,Norwood,Shared room,2. Corta-Media (2-3 noches),33.0,33.0,2.0,1
+Bronx,Olinville,Private room,1. Corta (1 noche),125.0,125.0,1.0,1
+Bronx,Olinville,Private room,2. Corta-Media (2-3 noches),80.0,80.0,2.0,1
+Bronx,Olinville,Shared room,1. Corta (1 noche),26.0,26.0,1.0,1
+Bronx,Olinville,Shared room,5. Mensual / Larga (30+ noches),25.0,25.0,90.0,1
+Bronx,Parkchester,Entire home/apt,1. Corta (1 noche),94.0,94.0,1.0,2
+Bronx,Parkchester,Entire home/apt,2. Corta-Media (2-3 noches),96.33333333333333,85.0,2.6666666666666665,3
+Bronx,Parkchester,Entire home/apt,3. Semanal (4-7 noches),119.0,93.0,5.0,3
+Bronx,Parkchester,Entire home/apt,5. Mensual / Larga (30+ noches),70.0,70.0,93.0,1
+Bronx,Parkchester,Private room,1. Corta (1 noche),55.77777777777778,45.0,1.0,9
+Bronx,Parkchester,Private room,2. Corta-Media (2-3 noches),67.33333333333333,49.0,2.3333333333333335,15
+Bronx,Parkchester,Shared room,1. Corta (1 noche),39.0,36.0,1.0,3
+Bronx,Parkchester,Shared room,2. Corta-Media (2-3 noches),58.0,58.0,2.5,2
+Bronx,Parkchester,Shared room,3. Semanal (4-7 noches),45.0,45.0,7.0,1
+Bronx,Pelham Bay,Entire home/apt,1. Corta (1 noche),125.0,125.0,1.0,1
+Bronx,Pelham Bay,Entire home/apt,2. Corta-Media (2-3 noches),134.375,109.0,2.25,8
+Bronx,Pelham Bay,Entire home/apt,3. Semanal (4-7 noches),63.666666666666664,55.0,6.333333333333333,3
+Bronx,Pelham Bay,Private room,2. Corta-Media (2-3 noches),64.66666666666667,59.0,2.3333333333333335,3
+Bronx,Pelham Bay,Shared room,1. Corta (1 noche),100.0,100.0,1.0,2
+Bronx,Pelham Gardens,Entire home/apt,1. Corta (1 noche),117.0,102.0,1.0,3
+Bronx,Pelham Gardens,Entire home/apt,2. Corta-Media (2-3 noches),114.6923076923077,79.0,2.1538461538461537,13
+Bronx,Pelham Gardens,Entire home/apt,3. Semanal (4-7 noches),67.0,67.0,7.0,1
+Bronx,Pelham Gardens,Private room,1. Corta (1 noche),88.0,35.0,1.0,5
+Bronx,Pelham Gardens,Private room,2. Corta-Media (2-3 noches),44.666666666666664,47.0,2.0,3
+Bronx,Pelham Gardens,Private room,3. Semanal (4-7 noches),75.0,75.0,5.0,1
+Bronx,Pelham Gardens,Private room,4. Quincenal (8-29 noches),43.0,43.0,20.0,1
+Bronx,Pelham Gardens,Shared room,1. Corta (1 noche),20.0,20.0,1.0,1
+Bronx,Port Morris,Entire home/apt,1. Corta (1 noche),100.0,100.0,1.0,1
+Bronx,Port Morris,Entire home/apt,2. Corta-Media (2-3 noches),112.6,110.0,2.2,5
+Bronx,Port Morris,Entire home/apt,3. Semanal (4-7 noches),134.5,118.5,4.333333333333333,6
+Bronx,Port Morris,Entire home/apt,4. Quincenal (8-29 noches),117.5,117.5,14.0,2
+Bronx,Port Morris,Entire home/apt,5. Mensual / Larga (30+ noches),180.0,180.0,30.0,2
+Bronx,Port Morris,Private room,1. Corta (1 noche),145.0,145.0,1.0,1
+Bronx,Port Morris,Private room,2. Corta-Media (2-3 noches),65.18181818181819,50.0,2.5454545454545454,11
+Bronx,Port Morris,Private room,3. Semanal (4-7 noches),71.0,71.0,4.0,1
+Bronx,Port Morris,Private room,4. Quincenal (8-29 noches),60.0,60.0,21.0,1
+Bronx,Port Morris,Shared room,1. Corta (1 noche),30.133333333333333,28.0,1.0,15
+Bronx,Port Morris,Shared room,2. Corta-Media (2-3 noches),165.0,165.0,2.0,1
+Bronx,Riverdale,Entire home/apt,1. Corta (1 noche),85.0,85.0,1.0,1
+Bronx,Riverdale,Entire home/apt,2. Corta-Media (2-3 noches),141.33333333333334,150.0,2.6666666666666665,3
+Bronx,Riverdale,Entire home/apt,3. Semanal (4-7 noches),250.0,250.0,7.0,1
+Bronx,Riverdale,Entire home/apt,5. Mensual / Larga (30+ noches),90.0,90.0,30.0,1
+Bronx,Riverdale,Private room,1. Corta (1 noche),65.0,65.0,1.0,1
+Bronx,Riverdale,Private room,2. Corta-Media (2-3 noches),1550.0,1550.0,2.0,2
+Bronx,Riverdale,Private room,3. Semanal (4-7 noches),49.0,49.0,6.0,1
+Bronx,Riverdale,Shared room,2. Corta-Media (2-3 noches),800.0,800.0,2.0,1
+Bronx,Schuylerville,Entire home/apt,2. Corta-Media (2-3 noches),85.33333333333333,85.0,2.3333333333333335,3
+Bronx,Schuylerville,Private room,1. Corta (1 noche),85.25,65.5,1.0,4
+Bronx,Schuylerville,Private room,2. Corta-Media (2-3 noches),77.5,77.5,2.0,2
+Bronx,Schuylerville,Private room,3. Semanal (4-7 noches),42.666666666666664,42.0,4.0,3
+Bronx,Schuylerville,Shared room,1. Corta (1 noche),20.0,20.0,1.0,1
+Bronx,Soundview,Entire home/apt,1. Corta (1 noche),62.333333333333336,50.0,1.0,3
+Bronx,Soundview,Entire home/apt,2. Corta-Media (2-3 noches),81.5,81.5,2.0,2
+Bronx,Soundview,Private room,1. Corta (1 noche),45.0,45.0,1.0,1
+Bronx,Soundview,Private room,2. Corta-Media (2-3 noches),42.75,45.0,2.125,8
+Bronx,Soundview,Private room,3. Semanal (4-7 noches),65.0,65.0,7.0,1
+Bronx,Spuyten Duyvil,Entire home/apt,2. Corta-Media (2-3 noches),240.0,240.0,2.0,2
+Bronx,Spuyten Duyvil,Entire home/apt,5. Mensual / Larga (30+ noches),79.0,79.0,186.0,1
+Bronx,Spuyten Duyvil,Private room,2. Corta-Media (2-3 noches),60.0,60.0,3.0,1
+Bronx,Throgs Neck,Entire home/apt,1. Corta (1 noche),88.0,89.0,1.0,3
+Bronx,Throgs Neck,Entire home/apt,2. Corta-Media (2-3 noches),134.125,100.0,2.375,8
+Bronx,Throgs Neck,Private room,1. Corta (1 noche),74.875,62.5,1.0,8
+Bronx,Throgs Neck,Private room,2. Corta-Media (2-3 noches),52.25,47.5,3.0,4
+Bronx,Throgs Neck,Private room,3. Semanal (4-7 noches),40.0,40.0,4.0,1
+Bronx,Tremont,Entire home/apt,1. Corta (1 noche),109.0,109.0,1.0,2
+Bronx,Tremont,Entire home/apt,2. Corta-Media (2-3 noches),40.0,40.0,2.0,1
+Bronx,Tremont,Private room,2. Corta-Media (2-3 noches),38.6,38.0,2.4,5
+Bronx,Tremont,Private room,3. Semanal (4-7 noches),41.0,41.0,7.0,1
+Bronx,Tremont,Shared room,1. Corta (1 noche),50.0,50.0,1.0,1
+Bronx,Tremont,Shared room,2. Corta-Media (2-3 noches),25.0,25.0,2.0,1
+Bronx,Unionport,Entire home/apt,2. Corta-Media (2-3 noches),183.75,100.0,2.0,4
+Bronx,Unionport,Private room,1. Corta (1 noche),67.5,67.5,1.0,2
+Bronx,Unionport,Private room,3. Semanal (4-7 noches),90.0,90.0,7.0,1
+Bronx,University Heights,Entire home/apt,1. Corta (1 noche),135.0,135.0,1.0,2
+Bronx,University Heights,Entire home/apt,2. Corta-Media (2-3 noches),175.0,175.0,2.0,1
+Bronx,University Heights,Entire home/apt,3. Semanal (4-7 noches),105.0,105.0,6.0,2
+Bronx,University Heights,Private room,1. Corta (1 noche),60.0,60.0,1.0,3
+Bronx,University Heights,Private room,2. Corta-Media (2-3 noches),50.9,46.0,2.6,10
+Bronx,University Heights,Private room,3. Semanal (4-7 noches),38.5,38.5,4.5,2
+Bronx,University Heights,Shared room,1. Corta (1 noche),40.0,40.0,1.0,1
+Bronx,Van Nest,Entire home/apt,1. Corta (1 noche),185.66666666666666,150.0,1.0,3
+Bronx,Van Nest,Entire home/apt,2. Corta-Media (2-3 noches),100.0,100.0,2.0,1
+Bronx,Van Nest,Entire home/apt,3. Semanal (4-7 noches),425.0,425.0,5.0,1
+Bronx,Van Nest,Private room,1. Corta (1 noche),50.0,50.0,1.0,1
+Bronx,Van Nest,Private room,2. Corta-Media (2-3 noches),35.0,35.0,3.0,1
+Bronx,Van Nest,Private room,5. Mensual / Larga (30+ noches),25.0,25.0,30.0,1
+Bronx,Van Nest,Shared room,4. Quincenal (8-29 noches),20.0,20.0,11.333333333333334,3
+Bronx,Wakefield,Entire home/apt,1. Corta (1 noche),79.0,79.0,1.0,2
+Bronx,Wakefield,Entire home/apt,2. Corta-Media (2-3 noches),178.0909090909091,120.0,2.272727272727273,11
+Bronx,Wakefield,Entire home/apt,3. Semanal (4-7 noches),81.5,81.5,6.0,2
+Bronx,Wakefield,Entire home/apt,4. Quincenal (8-29 noches),77.0,77.0,20.5,2
+Bronx,Wakefield,Entire home/apt,5. Mensual / Larga (30+ noches),75.0,75.0,30.0,1
+Bronx,Wakefield,Private room,1. Corta (1 noche),51.388888888888886,47.0,1.0,18
+Bronx,Wakefield,Private room,2. Corta-Media (2-3 noches),63.54545454545455,50.0,2.090909090909091,11
+Bronx,Wakefield,Private room,3. Semanal (4-7 noches),45.5,45.5,7.0,2
+Bronx,Wakefield,Shared room,1. Corta (1 noche),55.0,55.0,1.0,1
+Bronx,West Farms,Entire home/apt,2. Corta-Media (2-3 noches),165.0,165.0,2.0,1
+Bronx,West Farms,Private room,1. Corta (1 noche),79.0,79.0,1.0,1
+Bronx,Westchester Square,Entire home/apt,1. Corta (1 noche),372.5,372.5,1.0,2
+Bronx,Westchester Square,Entire home/apt,2. Corta-Media (2-3 noches),71.0,71.0,2.0,2
+Bronx,Westchester Square,Private room,1. Corta (1 noche),51.5,51.5,1.0,2
+Bronx,Westchester Square,Private room,2. Corta-Media (2-3 noches),60.0,65.0,2.3333333333333335,3
+Bronx,Westchester Square,Private room,3. Semanal (4-7 noches),52.0,52.0,4.0,1
+Bronx,Williamsbridge,Entire home/apt,1. Corta (1 noche),161.66666666666666,200.0,1.0,3
+Bronx,Williamsbridge,Entire home/apt,2. Corta-Media (2-3 noches),161.92307692307693,95.0,2.1538461538461537,13
+Bronx,Williamsbridge,Entire home/apt,3. Semanal (4-7 noches),63.0,63.0,5.0,1
+Bronx,Williamsbridge,Entire home/apt,5. Mensual / Larga (30+ noches),82.5,82.5,30.0,2
+Bronx,Williamsbridge,Private room,1. Corta (1 noche),50.833333333333336,50.0,1.0,6
+Bronx,Williamsbridge,Private room,2. Corta-Media (2-3 noches),53.333333333333336,41.0,2.5555555555555554,9
+Bronx,Williamsbridge,Private room,3. Semanal (4-7 noches),49.5,49.5,5.0,2
+Bronx,Williamsbridge,Private room,4. Quincenal (8-29 noches),47.666666666666664,45.0,23.333333333333332,3
+Bronx,Williamsbridge,Private room,5. Mensual / Larga (30+ noches),25.0,25.0,30.0,1
+Bronx,Woodlawn,Entire home/apt,1. Corta (1 noche),71.0,71.0,1.0,2
+Bronx,Woodlawn,Entire home/apt,2. Corta-Media (2-3 noches),60.0,60.0,2.0,2
+Bronx,Woodlawn,Private room,1. Corta (1 noche),45.25,42.0,1.0,4
+Bronx,Woodlawn,Private room,2. Corta-Media (2-3 noches),74.0,74.0,2.0,2
+Bronx,Woodlawn,Shared room,2. Corta-Media (2-3 noches),70.0,70.0,2.0,1
+Brooklyn,Bath Beach,Entire home/apt,1. Corta (1 noche),117.5,117.5,1.0,2
+Brooklyn,Bath Beach,Entire home/apt,2. Corta-Media (2-3 noches),118.4,99.0,2.4,5
+Brooklyn,Bath Beach,Private room,1. Corta (1 noche),79.5,79.5,1.0,2
+Brooklyn,Bath Beach,Private room,2. Corta-Media (2-3 noches),56.5,54.0,2.0,4
+Brooklyn,Bath Beach,Private room,3. Semanal (4-7 noches),44.5,47.5,4.5,4
+Brooklyn,Bay Ridge,Entire home/apt,1. Corta (1 noche),151.58823529411765,119.0,1.0,17
+Brooklyn,Bay Ridge,Entire home/apt,2. Corta-Media (2-3 noches),140.37037037037038,120.0,2.4444444444444446,27
+Brooklyn,Bay Ridge,Entire home/apt,3. Semanal (4-7 noches),127.53846153846153,125.0,5.461538461538462,13
+Brooklyn,Bay Ridge,Entire home/apt,4. Quincenal (8-29 noches),124.71428571428571,130.0,20.0,7
+Brooklyn,Bay Ridge,Entire home/apt,5. Mensual / Larga (30+ noches),1045.8333333333333,75.0,40.0,6
+Brooklyn,Bay Ridge,Private room,1. Corta (1 noche),90.17241379310344,65.0,1.0,29
+Brooklyn,Bay Ridge,Private room,2. Corta-Media (2-3 noches),68.5,64.0,2.4375,16
+Brooklyn,Bay Ridge,Private room,3. Semanal (4-7 noches),65.14285714285714,75.0,5.0,7
+Brooklyn,Bay Ridge,Private room,4. Quincenal (8-29 noches),44.75,44.5,16.75,4
+Brooklyn,Bay Ridge,Private room,5. Mensual / Larga (30+ noches),56.111111111111114,65.0,74.0,9
+Brooklyn,Bay Ridge,Shared room,2. Corta-Media (2-3 noches),225.0,225.0,3.0,1
+Brooklyn,Bay Ridge,Shared room,3. Semanal (4-7 noches),22.0,22.0,5.0,2
+Brooklyn,Bay Ridge,Shared room,4. Quincenal (8-29 noches),24.0,24.0,10.333333333333334,3
+Brooklyn,Bedford-Stuyvesant,Entire home/apt,1. Corta (1 noche),177.0097087378641,125.0,1.0,206
+Brooklyn,Bedford-Stuyvesant,Entire home/apt,2. Corta-Media (2-3 noches),156.08380520951303,130.0,2.4416761041902606,883
+Brooklyn,Bedford-Stuyvesant,Entire home/apt,3. Semanal (4-7 noches),151.1807580174927,130.0,4.938775510204081,343
+Brooklyn,Bedford-Stuyvesant,Entire home/apt,4. Quincenal (8-29 noches),122.6986301369863,115.0,16.835616438356166,73
+Brooklyn,Bedford-Stuyvesant,Entire home/apt,5. Mensual / Larga (30+ noches),129.74418604651163,107.5,40.83720930232558,86
+Brooklyn,Bedford-Stuyvesant,Private room,1. Corta (1 noche),76.32323232323232,60.0,1.0,594
+Brooklyn,Bedford-Stuyvesant,Private room,2. Corta-Media (2-3 noches),70.18139534883721,60.0,2.3360465116279068,860
+Brooklyn,Bedford-Stuyvesant,Private room,3. Semanal (4-7 noches),76.08196721311475,55.0,5.252459016393443,305
+Brooklyn,Bedford-Stuyvesant,Private room,4. Quincenal (8-29 noches),62.925619834710744,46.0,15.71900826446281,121
+Brooklyn,Bedford-Stuyvesant,Private room,5. Mensual / Larga (30+ noches),81.44303797468355,50.0,36.278481012658226,158
+Brooklyn,Bedford-Stuyvesant,Shared room,1. Corta (1 noche),65.56756756756756,35.0,1.0,37
+Brooklyn,Bedford-Stuyvesant,Shared room,2. Corta-Media (2-3 noches),45.625,38.0,2.4583333333333335,24
+Brooklyn,Bedford-Stuyvesant,Shared room,3. Semanal (4-7 noches),33.44444444444444,35.0,5.111111111111111,9
+Brooklyn,Bedford-Stuyvesant,Shared room,4. Quincenal (8-29 noches),31.285714285714285,30.0,15.857142857142858,7
+Brooklyn,Bedford-Stuyvesant,Shared room,5. Mensual / Larga (30+ noches),30.125,32.0,30.125,8
+Brooklyn,Bensonhurst,Entire home/apt,1. Corta (1 noche),82.4,88.0,1.0,5
+Brooklyn,Bensonhurst,Entire home/apt,2. Corta-Media (2-3 noches),102.55555555555556,113.0,2.5,18
+Brooklyn,Bensonhurst,Entire home/apt,3. Semanal (4-7 noches),117.5,117.5,5.5,2
+Brooklyn,Bensonhurst,Entire home/apt,4. Quincenal (8-29 noches),62.0,62.0,23.0,1
+Brooklyn,Bensonhurst,Entire home/apt,5. Mensual / Larga (30+ noches),118.75,99.5,30.0,4
+Brooklyn,Bensonhurst,Private room,1. Corta (1 noche),63.7,59.5,1.0,10
+Brooklyn,Bensonhurst,Private room,2. Corta-Media (2-3 noches),63.78260869565217,65.0,2.3043478260869565,23
+Brooklyn,Bensonhurst,Private room,3. Semanal (4-7 noches),49.166666666666664,39.5,5.5,6
+Brooklyn,Bensonhurst,Private room,4. Quincenal (8-29 noches),37.0,40.0,11.0,3
+Brooklyn,Bensonhurst,Private room,5. Mensual / Larga (30+ noches),50.0,50.0,30.0,1
+Brooklyn,Bensonhurst,Shared room,1. Corta (1 noche),79.0,79.0,1.0,1
+Brooklyn,Bensonhurst,Shared room,4. Quincenal (8-29 noches),15.0,15.0,10.0,1
+Brooklyn,Bergen Beach,Entire home/apt,2. Corta-Media (2-3 noches),81.5,90.0,2.5,4
+Brooklyn,Bergen Beach,Entire home/apt,3. Semanal (4-7 noches),145.0,115.0,4.333333333333333,3
+Brooklyn,Bergen Beach,Entire home/apt,5. Mensual / Larga (30+ noches),121.0,121.0,30.0,1
+Brooklyn,Bergen Beach,Private room,2. Corta-Media (2-3 noches),85.0,85.0,3.0,1
+Brooklyn,Bergen Beach,Private room,3. Semanal (4-7 noches),100.0,100.0,5.0,1
+Brooklyn,Boerum Hill,Entire home/apt,1. Corta (1 noche),218.07692307692307,168.0,1.0,13
+Brooklyn,Boerum Hill,Entire home/apt,2. Corta-Media (2-3 noches),198.1206896551724,170.0,2.413793103448276,58
+Brooklyn,Boerum Hill,Entire home/apt,3. Semanal (4-7 noches),222.40540540540542,165.0,5.027027027027027,37
+Brooklyn,Boerum Hill,Entire home/apt,4. Quincenal (8-29 noches),199.5,172.5,17.0,12
+Brooklyn,Boerum Hill,Entire home/apt,5. Mensual / Larga (30+ noches),167.1875,128.5,39.375,16
+Brooklyn,Boerum Hill,Private room,1. Corta (1 noche),88.77272727272727,73.0,1.0,22
+Brooklyn,Boerum Hill,Private room,2. Corta-Media (2-3 noches),74.2,65.0,2.4,10
+Brooklyn,Boerum Hill,Private room,3. Semanal (4-7 noches),117.2,100.0,5.4,5
+Brooklyn,Boerum Hill,Private room,4. Quincenal (8-29 noches),67.5,67.5,17.5,2
+Brooklyn,Boerum Hill,Private room,5. Mensual / Larga (30+ noches),89.0,89.0,90.0,1
+Brooklyn,Boerum Hill,Shared room,1. Corta (1 noche),47.0,47.0,1.0,1
+Brooklyn,Borough Park,Entire home/apt,1. Corta (1 noche),95.4,73.0,1.0,5
+Brooklyn,Borough Park,Entire home/apt,2. Corta-Media (2-3 noches),130.66666666666666,115.0,2.25,12
+Brooklyn,Borough Park,Entire home/apt,3. Semanal (4-7 noches),113.75,93.0,5.5,4
+Brooklyn,Borough Park,Entire home/apt,4. Quincenal (8-29 noches),96.2,96.0,14.0,5
+Brooklyn,Borough Park,Private room,1. Corta (1 noche),51.54237288135593,54.0,1.0,59
+Brooklyn,Borough Park,Private room,2. Corta-Media (2-3 noches),54.592592592592595,50.0,2.3703703703703702,27
+Brooklyn,Borough Park,Private room,3. Semanal (4-7 noches),87.0,65.0,5.5,4
+Brooklyn,Borough Park,Private room,4. Quincenal (8-29 noches),45.5,45.5,18.5,2
+Brooklyn,Borough Park,Private room,5. Mensual / Larga (30+ noches),40.0,40.0,30.0,2
+Brooklyn,Borough Park,Shared room,1. Corta (1 noche),34.42857142857143,35.0,1.0,7
+Brooklyn,Borough Park,Shared room,2. Corta-Media (2-3 noches),37.5,37.5,2.75,4
+Brooklyn,Borough Park,Shared room,3. Semanal (4-7 noches),30.25,30.0,5.0,4
+Brooklyn,Borough Park,Shared room,5. Mensual / Larga (30+ noches),50.0,50.0,30.0,1
+Brooklyn,Brighton Beach,Entire home/apt,1. Corta (1 noche),106.0909090909091,99.0,1.0,11
+Brooklyn,Brighton Beach,Entire home/apt,2. Corta-Media (2-3 noches),140.42857142857142,133.5,2.2857142857142856,14
+Brooklyn,Brighton Beach,Entire home/apt,3. Semanal (4-7 noches),131.5,137.5,5.833333333333333,6
+Brooklyn,Brighton Beach,Entire home/apt,4. Quincenal (8-29 noches),68.0,68.0,25.0,1
+Brooklyn,Brighton Beach,Entire home/apt,5. Mensual / Larga (30+ noches),89.0,84.0,30.0,3
+Brooklyn,Brighton Beach,Private room,1. Corta (1 noche),206.95238095238096,65.0,1.0,21
+Brooklyn,Brighton Beach,Private room,2. Corta-Media (2-3 noches),75.2,75.5,2.5,10
+Brooklyn,Brighton Beach,Private room,5. Mensual / Larga (30+ noches),62.5,62.5,45.5,2
+Brooklyn,Brighton Beach,Shared room,1. Corta (1 noche),52.5,50.0,1.0,6
+Brooklyn,Brighton Beach,Shared room,2. Corta-Media (2-3 noches),100.0,100.0,3.0,1
+Brooklyn,Brooklyn Heights,Entire home/apt,1. Corta (1 noche),214.1875,152.5,1.0,16
+Brooklyn,Brooklyn Heights,Entire home/apt,2. Corta-Media (2-3 noches),247.92727272727274,180.0,2.5272727272727273,55
+Brooklyn,Brooklyn Heights,Entire home/apt,3. Semanal (4-7 noches),196.72222222222223,185.0,5.25,36
+Brooklyn,Brooklyn Heights,Entire home/apt,4. Quincenal (8-29 noches),218.3,149.5,13.7,10
+Brooklyn,Brooklyn Heights,Entire home/apt,5. Mensual / Larga (30+ noches),152.11111111111111,150.0,53.44444444444444,9
+Brooklyn,Brooklyn Heights,Private room,1. Corta (1 noche),251.27272727272728,120.0,1.0,11
+Brooklyn,Brooklyn Heights,Private room,2. Corta-Media (2-3 noches),120.08333333333333,114.5,2.3333333333333335,12
+Brooklyn,Brooklyn Heights,Private room,3. Semanal (4-7 noches),64.5,64.5,7.0,2
+Brooklyn,Brooklyn Heights,Private room,4. Quincenal (8-29 noches),60.0,60.0,12.0,2
+Brooklyn,Brooklyn Heights,Private room,5. Mensual / Larga (30+ noches),45.0,45.0,120.0,1
+Brooklyn,Brownsville,Entire home/apt,1. Corta (1 noche),95.0,95.0,1.0,2
+Brooklyn,Brownsville,Entire home/apt,2. Corta-Media (2-3 noches),128.0,100.0,2.230769230769231,13
+Brooklyn,Brownsville,Entire home/apt,3. Semanal (4-7 noches),120.0,100.0,5.0,3
+Brooklyn,Brownsville,Entire home/apt,4. Quincenal (8-29 noches),49.0,49.0,14.0,1
+Brooklyn,Brownsville,Private room,1. Corta (1 noche),53.857142857142854,50.0,1.0,14
+Brooklyn,Brownsville,Private room,2. Corta-Media (2-3 noches),61.68421052631579,59.0,2.263157894736842,19
+Brooklyn,Brownsville,Private room,3. Semanal (4-7 noches),53.875,50.0,4.625,8
+Brooklyn,Brownsville,Private room,4. Quincenal (8-29 noches),44.0,44.0,9.0,1
+Brooklyn,Bushwick,Entire home/apt,1. Corta (1 noche),152.989898989899,125.0,1.0,99
+Brooklyn,Bushwick,Entire home/apt,2. Corta-Media (2-3 noches),151.22888283378745,130.0,2.4250681198910082,367
+Brooklyn,Bushwick,Entire home/apt,3. Semanal (4-7 noches),139.65972222222223,120.0,5.0625,144
+Brooklyn,Bushwick,Entire home/apt,4. Quincenal (8-29 noches),113.1923076923077,100.0,17.346153846153847,26
+Brooklyn,Bushwick,Entire home/apt,5. Mensual / Larga (30+ noches),122.4047619047619,114.0,49.04761904761905,42
+Brooklyn,Bushwick,Private room,1. Corta (1 noche),62.194392523364485,58.0,1.0,535
+Brooklyn,Bushwick,Private room,2. Corta-Media (2-3 noches),63.88500727802038,60.0,2.3726346433770016,687
+Brooklyn,Bushwick,Private room,3. Semanal (4-7 noches),64.71428571428571,50.0,5.2821428571428575,280
+Brooklyn,Bushwick,Private room,4. Quincenal (8-29 noches),60.527272727272724,50.0,15.263636363636364,110
+Brooklyn,Bushwick,Private room,5. Mensual / Larga (30+ noches),53.345794392523366,50.0,35.67289719626168,107
+Brooklyn,Bushwick,Shared room,1. Corta (1 noche),46.95238095238095,45.0,1.0,21
+Brooklyn,Bushwick,Shared room,2. Corta-Media (2-3 noches),38.2,42.0,2.4,5
+Brooklyn,Bushwick,Shared room,3. Semanal (4-7 noches),32.875,25.0,4.25,8
+Brooklyn,Bushwick,Shared room,5. Mensual / Larga (30+ noches),32.411764705882355,35.0,30.0,34
+Brooklyn,Canarsie,Entire home/apt,1. Corta (1 noche),113.29411764705883,100.0,1.0,17
+Brooklyn,Canarsie,Entire home/apt,2. Corta-Media (2-3 noches),128.38,110.0,2.32,50
+Brooklyn,Canarsie,Entire home/apt,3. Semanal (4-7 noches),167.25,116.5,5.125,8
+Brooklyn,Canarsie,Private room,1. Corta (1 noche),72.17391304347827,65.0,1.0,23
+Brooklyn,Canarsie,Private room,2. Corta-Media (2-3 noches),95.38888888888889,66.5,2.2777777777777777,36
+Brooklyn,Canarsie,Private room,3. Semanal (4-7 noches),43.75,39.0,4.666666666666667,12
+Brooklyn,Canarsie,Shared room,2. Corta-Media (2-3 noches),40.0,40.0,2.0,1
+Brooklyn,Carroll Gardens,Entire home/apt,1. Corta (1 noche),215.2608695652174,150.0,1.0,23
+Brooklyn,Carroll Gardens,Entire home/apt,2. Corta-Media (2-3 noches),186.3783783783784,173.5,2.3513513513513513,74
+Brooklyn,Carroll Gardens,Entire home/apt,3. Semanal (4-7 noches),214.9718309859155,157.0,5.112676056338028,71
+Brooklyn,Carroll Gardens,Entire home/apt,4. Quincenal (8-29 noches),141.0,125.0,17.166666666666668,6
+Brooklyn,Carroll Gardens,Entire home/apt,5. Mensual / Larga (30+ noches),176.25,160.0,33.75,8
+Brooklyn,Carroll Gardens,Private room,1. Corta (1 noche),76.93333333333334,75.0,1.0,15
+Brooklyn,Carroll Gardens,Private room,2. Corta-Media (2-3 noches),100.55555555555556,80.0,2.2222222222222223,27
+Brooklyn,Carroll Gardens,Private room,3. Semanal (4-7 noches),97.125,82.0,4.625,8
+Brooklyn,Carroll Gardens,Private room,4. Quincenal (8-29 noches),80.0,80.0,21.0,1
+Brooklyn,Clinton Hill,Entire home/apt,1. Corta (1 noche),601.1489361702128,150.0,1.0,47
+Brooklyn,Clinton Hill,Entire home/apt,2. Corta-Media (2-3 noches),192.11801242236024,150.0,2.5093167701863353,161
+Brooklyn,Clinton Hill,Entire home/apt,3. Semanal (4-7 noches),199.34408602150538,150.0,5.247311827956989,93
+Brooklyn,Clinton Hill,Entire home/apt,4. Quincenal (8-29 noches),150.34375,125.0,15.375,32
+Brooklyn,Clinton Hill,Entire home/apt,5. Mensual / Larga (30+ noches),144.84615384615384,155.0,55.76923076923077,13
+Brooklyn,Clinton Hill,Private room,1. Corta (1 noche),107.01754385964912,75.0,1.0,57
+Brooklyn,Clinton Hill,Private room,2. Corta-Media (2-3 noches),84.22619047619048,75.0,2.4047619047619047,84
+Brooklyn,Clinton Hill,Private room,3. Semanal (4-7 noches),76.43478260869566,69.0,5.565217391304348,46
+Brooklyn,Clinton Hill,Private room,4. Quincenal (8-29 noches),66.16666666666667,57.5,16.833333333333332,12
+Brooklyn,Clinton Hill,Private room,5. Mensual / Larga (30+ noches),94.38888888888889,90.0,52.0,18
+Brooklyn,Clinton Hill,Shared room,1. Corta (1 noche),41.4,40.0,1.0,5
+Brooklyn,Clinton Hill,Shared room,2. Corta-Media (2-3 noches),72.0,72.0,2.5,2
+Brooklyn,Clinton Hill,Shared room,3. Semanal (4-7 noches),45.0,45.0,4.5,2
+Brooklyn,Cobble Hill,Entire home/apt,1. Corta (1 noche),197.83333333333334,147.5,1.0,12
+Brooklyn,Cobble Hill,Entire home/apt,2. Corta-Media (2-3 noches),178.6206896551724,170.0,2.3793103448275863,29
+Brooklyn,Cobble Hill,Entire home/apt,3. Semanal (4-7 noches),313.9130434782609,195.0,5.130434782608695,23
+Brooklyn,Cobble Hill,Entire home/apt,4. Quincenal (8-29 noches),272.6666666666667,275.0,13.0,3
+Brooklyn,Cobble Hill,Entire home/apt,5. Mensual / Larga (30+ noches),183.1,173.0,33.2,10
+Brooklyn,Cobble Hill,Private room,1. Corta (1 noche),81.5,76.0,1.0,4
+Brooklyn,Cobble Hill,Private room,2. Corta-Media (2-3 noches),91.0,82.5,2.4,10
+Brooklyn,Cobble Hill,Private room,3. Semanal (4-7 noches),79.25,80.0,6.25,4
+Brooklyn,Cobble Hill,Private room,4. Quincenal (8-29 noches),92.5,92.5,9.0,2
+Brooklyn,Cobble Hill,Private room,5. Mensual / Larga (30+ noches),910.0,910.0,45.0,2
+Brooklyn,Columbia St,Entire home/apt,1. Corta (1 noche),319.6,144.0,1.0,5
+Brooklyn,Columbia St,Entire home/apt,2. Corta-Media (2-3 noches),162.2,149.0,2.466666666666667,15
+Brooklyn,Columbia St,Entire home/apt,3. Semanal (4-7 noches),179.75,149.5,5.125,8
+Brooklyn,Columbia St,Entire home/apt,4. Quincenal (8-29 noches),112.5,112.5,11.5,2
+Brooklyn,Columbia St,Entire home/apt,5. Mensual / Larga (30+ noches),125.66666666666667,110.0,30.0,3
+Brooklyn,Columbia St,Private room,1. Corta (1 noche),131.5,131.5,1.0,2
+Brooklyn,Columbia St,Private room,2. Corta-Media (2-3 noches),66.66666666666667,60.0,2.3333333333333335,3
+Brooklyn,Columbia St,Private room,3. Semanal (4-7 noches),77.5,75.0,5.5,4
+Brooklyn,Coney Island,Entire home/apt,1. Corta (1 noche),320.0,320.0,1.0,2
+Brooklyn,Coney Island,Entire home/apt,2. Corta-Media (2-3 noches),106.8,110.0,2.2,5
+Brooklyn,Coney Island,Entire home/apt,3. Semanal (4-7 noches),125.0,125.0,5.5,2
+Brooklyn,Coney Island,Entire home/apt,4. Quincenal (8-29 noches),70.0,70.0,21.0,1
+Brooklyn,Coney Island,Private room,1. Corta (1 noche),160.0,95.0,1.0,3
+Brooklyn,Coney Island,Shared room,2. Corta-Media (2-3 noches),37.5,37.5,2.5,2
+Brooklyn,Coney Island,Shared room,3. Semanal (4-7 noches),25.0,25.0,5.0,1
+Brooklyn,Coney Island,Shared room,4. Quincenal (8-29 noches),29.0,29.0,18.0,1
+Brooklyn,Crown Heights,Entire home/apt,1. Corta (1 noche),178.0462962962963,125.0,1.0,108
+Brooklyn,Crown Heights,Entire home/apt,2. Corta-Media (2-3 noches),163.36125654450262,130.0,2.4659685863874348,382
+Brooklyn,Crown Heights,Entire home/apt,3. Semanal (4-7 noches),142.41968911917098,119.0,5.010362694300518,193
+Brooklyn,Crown Heights,Entire home/apt,4. Quincenal (8-29 noches),118.96875,97.0,17.5625,32
+Brooklyn,Crown Heights,Entire home/apt,5. Mensual / Larga (30+ noches),187.11363636363637,112.5,46.97727272727273,44
+Brooklyn,Crown Heights,Private room,1. Corta (1 noche),68.859375,64.0,1.0,256
+Brooklyn,Crown Heights,Private room,2. Corta-Media (2-3 noches),71.21107266435986,60.0,2.356401384083045,289
+Brooklyn,Crown Heights,Private room,3. Semanal (4-7 noches),65.85135135135135,54.5,5.412162162162162,148
+Brooklyn,Crown Heights,Private room,4. Quincenal (8-29 noches),52.13461538461539,45.0,15.346153846153847,52
+Brooklyn,Crown Heights,Private room,5. Mensual / Larga (30+ noches),80.62857142857143,55.0,43.885714285714286,35
+Brooklyn,Crown Heights,Shared room,1. Corta (1 noche),61.90909090909091,50.0,1.0,11
+Brooklyn,Crown Heights,Shared room,2. Corta-Media (2-3 noches),47.0,45.0,2.0,10
+Brooklyn,Crown Heights,Shared room,3. Semanal (4-7 noches),34.5,34.5,4.5,2
+Brooklyn,Crown Heights,Shared room,4. Quincenal (8-29 noches),26.0,26.0,17.5,2
+Brooklyn,Cypress Hills,Entire home/apt,1. Corta (1 noche),239.07142857142858,127.5,1.0,14
+Brooklyn,Cypress Hills,Entire home/apt,2. Corta-Media (2-3 noches),285.55172413793105,110.0,2.3448275862068964,29
+Brooklyn,Cypress Hills,Entire home/apt,3. Semanal (4-7 noches),107.71428571428571,80.0,4.571428571428571,7
+Brooklyn,Cypress Hills,Entire home/apt,5. Mensual / Larga (30+ noches),91.66666666666667,75.0,30.0,3
+Brooklyn,Cypress Hills,Private room,1. Corta (1 noche),58.5,52.5,1.0,24
+Brooklyn,Cypress Hills,Private room,2. Corta-Media (2-3 noches),73.82758620689656,60.0,2.5172413793103448,29
+Brooklyn,Cypress Hills,Private room,3. Semanal (4-7 noches),43.888888888888886,39.0,5.222222222222222,9
+Brooklyn,Cypress Hills,Private room,4. Quincenal (8-29 noches),36.166666666666664,35.0,28.0,6
+Brooklyn,Cypress Hills,Private room,5. Mensual / Larga (30+ noches),49.285714285714285,42.0,47.142857142857146,7
+Brooklyn,Cypress Hills,Shared room,1. Corta (1 noche),37.5,25.0,1.0,4
+Brooklyn,Cypress Hills,Shared room,2. Corta-Media (2-3 noches),34.0,34.0,2.0,2
+Brooklyn,Cypress Hills,Shared room,3. Semanal (4-7 noches),25.0,25.0,4.0,1
+Brooklyn,DUMBO,Entire home/apt,1. Corta (1 noche),250.0,250.0,1.0,1
+Brooklyn,DUMBO,Entire home/apt,2. Corta-Media (2-3 noches),212.07692307692307,195.0,2.3076923076923075,13
+Brooklyn,DUMBO,Entire home/apt,3. Semanal (4-7 noches),250.0,250.0,6.0,2
+Brooklyn,DUMBO,Entire home/apt,4. Quincenal (8-29 noches),142.0,142.0,11.5,2
+Brooklyn,DUMBO,Entire home/apt,5. Mensual / Larga (30+ noches),242.4,250.0,30.0,5
+Brooklyn,DUMBO,Private room,1. Corta (1 noche),128.0,150.0,1.0,3
+Brooklyn,DUMBO,Private room,2. Corta-Media (2-3 noches),175.71428571428572,125.0,2.5714285714285716,7
+Brooklyn,DUMBO,Private room,3. Semanal (4-7 noches),200.0,200.0,7.0,1
+Brooklyn,DUMBO,Private room,4. Quincenal (8-29 noches),125.0,125.0,16.0,2
+Brooklyn,Downtown Brooklyn,Entire home/apt,1. Corta (1 noche),248.22222222222223,199.0,1.0,9
+Brooklyn,Downtown Brooklyn,Entire home/apt,2. Corta-Media (2-3 noches),165.38095238095238,150.0,2.4761904761904763,21
+Brooklyn,Downtown Brooklyn,Entire home/apt,3. Semanal (4-7 noches),181.0625,165.0,5.0625,16
+Brooklyn,Downtown Brooklyn,Entire home/apt,4. Quincenal (8-29 noches),163.33333333333334,175.0,12.0,3
+Brooklyn,Downtown Brooklyn,Entire home/apt,5. Mensual / Larga (30+ noches),139.66666666666666,120.0,30.333333333333332,3
+Brooklyn,Downtown Brooklyn,Private room,1. Corta (1 noche),107.23076923076923,100.0,1.0,13
+Brooklyn,Downtown Brooklyn,Private room,2. Corta-Media (2-3 noches),94.875,92.5,2.25,8
+Brooklyn,Downtown Brooklyn,Private room,3. Semanal (4-7 noches),79.6,80.0,4.6,5
+Brooklyn,Downtown Brooklyn,Private room,4. Quincenal (8-29 noches),90.0,90.0,15.5,2
+Brooklyn,Downtown Brooklyn,Private room,5. Mensual / Larga (30+ noches),78.33333333333333,70.0,45.0,3
+Brooklyn,Dyker Heights,Entire home/apt,1. Corta (1 noche),105.0,90.0,1.0,3
+Brooklyn,Dyker Heights,Entire home/apt,2. Corta-Media (2-3 noches),106.33333333333333,90.0,2.6666666666666665,3
+Brooklyn,Dyker Heights,Entire home/apt,3. Semanal (4-7 noches),170.0,170.0,4.0,1
+Brooklyn,Dyker Heights,Private room,1. Corta (1 noche),42.666666666666664,43.0,1.0,3
+Brooklyn,Dyker Heights,Private room,3. Semanal (4-7 noches),150.0,150.0,7.0,1
+Brooklyn,Dyker Heights,Shared room,3. Semanal (4-7 noches),39.0,39.0,5.0,1
+Brooklyn,East Flatbush,Entire home/apt,1. Corta (1 noche),121.73913043478261,96.5,1.0,46
+Brooklyn,East Flatbush,Entire home/apt,2. Corta-Media (2-3 noches),134.47058823529412,110.0,2.4019607843137254,102
+Brooklyn,East Flatbush,Entire home/apt,3. Semanal (4-7 noches),139.80645161290323,133.0,4.903225806451613,31
+Brooklyn,East Flatbush,Entire home/apt,5. Mensual / Larga (30+ noches),102.5,106.5,49.0,8
+Brooklyn,East Flatbush,Private room,1. Corta (1 noche),154.2872340425532,62.5,1.0,94
+Brooklyn,East Flatbush,Private room,2. Corta-Media (2-3 noches),67.44144144144144,60.0,2.3873873873873874,111
+Brooklyn,East Flatbush,Private room,3. Semanal (4-7 noches),60.15555555555556,50.0,5.666666666666667,45
+Brooklyn,East Flatbush,Private room,4. Quincenal (8-29 noches),41.833333333333336,41.0,21.166666666666668,6
+Brooklyn,East Flatbush,Private room,5. Mensual / Larga (30+ noches),51.121212121212125,44.0,31.454545454545453,33
+Brooklyn,East Flatbush,Shared room,1. Corta (1 noche),61.25,55.0,1.0,4
+Brooklyn,East Flatbush,Shared room,2. Corta-Media (2-3 noches),70.0,70.0,2.0,2
+Brooklyn,East Flatbush,Shared room,3. Semanal (4-7 noches),50.0,50.0,7.0,1
+Brooklyn,East Flatbush,Shared room,5. Mensual / Larga (30+ noches),33.64705882352941,28.0,34.1764705882353,17
+Brooklyn,East New York,Entire home/apt,1. Corta (1 noche),111.63157894736842,90.0,1.0,19
+Brooklyn,East New York,Entire home/apt,2. Corta-Media (2-3 noches),124.56363636363636,110.0,2.418181818181818,55
+Brooklyn,East New York,Entire home/apt,3. Semanal (4-7 noches),96.38461538461539,80.0,4.769230769230769,13
+Brooklyn,East New York,Entire home/apt,4. Quincenal (8-29 noches),70.0,70.0,14.0,2
+Brooklyn,East New York,Entire home/apt,5. Mensual / Larga (30+ noches),122.5,135.0,30.0,4
+Brooklyn,East New York,Private room,1. Corta (1 noche),61.77142857142857,50.0,1.0,35
+Brooklyn,East New York,Private room,2. Corta-Media (2-3 noches),66.53333333333333,58.5,2.5166666666666666,60
+Brooklyn,East New York,Private room,3. Semanal (4-7 noches),43.833333333333336,39.0,6.777777777777778,18
+Brooklyn,East New York,Private room,4. Quincenal (8-29 noches),35.0,35.0,17.5,2
+Brooklyn,East New York,Private room,5. Mensual / Larga (30+ noches),38.4,35.0,60.0,5
+Brooklyn,East New York,Shared room,1. Corta (1 noche),119.0,119.0,1.0,2
+Brooklyn,East New York,Shared room,2. Corta-Media (2-3 noches),25.0,25.0,2.0,1
+Brooklyn,East New York,Shared room,3. Semanal (4-7 noches),150.0,150.0,5.5,2
+Brooklyn,Flatbush,Entire home/apt,1. Corta (1 noche),135.13513513513513,99.0,1.0,37
+Brooklyn,Flatbush,Entire home/apt,2. Corta-Media (2-3 noches),128.09375,100.0,2.4453125,128
+Brooklyn,Flatbush,Entire home/apt,3. Semanal (4-7 noches),136.92537313432837,100.0,5.074626865671642,67
+Brooklyn,Flatbush,Entire home/apt,4. Quincenal (8-29 noches),82.27777777777777,79.0,18.27777777777778,18
+Brooklyn,Flatbush,Entire home/apt,5. Mensual / Larga (30+ noches),93.36363636363636,90.0,46.45454545454545,11
+Brooklyn,Flatbush,Private room,1. Corta (1 noche),85.05319148936171,65.0,1.0,94
+Brooklyn,Flatbush,Private room,2. Corta-Media (2-3 noches),65.23926380368098,60.0,2.392638036809816,163
+Brooklyn,Flatbush,Private room,3. Semanal (4-7 noches),55.320754716981135,49.0,5.415094339622642,53
+Brooklyn,Flatbush,Private room,4. Quincenal (8-29 noches),48.89473684210526,50.0,13.736842105263158,19
+Brooklyn,Flatbush,Private room,5. Mensual / Larga (30+ noches),50.2,42.0,50.3,10
+Brooklyn,Flatbush,Shared room,1. Corta (1 noche),78.77777777777777,40.0,1.0,9
+Brooklyn,Flatbush,Shared room,2. Corta-Media (2-3 noches),33.666666666666664,30.0,2.6666666666666665,6
+Brooklyn,Flatbush,Shared room,3. Semanal (4-7 noches),27.5,27.5,4.5,2
+Brooklyn,Flatbush,Shared room,4. Quincenal (8-29 noches),66.66666666666667,25.0,11.666666666666666,3
+Brooklyn,Flatbush,Shared room,5. Mensual / Larga (30+ noches),28.0,28.0,30.0,1
+Brooklyn,Flatlands,Entire home/apt,1. Corta (1 noche),336.72727272727275,170.0,1.0,11
+Brooklyn,Flatlands,Entire home/apt,2. Corta-Media (2-3 noches),118.95238095238095,110.0,2.2857142857142856,21
+Brooklyn,Flatlands,Entire home/apt,3. Semanal (4-7 noches),195.0,195.0,5.5,2
+Brooklyn,Flatlands,Entire home/apt,4. Quincenal (8-29 noches),201.33333333333334,125.0,14.666666666666666,3
+Brooklyn,Flatlands,Private room,1. Corta (1 noche),75.5,59.5,1.0,18
+Brooklyn,Flatlands,Private room,2. Corta-Media (2-3 noches),64.52631578947368,49.0,2.0526315789473686,19
+Brooklyn,Flatlands,Private room,3. Semanal (4-7 noches),103.16666666666667,127.0,4.666666666666667,6
+Brooklyn,Flatlands,Private room,4. Quincenal (8-29 noches),45.0,45.0,8.0,1
+Brooklyn,Flatlands,Shared room,1. Corta (1 noche),22.0,22.0,1.0,1
+Brooklyn,Flatlands,Shared room,3. Semanal (4-7 noches),27.0,27.0,5.0,1
+Brooklyn,Fort Greene,Entire home/apt,1. Corta (1 noche),186.73529411764707,157.5,1.0,34
+Brooklyn,Fort Greene,Entire home/apt,2. Corta-Media (2-3 noches),205.81875,166.0,2.48125,160
+Brooklyn,Fort Greene,Entire home/apt,3. Semanal (4-7 noches),189.40579710144928,150.0,5.260869565217392,69
+Brooklyn,Fort Greene,Entire home/apt,4. Quincenal (8-29 noches),164.16666666666666,149.5,16.416666666666668,24
+Brooklyn,Fort Greene,Entire home/apt,5. Mensual / Larga (30+ noches),159.25,154.0,44.35,20
+Brooklyn,Fort Greene,Private room,1. Corta (1 noche),77.0,73.5,1.0,34
+Brooklyn,Fort Greene,Private room,2. Corta-Media (2-3 noches),94.80327868852459,90.0,2.360655737704918,61
+Brooklyn,Fort Greene,Private room,3. Semanal (4-7 noches),89.37142857142857,85.0,5.114285714285714,35
+Brooklyn,Fort Greene,Private room,4. Quincenal (8-29 noches),71.66666666666667,65.0,14.083333333333334,12
+Brooklyn,Fort Greene,Private room,5. Mensual / Larga (30+ noches),53.21875,48.0,32.8125,32
+Brooklyn,Fort Greene,Shared room,1. Corta (1 noche),80.0,44.5,1.0,4
+Brooklyn,Fort Greene,Shared room,2. Corta-Media (2-3 noches),34.0,35.0,2.0,4
+Brooklyn,Fort Hamilton,Entire home/apt,1. Corta (1 noche),95.4,87.0,1.0,5
+Brooklyn,Fort Hamilton,Entire home/apt,2. Corta-Media (2-3 noches),126.33333333333333,114.5,2.3333333333333335,6
+Brooklyn,Fort Hamilton,Entire home/apt,3. Semanal (4-7 noches),123.71428571428571,125.0,4.928571428571429,14
+Brooklyn,Fort Hamilton,Entire home/apt,4. Quincenal (8-29 noches),110.5,110.5,17.5,2
+Brooklyn,Fort Hamilton,Entire home/apt,5. Mensual / Larga (30+ noches),102.5,102.5,30.0,2
+Brooklyn,Fort Hamilton,Private room,1. Corta (1 noche),52.5,55.0,1.0,4
+Brooklyn,Fort Hamilton,Private room,2. Corta-Media (2-3 noches),73.5,67.5,2.5,10
+Brooklyn,Fort Hamilton,Private room,3. Semanal (4-7 noches),68.25,64.0,5.5,4
+Brooklyn,Fort Hamilton,Private room,4. Quincenal (8-29 noches),62.0,47.0,19.6,5
+Brooklyn,Fort Hamilton,Shared room,1. Corta (1 noche),79.66666666666667,40.0,1.0,3
+Brooklyn,Gowanus,Entire home/apt,1. Corta (1 noche),163.68421052631578,132.0,1.0,19
+Brooklyn,Gowanus,Entire home/apt,2. Corta-Media (2-3 noches),226.11290322580646,191.0,2.3548387096774195,62
+Brooklyn,Gowanus,Entire home/apt,3. Semanal (4-7 noches),198.3235294117647,150.0,5.205882352941177,34
+Brooklyn,Gowanus,Entire home/apt,4. Quincenal (8-29 noches),142.42857142857142,135.0,15.285714285714286,7
+Brooklyn,Gowanus,Entire home/apt,5. Mensual / Larga (30+ noches),220.6153846153846,185.0,32.38461538461539,13
+Brooklyn,Gowanus,Private room,1. Corta (1 noche),104.29310344827586,100.0,1.0,58
+Brooklyn,Gowanus,Private room,2. Corta-Media (2-3 noches),83.3225806451613,70.0,2.193548387096774,31
+Brooklyn,Gowanus,Private room,3. Semanal (4-7 noches),64.9,67.0,5.2,10
+Brooklyn,Gowanus,Private room,4. Quincenal (8-29 noches),65.0,65.0,14.5,2
+Brooklyn,Gowanus,Private room,5. Mensual / Larga (30+ noches),221.66666666666666,79.0,32.333333333333336,9
+Brooklyn,Gowanus,Shared room,1. Corta (1 noche),37.0,37.0,1.0,1
+Brooklyn,Gowanus,Shared room,2. Corta-Media (2-3 noches),44.0,44.0,2.0,1
+Brooklyn,Gravesend,Entire home/apt,1. Corta (1 noche),140.0,140.0,1.0,1
+Brooklyn,Gravesend,Entire home/apt,2. Corta-Media (2-3 noches),129.3846153846154,129.0,2.3846153846153846,13
+Brooklyn,Gravesend,Entire home/apt,3. Semanal (4-7 noches),124.71428571428571,109.0,5.428571428571429,7
+Brooklyn,Gravesend,Entire home/apt,5. Mensual / Larga (30+ noches),86.0,85.0,42.0,5
+Brooklyn,Gravesend,Private room,1. Corta (1 noche),68.0,69.0,1.0,13
+Brooklyn,Gravesend,Private room,2. Corta-Media (2-3 noches),64.08333333333333,47.5,2.4166666666666665,12
+Brooklyn,Gravesend,Private room,3. Semanal (4-7 noches),60.0,60.0,6.0,2
+Brooklyn,Gravesend,Private room,5. Mensual / Larga (30+ noches),45.0,45.0,30.0,1
+Brooklyn,Gravesend,Shared room,1. Corta (1 noche),62.5,62.5,1.0,2
+Brooklyn,Gravesend,Shared room,2. Corta-Media (2-3 noches),30.0,30.0,3.0,2
+Brooklyn,Gravesend,Shared room,3. Semanal (4-7 noches),23.333333333333332,25.0,6.666666666666667,6
+Brooklyn,Gravesend,Shared room,4. Quincenal (8-29 noches),26.25,26.5,10.0,4
+Brooklyn,Greenpoint,Entire home/apt,1. Corta (1 noche),174.8988764044944,150.0,1.0,89
+Brooklyn,Greenpoint,Entire home/apt,2. Corta-Media (2-3 noches),181.33574007220216,165.0,2.487364620938628,277
+Brooklyn,Greenpoint,Entire home/apt,3. Semanal (4-7 noches),248.64444444444445,150.0,5.155555555555556,135
+Brooklyn,Greenpoint,Entire home/apt,4. Quincenal (8-29 noches),164.30232558139534,150.0,14.930232558139535,43
+Brooklyn,Greenpoint,Entire home/apt,5. Mensual / Larga (30+ noches),151.5897435897436,149.0,36.42307692307692,78
+Brooklyn,Greenpoint,Private room,1. Corta (1 noche),88.10596026490066,79.0,1.0,151
+Brooklyn,Greenpoint,Private room,2. Corta-Media (2-3 noches),98.28834355828221,75.0,2.441717791411043,163
+Brooklyn,Greenpoint,Private room,3. Semanal (4-7 noches),81.78512396694215,72.0,5.330578512396694,121
+Brooklyn,Greenpoint,Private room,4. Quincenal (8-29 noches),73.39393939393939,60.0,15.393939393939394,33
+Brooklyn,Greenpoint,Private room,5. Mensual / Larga (30+ noches),58.125,62.5,30.125,8
+Brooklyn,Greenpoint,Shared room,1. Corta (1 noche),116.0,119.0,1.0,5
+Brooklyn,Greenpoint,Shared room,2. Corta-Media (2-3 noches),58.75,37.5,2.5,4
+Brooklyn,Greenpoint,Shared room,3. Semanal (4-7 noches),45.0,45.0,7.0,1
+Brooklyn,Greenpoint,Shared room,5. Mensual / Larga (30+ noches),36.714285714285715,36.0,30.0,7
+Brooklyn,Kensington,Entire home/apt,1. Corta (1 noche),108.8,100.0,1.0,15
+Brooklyn,Kensington,Entire home/apt,2. Corta-Media (2-3 noches),135.07692307692307,100.0,2.4615384615384617,26
+Brooklyn,Kensington,Entire home/apt,3. Semanal (4-7 noches),161.125,112.5,5.416666666666667,24
+Brooklyn,Kensington,Entire home/apt,4. Quincenal (8-29 noches),108.6,99.0,13.0,5
+Brooklyn,Kensington,Entire home/apt,5. Mensual / Larga (30+ noches),154.0,110.0,33.333333333333336,3
+Brooklyn,Kensington,Private room,1. Corta (1 noche),60.285714285714285,53.0,1.0,42
+Brooklyn,Kensington,Private room,2. Corta-Media (2-3 noches),66.36666666666666,58.0,2.3333333333333335,30
+Brooklyn,Kensington,Private room,3. Semanal (4-7 noches),54.583333333333336,47.5,5.333333333333333,12
+Brooklyn,Kensington,Private room,4. Quincenal (8-29 noches),43.57142857142857,35.0,16.571428571428573,7
+Brooklyn,Kensington,Private room,5. Mensual / Larga (30+ noches),48.0,45.0,97.14285714285714,7
+Brooklyn,Kensington,Shared room,1. Corta (1 noche),55.0,55.0,1.0,2
+Brooklyn,Kensington,Shared room,2. Corta-Media (2-3 noches),250.0,250.0,3.0,1
+Brooklyn,Kensington,Shared room,3. Semanal (4-7 noches),60.0,60.0,4.0,1
+Brooklyn,Manhattan Beach,Entire home/apt,1. Corta (1 noche),89.0,89.0,1.0,2
+Brooklyn,Manhattan Beach,Entire home/apt,2. Corta-Media (2-3 noches),130.0,130.0,2.0,1
+Brooklyn,Manhattan Beach,Entire home/apt,3. Semanal (4-7 noches),100.0,100.0,4.0,2
+Brooklyn,Manhattan Beach,Entire home/apt,5. Mensual / Larga (30+ noches),150.0,150.0,30.0,1
+Brooklyn,Manhattan Beach,Private room,2. Corta-Media (2-3 noches),125.0,125.0,2.0,1
+Brooklyn,Manhattan Beach,Private room,3. Semanal (4-7 noches),45.0,45.0,4.0,1
+Brooklyn,Midwood,Entire home/apt,1. Corta (1 noche),109.14285714285714,115.0,1.0,7
+Brooklyn,Midwood,Entire home/apt,2. Corta-Media (2-3 noches),102.18518518518519,88.0,2.2962962962962963,27
+Brooklyn,Midwood,Entire home/apt,3. Semanal (4-7 noches),87.6,85.0,5.6,10
+Brooklyn,Midwood,Entire home/apt,4. Quincenal (8-29 noches),108.0,108.0,16.0,2
+Brooklyn,Midwood,Entire home/apt,5. Mensual / Larga (30+ noches),102.0,111.0,159.66666666666666,3
+Brooklyn,Midwood,Private room,1. Corta (1 noche),71.05555555555556,65.0,1.0,18
+Brooklyn,Midwood,Private room,2. Corta-Media (2-3 noches),67.84,60.0,2.36,25
+Brooklyn,Midwood,Private room,3. Semanal (4-7 noches),58.6,55.0,5.4,5
+Brooklyn,Midwood,Private room,4. Quincenal (8-29 noches),53.0,59.0,17.666666666666668,3
+Brooklyn,Midwood,Private room,5. Mensual / Larga (30+ noches),77.5,77.5,30.0,2
+Brooklyn,Midwood,Shared room,1. Corta (1 noche),44.0,50.0,1.0,3
+Brooklyn,Midwood,Shared room,2. Corta-Media (2-3 noches),26.0,26.0,2.0,1
+Brooklyn,Midwood,Shared room,3. Semanal (4-7 noches),32.0,32.0,7.0,3
+Brooklyn,Mill Basin,Entire home/apt,1. Corta (1 noche),250.0,250.0,1.0,1
+Brooklyn,Mill Basin,Entire home/apt,2. Corta-Media (2-3 noches),156.33333333333334,85.0,2.6666666666666665,3
+Brooklyn,Navy Yard,Entire home/apt,1. Corta (1 noche),150.0,150.0,1.0,1
+Brooklyn,Navy Yard,Entire home/apt,2. Corta-Media (2-3 noches),163.83333333333334,150.0,2.3333333333333335,6
+Brooklyn,Navy Yard,Entire home/apt,3. Semanal (4-7 noches),215.0,215.0,4.0,1
+Brooklyn,Navy Yard,Entire home/apt,4. Quincenal (8-29 noches),137.5,137.5,17.5,2
+Brooklyn,Navy Yard,Private room,1. Corta (1 noche),155.0,155.0,1.0,2
+Brooklyn,Navy Yard,Private room,2. Corta-Media (2-3 noches),140.0,140.0,2.0,1
+Brooklyn,Navy Yard,Private room,3. Semanal (4-7 noches),50.0,50.0,6.0,1
+Brooklyn,Park Slope,Entire home/apt,1. Corta (1 noche),250.97368421052633,160.0,1.0,38
+Brooklyn,Park Slope,Entire home/apt,2. Corta-Media (2-3 noches),212.4935064935065,175.0,2.512987012987013,154
+Brooklyn,Park Slope,Entire home/apt,3. Semanal (4-7 noches),203.42608695652174,160.0,5.130434782608695,115
+Brooklyn,Park Slope,Entire home/apt,4. Quincenal (8-29 noches),151.9655172413793,144.0,13.620689655172415,29
+Brooklyn,Park Slope,Entire home/apt,5. Mensual / Larga (30+ noches),176.1,172.5,62.6,30
+Brooklyn,Park Slope,Private room,1. Corta (1 noche),122.8,80.0,1.0,40
+Brooklyn,Park Slope,Private room,2. Corta-Media (2-3 noches),92.87931034482759,90.0,2.3448275862068964,58
+Brooklyn,Park Slope,Private room,3. Semanal (4-7 noches),76.61904761904762,75.0,5.333333333333333,21
+Brooklyn,Park Slope,Private room,4. Quincenal (8-29 noches),82.41666666666667,62.5,14.333333333333334,12
+Brooklyn,Park Slope,Private room,5. Mensual / Larga (30+ noches),111.75,64.0,75.875,8
+Brooklyn,Park Slope,Shared room,1. Corta (1 noche),78.0,78.0,1.0,1
+Brooklyn,Prospect Heights,Entire home/apt,1. Corta (1 noche),395.0952380952381,150.0,1.0,21
+Brooklyn,Prospect Heights,Entire home/apt,2. Corta-Media (2-3 noches),195.2736842105263,155.0,2.5157894736842104,95
+Brooklyn,Prospect Heights,Entire home/apt,3. Semanal (4-7 noches),259.921875,150.0,5.265625,64
+Brooklyn,Prospect Heights,Entire home/apt,4. Quincenal (8-29 noches),139.8125,139.0,16.3125,16
+Brooklyn,Prospect Heights,Entire home/apt,5. Mensual / Larga (30+ noches),195.44444444444446,161.0,30.166666666666668,18
+Brooklyn,Prospect Heights,Private room,1. Corta (1 noche),76.38461538461539,70.0,1.0,52
+Brooklyn,Prospect Heights,Private room,2. Corta-Media (2-3 noches),99.234375,77.5,2.28125,64
+Brooklyn,Prospect Heights,Private room,3. Semanal (4-7 noches),88.625,72.5,5.4375,16
+Brooklyn,Prospect Heights,Private room,4. Quincenal (8-29 noches),92.0,79.0,15.0,9
+Brooklyn,Prospect Heights,Private room,5. Mensual / Larga (30+ noches),43.5,43.5,105.0,2
+Brooklyn,Prospect-Lefferts Gardens,Entire home/apt,1. Corta (1 noche),152.2972972972973,105.0,1.0,37
+Brooklyn,Prospect-Lefferts Gardens,Entire home/apt,2. Corta-Media (2-3 noches),143.88059701492537,124.0,2.373134328358209,134
+Brooklyn,Prospect-Lefferts Gardens,Entire home/apt,3. Semanal (4-7 noches),128.02597402597402,105.0,4.9480519480519485,77
+Brooklyn,Prospect-Lefferts Gardens,Entire home/apt,4. Quincenal (8-29 noches),182.05263157894737,100.0,16.736842105263158,19
+Brooklyn,Prospect-Lefferts Gardens,Entire home/apt,5. Mensual / Larga (30+ noches),281.35714285714283,95.0,37.642857142857146,14
+Brooklyn,Prospect-Lefferts Gardens,Private room,1. Corta (1 noche),73.29473684210527,60.0,1.0,95
+Brooklyn,Prospect-Lefferts Gardens,Private room,2. Corta-Media (2-3 noches),68.2235294117647,64.0,2.2941176470588234,85
+Brooklyn,Prospect-Lefferts Gardens,Private room,3. Semanal (4-7 noches),69.03333333333333,62.5,5.3,30
+Brooklyn,Prospect-Lefferts Gardens,Private room,4. Quincenal (8-29 noches),51.28,47.0,15.76,25
+Brooklyn,Prospect-Lefferts Gardens,Private room,5. Mensual / Larga (30+ noches),45.857142857142854,45.0,43.285714285714285,7
+Brooklyn,Prospect-Lefferts Gardens,Shared room,1. Corta (1 noche),39.75,40.0,1.0,4
+Brooklyn,Prospect-Lefferts Gardens,Shared room,2. Corta-Media (2-3 noches),39.57142857142857,30.0,2.0,7
+Brooklyn,Prospect-Lefferts Gardens,Shared room,4. Quincenal (8-29 noches),22.0,22.0,14.0,1
+Brooklyn,Red Hook,Entire home/apt,1. Corta (1 noche),214.2941176470588,142.0,1.0,17
+Brooklyn,Red Hook,Entire home/apt,2. Corta-Media (2-3 noches),170.75,132.0,2.375,24
+Brooklyn,Red Hook,Entire home/apt,3. Semanal (4-7 noches),135.625,115.0,5.625,8
+Brooklyn,Red Hook,Entire home/apt,4. Quincenal (8-29 noches),136.0,136.0,11.5,2
+Brooklyn,Red Hook,Entire home/apt,5. Mensual / Larga (30+ noches),147.5,147.5,36.5,2
+Brooklyn,Red Hook,Private room,1. Corta (1 noche),95.33333333333333,69.0,1.0,9
+Brooklyn,Red Hook,Private room,2. Corta-Media (2-3 noches),70.85714285714286,75.0,2.0,7
+Brooklyn,Red Hook,Private room,3. Semanal (4-7 noches),68.0,60.0,5.2,5
+Brooklyn,Red Hook,Private room,4. Quincenal (8-29 noches),49.0,49.0,17.5,2
+Brooklyn,Red Hook,Shared room,1. Corta (1 noche),34.0,34.0,1.0,2
+Brooklyn,Red Hook,Shared room,2. Corta-Media (2-3 noches),80.0,80.0,3.0,1
+Brooklyn,Sea Gate,Entire home/apt,1. Corta (1 noche),223.0,223.0,1.0,1
+Brooklyn,Sea Gate,Entire home/apt,2. Corta-Media (2-3 noches),1485.0,1485.0,2.0,1
+Brooklyn,Sea Gate,Entire home/apt,3. Semanal (4-7 noches),99.0,99.0,4.0,1
+Brooklyn,Sea Gate,Entire home/apt,4. Quincenal (8-29 noches),720.0,720.0,10.0,2
+Brooklyn,Sea Gate,Private room,1. Corta (1 noche),84.0,84.0,1.0,2
+Brooklyn,Sheepshead Bay,Entire home/apt,1. Corta (1 noche),280.75,114.0,1.0,12
+Brooklyn,Sheepshead Bay,Entire home/apt,2. Corta-Media (2-3 noches),149.1,127.0,2.3333333333333335,30
+Brooklyn,Sheepshead Bay,Entire home/apt,3. Semanal (4-7 noches),137.6,91.5,5.1,10
+Brooklyn,Sheepshead Bay,Entire home/apt,4. Quincenal (8-29 noches),107.66666666666667,100.0,18.666666666666668,3
+Brooklyn,Sheepshead Bay,Entire home/apt,5. Mensual / Larga (30+ noches),109.25,81.5,30.0,4
+Brooklyn,Sheepshead Bay,Private room,1. Corta (1 noche),90.08571428571429,59.0,1.0,35
+Brooklyn,Sheepshead Bay,Private room,2. Corta-Media (2-3 noches),64.09375,54.0,2.40625,32
+Brooklyn,Sheepshead Bay,Private room,3. Semanal (4-7 noches),53.416666666666664,48.0,6.0,12
+Brooklyn,Sheepshead Bay,Private room,4. Quincenal (8-29 noches),61.0,70.0,10.666666666666666,3
+Brooklyn,Sheepshead Bay,Private room,5. Mensual / Larga (30+ noches),169.75,64.5,67.5,4
+Brooklyn,Sheepshead Bay,Shared room,1. Corta (1 noche),38.57142857142857,37.0,1.0,7
+Brooklyn,Sheepshead Bay,Shared room,2. Corta-Media (2-3 noches),31.428571428571427,30.0,2.142857142857143,7
+Brooklyn,Sheepshead Bay,Shared room,3. Semanal (4-7 noches),33.75,32.5,6.5,4
+Brooklyn,Sheepshead Bay,Shared room,5. Mensual / Larga (30+ noches),37.0,37.0,30.0,1
+Brooklyn,South Slope,Entire home/apt,1. Corta (1 noche),156.52173913043478,145.0,1.0,23
+Brooklyn,South Slope,Entire home/apt,2. Corta-Media (2-3 noches),171.5096153846154,150.0,2.5096153846153846,104
+Brooklyn,South Slope,Entire home/apt,3. Semanal (4-7 noches),201.60416666666666,191.0,4.916666666666667,48
+Brooklyn,South Slope,Entire home/apt,4. Quincenal (8-29 noches),227.8,199.0,15.0,5
+Brooklyn,South Slope,Entire home/apt,5. Mensual / Larga (30+ noches),138.5,137.5,49.1,10
+Brooklyn,South Slope,Private room,1. Corta (1 noche),92.34782608695652,70.0,1.0,23
+Brooklyn,South Slope,Private room,2. Corta-Media (2-3 noches),91.70588235294117,85.0,2.235294117647059,34
+Brooklyn,South Slope,Private room,3. Semanal (4-7 noches),79.80952380952381,65.0,5.238095238095238,21
+Brooklyn,South Slope,Private room,4. Quincenal (8-29 noches),69.83333333333333,72.0,13.666666666666666,6
+Brooklyn,South Slope,Private room,5. Mensual / Larga (30+ noches),71.11111111111111,50.0,56.888888888888886,9
+Brooklyn,South Slope,Shared room,2. Corta-Media (2-3 noches),55.0,55.0,2.0,1
+Brooklyn,Sunset Park,Entire home/apt,1. Corta (1 noche),235.375,147.5,1.0,24
+Brooklyn,Sunset Park,Entire home/apt,2. Corta-Media (2-3 noches),149.63095238095238,127.5,2.357142857142857,84
+Brooklyn,Sunset Park,Entire home/apt,3. Semanal (4-7 noches),143.07142857142858,124.0,5.0476190476190474,42
+Brooklyn,Sunset Park,Entire home/apt,4. Quincenal (8-29 noches),110.75,100.0,13.625,16
+Brooklyn,Sunset Park,Entire home/apt,5. Mensual / Larga (30+ noches),137.0,158.5,71.07142857142857,14
+Brooklyn,Sunset Park,Private room,1. Corta (1 noche),62.77777777777778,55.0,1.0,81
+Brooklyn,Sunset Park,Private room,2. Corta-Media (2-3 noches),85.18055555555556,50.0,2.2916666666666665,72
+Brooklyn,Sunset Park,Private room,3. Semanal (4-7 noches),54.36666666666667,51.5,5.866666666666666,30
+Brooklyn,Sunset Park,Private room,4. Quincenal (8-29 noches),49.3125,45.0,15.3125,16
+Brooklyn,Sunset Park,Private room,5. Mensual / Larga (30+ noches),381.5,57.5,36.833333333333336,6
+Brooklyn,Sunset Park,Shared room,1. Corta (1 noche),44.25,37.5,1.0,4
+Brooklyn,Sunset Park,Shared room,2. Corta-Media (2-3 noches),65.0,65.0,2.0,1
+Brooklyn,Vinegar Hill,Entire home/apt,1. Corta (1 noche),221.66666666666666,240.0,1.0,3
+Brooklyn,Vinegar Hill,Entire home/apt,2. Corta-Media (2-3 noches),228.83333333333334,212.5,2.3333333333333335,6
+Brooklyn,Vinegar Hill,Entire home/apt,3. Semanal (4-7 noches),184.0,175.0,4.4,5
+Brooklyn,Vinegar Hill,Entire home/apt,4. Quincenal (8-29 noches),361.3333333333333,375.0,16.0,3
+Brooklyn,Vinegar Hill,Entire home/apt,5. Mensual / Larga (30+ noches),185.16666666666666,178.0,85.0,6
+Brooklyn,Vinegar Hill,Private room,1. Corta (1 noche),80.0,80.0,1.0,3
+Brooklyn,Vinegar Hill,Private room,2. Corta-Media (2-3 noches),108.66666666666667,92.5,2.8333333333333335,6
+Brooklyn,Vinegar Hill,Private room,3. Semanal (4-7 noches),69.0,69.0,5.0,1
+Brooklyn,Vinegar Hill,Shared room,2. Corta-Media (2-3 noches),250.0,250.0,2.0,1
+Brooklyn,Williamsburg,Entire home/apt,1. Corta (1 noche),229.20634920634922,175.0,1.0,252
+Brooklyn,Williamsburg,Entire home/apt,2. Corta-Media (2-3 noches),210.4110629067245,180.0,2.4262472885032538,922
+Brooklyn,Williamsburg,Entire home/apt,3. Semanal (4-7 noches),191.28752642706132,165.0,5.0951374207188165,473
+Brooklyn,Williamsburg,Entire home/apt,4. Quincenal (8-29 noches),158.49107142857142,142.5,15.410714285714286,112
+Brooklyn,Williamsburg,Entire home/apt,5. Mensual / Larga (30+ noches),225.2651515151515,160.0,48.484848484848484,132
+Brooklyn,Williamsburg,Private room,1. Corta (1 noche),94.17241379310344,80.0,1.0,522
+Brooklyn,Williamsburg,Private room,2. Corta-Media (2-3 noches),85.36964078794901,78.0,2.398609501738123,863
+Brooklyn,Williamsburg,Private room,3. Semanal (4-7 noches),78.12405063291139,70.0,5.1645569620253164,395
+Brooklyn,Williamsburg,Private room,4. Quincenal (8-29 noches),73.01333333333334,66.0,16.526666666666667,150
+Brooklyn,Williamsburg,Private room,5. Mensual / Larga (30+ noches),98.83582089552239,68.0,61.8955223880597,67
+Brooklyn,Williamsburg,Shared room,1. Corta (1 noche),78.38888888888889,62.0,1.0,18
+Brooklyn,Williamsburg,Shared room,2. Corta-Media (2-3 noches),110.5,66.0,2.4,10
+Brooklyn,Williamsburg,Shared room,4. Quincenal (8-29 noches),47.5,47.5,15.0,2
+Brooklyn,Williamsburg,Shared room,5. Mensual / Larga (30+ noches),53.5,53.5,30.0,2
+Brooklyn,Windsor Terrace,Entire home/apt,1. Corta (1 noche),116.42857142857143,99.0,1.0,14
+Brooklyn,Windsor Terrace,Entire home/apt,2. Corta-Media (2-3 noches),179.64,152.0,2.42,50
+Brooklyn,Windsor Terrace,Entire home/apt,3. Semanal (4-7 noches),180.02857142857144,150.0,5.3428571428571425,35
+Brooklyn,Windsor Terrace,Entire home/apt,4. Quincenal (8-29 noches),127.81818181818181,130.0,17.454545454545453,11
+Brooklyn,Windsor Terrace,Entire home/apt,5. Mensual / Larga (30+ noches),134.6,100.0,131.0,5
+Brooklyn,Windsor Terrace,Private room,1. Corta (1 noche),61.42857142857143,61.0,1.0,14
+Brooklyn,Windsor Terrace,Private room,2. Corta-Media (2-3 noches),77.88235294117646,65.0,2.235294117647059,17
+Brooklyn,Windsor Terrace,Private room,3. Semanal (4-7 noches),59.6,58.0,5.8,5
+Brooklyn,Windsor Terrace,Private room,4. Quincenal (8-29 noches),65.0,67.5,14.5,4
+Brooklyn,Windsor Terrace,Private room,5. Mensual / Larga (30+ noches),44.0,44.0,30.0,2
+Manhattan,Battery Park City,Entire home/apt,1. Corta (1 noche),1057.2307692307693,200.0,1.0,13
+Manhattan,Battery Park City,Entire home/apt,2. Corta-Media (2-3 noches),349.22222222222223,245.0,2.3333333333333335,9
+Manhattan,Battery Park City,Entire home/apt,3. Semanal (4-7 noches),266.1111111111111,225.0,5.444444444444445,9
+Manhattan,Battery Park City,Entire home/apt,4. Quincenal (8-29 noches),95.5,95.5,24.5,2
+Manhattan,Battery Park City,Entire home/apt,5. Mensual / Larga (30+ noches),265.1333333333333,250.0,129.66666666666666,15
+Manhattan,Battery Park City,Private room,1. Corta (1 noche),109.15384615384616,100.0,1.0,13
+Manhattan,Battery Park City,Private room,2. Corta-Media (2-3 noches),97.33333333333333,95.0,2.3333333333333335,6
+Manhattan,Battery Park City,Private room,3. Semanal (4-7 noches),150.0,150.0,4.0,1
+Manhattan,Battery Park City,Private room,4. Quincenal (8-29 noches),71.0,71.0,14.0,1
+Manhattan,Battery Park City,Shared room,1. Corta (1 noche),55.0,55.0,1.0,1
+Manhattan,Chelsea,Entire home/apt,1. Corta (1 noche),360.752,210.0,1.0,125
+Manhattan,Chelsea,Entire home/apt,2. Corta-Media (2-3 noches),288.0224358974359,229.5,2.5096153846153846,312
+Manhattan,Chelsea,Entire home/apt,3. Semanal (4-7 noches),242.37912087912088,200.0,5.093406593406593,182
+Manhattan,Chelsea,Entire home/apt,4. Quincenal (8-29 noches),276.39344262295083,239.0,20.983606557377048,61
+Manhattan,Chelsea,Entire home/apt,5. Mensual / Larga (30+ noches),259.60714285714283,227.0,47.378571428571426,140
+Manhattan,Chelsea,Private room,1. Corta (1 noche),179.64885496183206,105.0,1.0,131
+Manhattan,Chelsea,Private room,2. Corta-Media (2-3 noches),128.96511627906978,110.0,2.383720930232558,86
+Manhattan,Chelsea,Private room,3. Semanal (4-7 noches),114.75757575757575,100.0,5.0606060606060606,33
+Manhattan,Chelsea,Private room,4. Quincenal (8-29 noches),186.5,99.5,15.142857142857142,14
+Manhattan,Chelsea,Private room,5. Mensual / Larga (30+ noches),182.21428571428572,94.0,46.42857142857143,14
+Manhattan,Chelsea,Shared room,1. Corta (1 noche),153.66666666666666,75.0,1.0,9
+Manhattan,Chelsea,Shared room,2. Corta-Media (2-3 noches),78.0,75.0,2.0,5
+Manhattan,Chelsea,Shared room,4. Quincenal (8-29 noches),337.0,337.0,27.0,1
+Manhattan,Chinatown,Entire home/apt,1. Corta (1 noche),260.0,185.0,1.0,38
+Manhattan,Chinatown,Entire home/apt,2. Corta-Media (2-3 noches),211.17441860465115,180.0,2.3488372093023258,86
+Manhattan,Chinatown,Entire home/apt,3. Semanal (4-7 noches),185.5737704918033,151.0,5.0,61
+Manhattan,Chinatown,Entire home/apt,4. Quincenal (8-29 noches),213.3,147.5,18.0,10
+Manhattan,Chinatown,Entire home/apt,5. Mensual / Larga (30+ noches),199.53333333333333,154.0,42.06666666666667,15
+Manhattan,Chinatown,Private room,1. Corta (1 noche),91.98275862068965,90.0,1.0,58
+Manhattan,Chinatown,Private room,2. Corta-Media (2-3 noches),105.78,99.0,2.5,50
+Manhattan,Chinatown,Private room,3. Semanal (4-7 noches),91.3103448275862,85.0,4.862068965517241,29
+Manhattan,Chinatown,Private room,4. Quincenal (8-29 noches),78.46666666666667,73.0,19.0,15
+Manhattan,Chinatown,Private room,5. Mensual / Larga (30+ noches),93.0,89.5,30.25,4
+Manhattan,Chinatown,Shared room,1. Corta (1 noche),61.5,61.5,1.0,2
+Manhattan,Civic Center,Entire home/apt,1. Corta (1 noche),150.5,150.0,1.0,4
+Manhattan,Civic Center,Entire home/apt,2. Corta-Media (2-3 noches),287.94444444444446,230.5,2.2777777777777777,18
+Manhattan,Civic Center,Entire home/apt,3. Semanal (4-7 noches),179.6,199.0,5.2,5
+Manhattan,Civic Center,Entire home/apt,4. Quincenal (8-29 noches),143.33333333333334,140.0,14.333333333333334,3
+Manhattan,Civic Center,Entire home/apt,5. Mensual / Larga (30+ noches),162.4,172.0,42.0,5
+Manhattan,Civic Center,Private room,1. Corta (1 noche),140.75,96.5,1.0,4
+Manhattan,Civic Center,Private room,2. Corta-Media (2-3 noches),100.0,95.0,2.4,5
+Manhattan,Civic Center,Private room,3. Semanal (4-7 noches),131.14285714285714,120.0,4.714285714285714,7
+Manhattan,Civic Center,Private room,4. Quincenal (8-29 noches),75.0,75.0,17.0,1
+Manhattan,East Harlem,Entire home/apt,1. Corta (1 noche),166.6851851851852,150.0,1.0,108
+Manhattan,East Harlem,Entire home/apt,2. Corta-Media (2-3 noches),188.49519230769232,158.0,2.4375,208
+Manhattan,East Harlem,Entire home/apt,3. Semanal (4-7 noches),234.65,137.5,5.183333333333334,120
+Manhattan,East Harlem,Entire home/apt,4. Quincenal (8-29 noches),129.2608695652174,115.0,18.391304347826086,23
+Manhattan,East Harlem,Entire home/apt,5. Mensual / Larga (30+ noches),139.96296296296296,128.0,37.81481481481482,27
+Manhattan,East Harlem,Private room,1. Corta (1 noche),92.86915887850468,80.0,1.0,214
+Manhattan,East Harlem,Private room,2. Corta-Media (2-3 noches),86.6079295154185,83.0,2.39647577092511,227
+Manhattan,East Harlem,Private room,3. Semanal (4-7 noches),125.78571428571429,75.0,5.25,84
+Manhattan,East Harlem,Private room,4. Quincenal (8-29 noches),62.73076923076923,58.5,17.692307692307693,26
+Manhattan,East Harlem,Private room,5. Mensual / Larga (30+ noches),57.31428571428572,50.0,56.77142857142857,35
+Manhattan,East Harlem,Shared room,1. Corta (1 noche),57.0,57.5,1.0,26
+Manhattan,East Harlem,Shared room,2. Corta-Media (2-3 noches),72.14285714285714,49.0,2.142857142857143,14
+Manhattan,East Harlem,Shared room,3. Semanal (4-7 noches),120.0,75.0,6.0,3
+Manhattan,East Harlem,Shared room,4. Quincenal (8-29 noches),40.0,40.0,22.0,1
+Manhattan,East Harlem,Shared room,5. Mensual / Larga (30+ noches),35.0,35.0,120.0,1
+Manhattan,East Village,Entire home/apt,1. Corta (1 noche),261.76851851851853,191.0,1.0,216
+Manhattan,East Village,Entire home/apt,2. Corta-Media (2-3 noches),222.21643286573146,195.0,2.400801603206413,499
+Manhattan,East Village,Entire home/apt,3. Semanal (4-7 noches),206.45422535211267,175.0,5.063380281690141,284
+Manhattan,East Village,Entire home/apt,4. Quincenal (8-29 noches),180.53225806451613,150.0,14.806451612903226,62
+Manhattan,East Village,Entire home/apt,5. Mensual / Larga (30+ noches),252.5137614678899,175.0,39.61467889908257,109
+Manhattan,East Village,Private room,1. Corta (1 noche),122.06190476190476,100.0,1.0,210
+Manhattan,East Village,Private room,2. Corta-Media (2-3 noches),111.90384615384616,100.0,2.4461538461538463,260
+Manhattan,East Village,Private room,3. Semanal (4-7 noches),99.59166666666667,90.0,5.158333333333333,120
+Manhattan,East Village,Private room,4. Quincenal (8-29 noches),129.64705882352942,78.0,15.235294117647058,34
+Manhattan,East Village,Private room,5. Mensual / Larga (30+ noches),194.80555555555554,68.5,50.083333333333336,36
+Manhattan,East Village,Shared room,1. Corta (1 noche),113.25,77.0,1.0,8
+Manhattan,East Village,Shared room,2. Corta-Media (2-3 noches),71.28571428571429,77.0,2.142857142857143,7
+Manhattan,East Village,Shared room,3. Semanal (4-7 noches),68.5,67.0,5.5,4
+Manhattan,East Village,Shared room,4. Quincenal (8-29 noches),75.0,65.0,11.666666666666666,3
+Manhattan,East Village,Shared room,5. Mensual / Larga (30+ noches),30.0,30.0,30.0,1
+Manhattan,Financial District,Entire home/apt,1. Corta (1 noche),274.2909090909091,215.0,1.0,55
+Manhattan,Financial District,Entire home/apt,2. Corta-Media (2-3 noches),273.29477611940297,232.5,2.16044776119403,268
+Manhattan,Financial District,Entire home/apt,3. Semanal (4-7 noches),218.87179487179486,208.0,5.384615384615385,39
+Manhattan,Financial District,Entire home/apt,4. Quincenal (8-29 noches),192.09166666666667,177.0,26.791666666666668,120
+Manhattan,Financial District,Entire home/apt,5. Mensual / Larga (30+ noches),210.4111111111111,200.0,42.13333333333333,90
+Manhattan,Financial District,Private room,1. Corta (1 noche),147.7872340425532,115.0,1.0,47
+Manhattan,Financial District,Private room,2. Corta-Media (2-3 noches),198.14285714285714,119.5,2.5,56
+Manhattan,Financial District,Private room,3. Semanal (4-7 noches),138.8421052631579,127.5,5.684210526315789,38
+Manhattan,Financial District,Private room,4. Quincenal (8-29 noches),90.21428571428571,90.0,14.214285714285714,14
+Manhattan,Financial District,Private room,5. Mensual / Larga (30+ noches),321.42857142857144,80.0,90.71428571428571,7
+Manhattan,Financial District,Shared room,1. Corta (1 noche),246.57142857142858,90.0,1.0,7
+Manhattan,Financial District,Shared room,2. Corta-Media (2-3 noches),150.0,150.0,2.0,1
+Manhattan,Financial District,Shared room,3. Semanal (4-7 noches),105.0,105.0,6.0,1
+Manhattan,Financial District,Shared room,4. Quincenal (8-29 noches),100.0,100.0,10.0,1
+Manhattan,Flatiron District,Entire home/apt,1. Corta (1 noche),412.8235294117647,275.0,1.0,17
+Manhattan,Flatiron District,Entire home/apt,2. Corta-Media (2-3 noches),365.22222222222223,275.0,2.4444444444444446,18
+Manhattan,Flatiron District,Entire home/apt,3. Semanal (4-7 noches),465.3,269.5,5.45,20
+Manhattan,Flatiron District,Entire home/apt,4. Quincenal (8-29 noches),207.6,175.0,19.0,5
+Manhattan,Flatiron District,Entire home/apt,5. Mensual / Larga (30+ noches),256.8,215.0,33.0,5
+Manhattan,Flatiron District,Private room,1. Corta (1 noche),108.375,97.0,1.0,8
+Manhattan,Flatiron District,Private room,2. Corta-Media (2-3 noches),258.3333333333333,95.0,2.3333333333333335,3
+Manhattan,Flatiron District,Private room,3. Semanal (4-7 noches),103.5,103.5,5.5,2
+Manhattan,Flatiron District,Private room,4. Quincenal (8-29 noches),142.5,142.5,21.0,2
+Manhattan,Gramercy,Entire home/apt,1. Corta (1 noche),360.1842105263158,207.5,1.0,38
+Manhattan,Gramercy,Entire home/apt,2. Corta-Media (2-3 noches),236.41836734693877,195.0,2.489795918367347,98
+Manhattan,Gramercy,Entire home/apt,3. Semanal (4-7 noches),266.42,229.5,5.12,50
+Manhattan,Gramercy,Entire home/apt,4. Quincenal (8-29 noches),182.125,152.5,14.9375,16
+Manhattan,Gramercy,Entire home/apt,5. Mensual / Larga (30+ noches),234.9047619047619,182.5,43.0,42
+Manhattan,Gramercy,Private room,1. Corta (1 noche),130.93548387096774,110.0,1.0,31
+Manhattan,Gramercy,Private room,2. Corta-Media (2-3 noches),113.08823529411765,99.0,2.3823529411764706,34
+Manhattan,Gramercy,Private room,3. Semanal (4-7 noches),190.75,104.5,5.05,20
+Manhattan,Gramercy,Private room,4. Quincenal (8-29 noches),72.33333333333333,65.0,18.333333333333332,3
+Manhattan,Gramercy,Private room,5. Mensual / Larga (30+ noches),45.0,45.0,30.0,1
+Manhattan,Gramercy,Shared room,1. Corta (1 noche),71.33333333333333,65.0,1.0,3
+Manhattan,Gramercy,Shared room,2. Corta-Media (2-3 noches),69.5,69.5,2.5,2
+Manhattan,Greenwich Village,Entire home/apt,1. Corta (1 noche),446.1063829787234,225.0,1.0,47
+Manhattan,Greenwich Village,Entire home/apt,2. Corta-Media (2-3 noches),244.0327868852459,200.0,2.5,122
+Manhattan,Greenwich Village,Entire home/apt,3. Semanal (4-7 noches),273.2191780821918,220.0,5.109589041095891,73
+Manhattan,Greenwich Village,Entire home/apt,4. Quincenal (8-29 noches),212.91666666666666,181.0,14.333333333333334,12
+Manhattan,Greenwich Village,Entire home/apt,5. Mensual / Larga (30+ noches),444.6756756756757,180.0,92.83783783783784,37
+Manhattan,Greenwich Village,Private room,1. Corta (1 noche),175.13793103448276,100.0,1.0,29
+Manhattan,Greenwich Village,Private room,2. Corta-Media (2-3 noches),119.94285714285714,115.0,2.4285714285714284,35
+Manhattan,Greenwich Village,Private room,3. Semanal (4-7 noches),123.0,105.0,5.090909090909091,22
+Manhattan,Greenwich Village,Private room,4. Quincenal (8-29 noches),101.57142857142857,115.0,15.142857142857142,7
+Manhattan,Greenwich Village,Private room,5. Mensual / Larga (30+ noches),117.16666666666667,111.5,85.16666666666667,6
+Manhattan,Greenwich Village,Shared room,5. Mensual / Larga (30+ noches),83.0,83.0,517.0,2
+Manhattan,Harlem,Entire home/apt,1. Corta (1 noche),191.64457831325302,140.0,1.0,166
+Manhattan,Harlem,Entire home/apt,2. Corta-Media (2-3 noches),179.28418803418805,150.0,2.5,468
+Manhattan,Harlem,Entire home/apt,3. Semanal (4-7 noches),175.5346153846154,140.0,5.0807692307692305,260
+Manhattan,Harlem,Entire home/apt,4. Quincenal (8-29 noches),134.11764705882354,115.0,16.294117647058822,51
+Manhattan,Harlem,Entire home/apt,5. Mensual / Larga (30+ noches),173.53846153846155,125.0,56.54945054945055,91
+Manhattan,Harlem,Private room,1. Corta (1 noche),83.77906976744185,70.0,1.0,516
+Manhattan,Harlem,Private room,2. Corta-Media (2-3 noches),83.63826366559485,75.0,2.3713826366559485,622
+Manhattan,Harlem,Private room,3. Semanal (4-7 noches),77.30555555555556,65.0,5.234126984126984,252
+Manhattan,Harlem,Private room,4. Quincenal (8-29 noches),76.94252873563218,54.0,15.758620689655173,87
+Manhattan,Harlem,Private room,5. Mensual / Larga (30+ noches),77.91666666666667,60.0,37.427083333333336,96
+Manhattan,Harlem,Shared room,1. Corta (1 noche),70.41935483870968,65.0,1.0,31
+Manhattan,Harlem,Shared room,2. Corta-Media (2-3 noches),54.72727272727273,49.0,2.3636363636363638,11
+Manhattan,Harlem,Shared room,3. Semanal (4-7 noches),53.5,52.0,5.25,4
+Manhattan,Harlem,Shared room,4. Quincenal (8-29 noches),136.0,136.0,17.0,2
+Manhattan,Harlem,Shared room,5. Mensual / Larga (30+ noches),65.0,65.0,30.0,1
+Manhattan,Hell's Kitchen,Entire home/apt,1. Corta (1 noche),259.0980392156863,200.0,1.0,204
+Manhattan,Hell's Kitchen,Entire home/apt,2. Corta-Media (2-3 noches),266.82151029748286,225.0,2.4897025171624714,437
+Manhattan,Hell's Kitchen,Entire home/apt,3. Semanal (4-7 noches),232.74162679425837,200.0,5.028708133971292,209
+Manhattan,Hell's Kitchen,Entire home/apt,4. Quincenal (8-29 noches),175.0222222222222,182.0,20.133333333333333,45
+Manhattan,Hell's Kitchen,Entire home/apt,5. Mensual / Larga (30+ noches),259.6232876712329,190.0,33.64383561643836,292
+Manhattan,Hell's Kitchen,Private room,1. Corta (1 noche),152.99655172413793,120.0,1.0,290
+Manhattan,Hell's Kitchen,Private room,2. Corta-Media (2-3 noches),125.56221198156682,120.0,2.414746543778802,217
+Manhattan,Hell's Kitchen,Private room,3. Semanal (4-7 noches),107.91129032258064,100.0,5.475806451612903,124
+Manhattan,Hell's Kitchen,Private room,4. Quincenal (8-29 noches),108.33333333333333,100.0,14.095238095238095,21
+Manhattan,Hell's Kitchen,Private room,5. Mensual / Larga (30+ noches),122.05,63.5,49.9,20
+Manhattan,Hell's Kitchen,Shared room,1. Corta (1 noche),84.28571428571429,75.0,1.0,84
+Manhattan,Hell's Kitchen,Shared room,2. Corta-Media (2-3 noches),181.0909090909091,100.0,2.1818181818181817,11
+Manhattan,Hell's Kitchen,Shared room,3. Semanal (4-7 noches),106.66666666666667,105.0,4.666666666666667,3
+Manhattan,Hell's Kitchen,Shared room,4. Quincenal (8-29 noches),96.0,96.0,10.0,1
+Manhattan,Inwood,Entire home/apt,1. Corta (1 noche),113.22727272727273,100.0,1.0,22
+Manhattan,Inwood,Entire home/apt,2. Corta-Media (2-3 noches),134.575,117.5,2.45,40
+Manhattan,Inwood,Entire home/apt,3. Semanal (4-7 noches),106.72,99.0,4.88,25
+Manhattan,Inwood,Entire home/apt,4. Quincenal (8-29 noches),89.0909090909091,89.0,16.90909090909091,11
+Manhattan,Inwood,Entire home/apt,5. Mensual / Larga (30+ noches),118.8,115.0,30.0,5
+Manhattan,Inwood,Private room,1. Corta (1 noche),71.5111111111111,60.0,1.0,45
+Manhattan,Inwood,Private room,2. Corta-Media (2-3 noches),72.7719298245614,60.0,2.473684210526316,57
+Manhattan,Inwood,Private room,3. Semanal (4-7 noches),63.71875,58.0,5.15625,32
+Manhattan,Inwood,Private room,4. Quincenal (8-29 noches),35.333333333333336,34.0,23.166666666666668,6
+Manhattan,Inwood,Private room,5. Mensual / Larga (30+ noches),42.0,48.0,56.0,5
+Manhattan,Inwood,Shared room,1. Corta (1 noche),164.5,164.5,1.0,2
+Manhattan,Inwood,Shared room,2. Corta-Media (2-3 noches),40.0,40.0,2.0,1
+Manhattan,Inwood,Shared room,3. Semanal (4-7 noches),90.0,90.0,6.0,1
+Manhattan,Kips Bay,Entire home/apt,1. Corta (1 noche),325.06060606060606,222.0,1.0,66
+Manhattan,Kips Bay,Entire home/apt,2. Corta-Media (2-3 noches),249.3063063063063,195.0,2.4324324324324325,111
+Manhattan,Kips Bay,Entire home/apt,3. Semanal (4-7 noches),201.30769230769232,187.0,5.230769230769231,52
+Manhattan,Kips Bay,Entire home/apt,4. Quincenal (8-29 noches),188.61904761904762,185.0,21.476190476190474,21
+Manhattan,Kips Bay,Entire home/apt,5. Mensual / Larga (30+ noches),196.74444444444444,159.0,40.422222222222224,90
+Manhattan,Kips Bay,Private room,1. Corta (1 noche),104.65625,97.0,1.0,32
+Manhattan,Kips Bay,Private room,2. Corta-Media (2-3 noches),137.75675675675674,120.0,2.3783783783783785,37
+Manhattan,Kips Bay,Private room,3. Semanal (4-7 noches),94.9090909090909,97.5,5.181818181818182,22
+Manhattan,Kips Bay,Private room,4. Quincenal (8-29 noches),88.75,86.5,18.0,12
+Manhattan,Kips Bay,Private room,5. Mensual / Larga (30+ noches),74.0,75.0,53.333333333333336,9
+Manhattan,Kips Bay,Shared room,1. Corta (1 noche),62.5,57.0,1.0,4
+Manhattan,Kips Bay,Shared room,2. Corta-Media (2-3 noches),40.75,39.0,2.0,12
+Manhattan,Kips Bay,Shared room,3. Semanal (4-7 noches),65.0,65.0,4.0,1
+Manhattan,Kips Bay,Shared room,5. Mensual / Larga (30+ noches),800.0,800.0,30.0,1
+Manhattan,Little Italy,Entire home/apt,1. Corta (1 noche),594.5384615384615,220.0,1.0,13
+Manhattan,Little Italy,Entire home/apt,2. Corta-Media (2-3 noches),258.03333333333336,222.5,2.533333333333333,30
+Manhattan,Little Italy,Entire home/apt,3. Semanal (4-7 noches),302.27272727272725,195.0,5.0,11
+Manhattan,Little Italy,Entire home/apt,4. Quincenal (8-29 noches),139.66666666666666,130.0,18.333333333333332,3
+Manhattan,Little Italy,Entire home/apt,5. Mensual / Larga (30+ noches),152.73684210526315,142.0,32.05263157894737,19
+Manhattan,Little Italy,Private room,1. Corta (1 noche),102.0,100.0,1.0,5
+Manhattan,Little Italy,Private room,2. Corta-Media (2-3 noches),109.625,95.0,2.4375,16
+Manhattan,Little Italy,Private room,3. Semanal (4-7 noches),93.7,90.0,5.3,10
+Manhattan,Little Italy,Private room,4. Quincenal (8-29 noches),68.25,72.5,20.75,4
+Manhattan,Little Italy,Private room,5. Mensual / Larga (30+ noches),75.0,59.0,65.16666666666667,6
+Manhattan,Little Italy,Shared room,1. Corta (1 noche),300.0,300.0,1.0,2
+Manhattan,Little Italy,Shared room,2. Corta-Media (2-3 noches),165.0,165.0,2.0,1
+Manhattan,Little Italy,Shared room,3. Semanal (4-7 noches),65.0,65.0,5.0,1
+Manhattan,Lower East Side,Entire home/apt,1. Corta (1 noche),239.5631067961165,190.0,1.0,103
+Manhattan,Lower East Side,Entire home/apt,2. Corta-Media (2-3 noches),219.36405529953916,198.0,2.4838709677419355,217
+Manhattan,Lower East Side,Entire home/apt,3. Semanal (4-7 noches),209.29661016949152,180.0,4.9576271186440675,118
+Manhattan,Lower East Side,Entire home/apt,4. Quincenal (8-29 noches),171.30434782608697,149.0,16.08695652173913,23
+Manhattan,Lower East Side,Entire home/apt,5. Mensual / Larga (30+ noches),393.1333333333333,170.0,33.06666666666667,45
+Manhattan,Lower East Side,Private room,1. Corta (1 noche),116.69172932330827,99.0,1.0,133
+Manhattan,Lower East Side,Private room,2. Corta-Media (2-3 noches),110.83846153846154,99.0,2.4461538461538463,130
+Manhattan,Lower East Side,Private room,3. Semanal (4-7 noches),90.04838709677419,89.0,4.887096774193548,62
+Manhattan,Lower East Side,Private room,4. Quincenal (8-29 noches),90.87096774193549,79.0,14.290322580645162,31
+Manhattan,Lower East Side,Private room,5. Mensual / Larga (30+ noches),988.0909090909091,76.0,36.27272727272727,11
+Manhattan,Lower East Side,Shared room,1. Corta (1 noche),63.833333333333336,59.0,1.0,6
+Manhattan,Lower East Side,Shared room,2. Corta-Media (2-3 noches),91.5,95.0,2.25,4
+Manhattan,Lower East Side,Shared room,4. Quincenal (8-29 noches),34.95454545454545,35.0,14.045454545454545,22
+Manhattan,Lower East Side,Shared room,5. Mensual / Larga (30+ noches),68.33333333333333,33.0,93.33333333333333,6
+Manhattan,Marble Hill,Entire home/apt,1. Corta (1 noche),99.0,99.0,1.0,2
+Manhattan,Marble Hill,Entire home/apt,2. Corta-Media (2-3 noches),85.5,85.5,3.0,2
+Manhattan,Marble Hill,Entire home/apt,3. Semanal (4-7 noches),90.0,90.0,5.0,1
+Manhattan,Marble Hill,Private room,1. Corta (1 noche),50.0,50.0,1.0,1
+Manhattan,Marble Hill,Private room,2. Corta-Media (2-3 noches),103.4,65.0,2.4,5
+Manhattan,Marble Hill,Private room,3. Semanal (4-7 noches),44.0,44.0,5.0,1
+Manhattan,Midtown,Entire home/apt,1. Corta (1 noche),312.22222222222223,210.0,1.0,189
+Manhattan,Midtown,Entire home/apt,2. Corta-Media (2-3 noches),327.7982195845697,250.0,2.477744807121662,337
+Manhattan,Midtown,Entire home/apt,3. Semanal (4-7 noches),285.73333333333335,222.5,5.127777777777778,180
+Manhattan,Midtown,Entire home/apt,4. Quincenal (8-29 noches),368.679012345679,239.0,24.765432098765434,81
+Manhattan,Midtown,Entire home/apt,5. Mensual / Larga (30+ noches),257.5782747603834,200.0,38.239616613418534,313
+Manhattan,Midtown,Private room,1. Corta (1 noche),218.8909090909091,145.0,1.0,165
+Manhattan,Midtown,Private room,2. Corta-Media (2-3 noches),286.3369565217391,196.5,2.5380434782608696,184
+Manhattan,Midtown,Private room,3. Semanal (4-7 noches),224.69387755102042,135.0,5.081632653061225,49
+Manhattan,Midtown,Private room,4. Quincenal (8-29 noches),111.4,94.5,12.8,10
+Manhattan,Midtown,Private room,5. Mensual / Larga (30+ noches),158.71428571428572,80.5,58.5,14
+Manhattan,Midtown,Shared room,1. Corta (1 noche),106.86666666666666,80.0,1.0,15
+Manhattan,Midtown,Shared room,2. Corta-Media (2-3 noches),75.8,65.0,2.6,5
+Manhattan,Midtown,Shared room,3. Semanal (4-7 noches),91.66666666666667,55.0,4.666666666666667,3
+Manhattan,Morningside Heights,Entire home/apt,1. Corta (1 noche),137.24,100.0,1.0,25
+Manhattan,Morningside Heights,Entire home/apt,2. Corta-Media (2-3 noches),155.67924528301887,140.0,2.4150943396226414,53
+Manhattan,Morningside Heights,Entire home/apt,3. Semanal (4-7 noches),161.2173913043478,145.0,5.282608695652174,46
+Manhattan,Morningside Heights,Entire home/apt,4. Quincenal (8-29 noches),126.3157894736842,110.0,14.157894736842104,19
+Manhattan,Morningside Heights,Entire home/apt,5. Mensual / Larga (30+ noches),119.71428571428571,113.0,36.714285714285715,7
+Manhattan,Morningside Heights,Private room,1. Corta (1 noche),90.70588235294117,80.0,1.0,68
+Manhattan,Morningside Heights,Private room,2. Corta-Media (2-3 noches),84.28333333333333,75.0,2.5,60
+Manhattan,Morningside Heights,Private room,3. Semanal (4-7 noches),83.05882352941177,71.5,5.235294117647059,34
+Manhattan,Morningside Heights,Private room,4. Quincenal (8-29 noches),66.04761904761905,60.0,15.047619047619047,21
+Manhattan,Morningside Heights,Private room,5. Mensual / Larga (30+ noches),186.55555555555554,65.0,36.77777777777778,9
+Manhattan,Morningside Heights,Shared room,1. Corta (1 noche),35.0,35.0,1.0,1
+Manhattan,Morningside Heights,Shared room,2. Corta-Media (2-3 noches),70.0,70.0,3.0,1
+Manhattan,Morningside Heights,Shared room,3. Semanal (4-7 noches),79.5,79.5,4.5,2
+Manhattan,Murray Hill,Entire home/apt,1. Corta (1 noche),282.7391304347826,209.5,1.0,46
+Manhattan,Murray Hill,Entire home/apt,2. Corta-Media (2-3 noches),264.2828282828283,235.0,2.393939393939394,99
+Manhattan,Murray Hill,Entire home/apt,3. Semanal (4-7 noches),324.26666666666665,250.0,4.933333333333334,45
+Manhattan,Murray Hill,Entire home/apt,4. Quincenal (8-29 noches),178.3125,184.5,26.729166666666668,48
+Manhattan,Murray Hill,Entire home/apt,5. Mensual / Larga (30+ noches),202.3726708074534,189.0,33.72670807453416,161
+Manhattan,Murray Hill,Private room,1. Corta (1 noche),128.88571428571427,120.0,1.0,35
+Manhattan,Murray Hill,Private room,2. Corta-Media (2-3 noches),187.7058823529412,138.0,2.235294117647059,17
+Manhattan,Murray Hill,Private room,3. Semanal (4-7 noches),114.73333333333333,90.0,4.866666666666666,15
+Manhattan,Murray Hill,Private room,4. Quincenal (8-29 noches),101.0,85.0,11.8,5
+Manhattan,Murray Hill,Private room,5. Mensual / Larga (30+ noches),136.25,126.5,30.0,4
+Manhattan,Murray Hill,Shared room,1. Corta (1 noche),139.6,120.0,1.0,5
+Manhattan,Murray Hill,Shared room,2. Corta-Media (2-3 noches),218.2,49.0,2.6,5
+Manhattan,NoHo,Entire home/apt,1. Corta (1 noche),330.1764705882353,225.0,1.0,17
+Manhattan,NoHo,Entire home/apt,2. Corta-Media (2-3 noches),288.44444444444446,255.0,2.3333333333333335,27
+Manhattan,NoHo,Entire home/apt,3. Semanal (4-7 noches),316.5,312.0,5.714285714285714,14
+Manhattan,NoHo,Entire home/apt,4. Quincenal (8-29 noches),240.83333333333334,241.5,13.166666666666666,6
+Manhattan,NoHo,Entire home/apt,5. Mensual / Larga (30+ noches),375.14285714285717,407.0,30.0,7
+Manhattan,NoHo,Private room,1. Corta (1 noche),125.0,125.0,1.0,1
+Manhattan,NoHo,Private room,2. Corta-Media (2-3 noches),191.6,208.0,2.0,5
+Manhattan,NoHo,Private room,3. Semanal (4-7 noches),80.0,80.0,7.0,1
+Manhattan,Nolita,Entire home/apt,1. Corta (1 noche),441.32142857142856,230.0,1.0,28
+Manhattan,Nolita,Entire home/apt,2. Corta-Media (2-3 noches),268.97435897435895,200.0,2.4615384615384617,78
+Manhattan,Nolita,Entire home/apt,3. Semanal (4-7 noches),270.3170731707317,250.0,5.2439024390243905,41
+Manhattan,Nolita,Entire home/apt,4. Quincenal (8-29 noches),176.6,140.0,21.0,5
+Manhattan,Nolita,Entire home/apt,5. Mensual / Larga (30+ noches),239.46153846153845,217.0,45.23076923076923,13
+Manhattan,Nolita,Private room,1. Corta (1 noche),110.88,105.0,1.0,25
+Manhattan,Nolita,Private room,2. Corta-Media (2-3 noches),120.16666666666667,100.0,2.4583333333333335,24
+Manhattan,Nolita,Private room,3. Semanal (4-7 noches),123.28571428571429,100.0,5.666666666666667,21
+Manhattan,Nolita,Private room,4. Quincenal (8-29 noches),90.42857142857143,95.0,12.428571428571429,7
+Manhattan,Nolita,Private room,5. Mensual / Larga (30+ noches),88.25,64.0,41.375,8
+Manhattan,Nolita,Shared room,1. Corta (1 noche),75.0,70.0,1.0,3
+Manhattan,Roosevelt Island,Entire home/apt,1. Corta (1 noche),136.0,145.0,1.0,5
+Manhattan,Roosevelt Island,Entire home/apt,2. Corta-Media (2-3 noches),174.6,185.0,2.2,5
+Manhattan,Roosevelt Island,Entire home/apt,3. Semanal (4-7 noches),151.83333333333334,155.0,5.166666666666667,6
+Manhattan,Roosevelt Island,Entire home/apt,4. Quincenal (8-29 noches),195.0,195.0,14.0,1
+Manhattan,Roosevelt Island,Entire home/apt,5. Mensual / Larga (30+ noches),762.5,762.5,75.0,2
+Manhattan,Roosevelt Island,Private room,1. Corta (1 noche),79.33333333333333,75.0,1.0,15
+Manhattan,Roosevelt Island,Private room,2. Corta-Media (2-3 noches),86.68181818181819,79.5,2.4545454545454546,22
+Manhattan,Roosevelt Island,Private room,3. Semanal (4-7 noches),86.6,79.5,6.0,10
+Manhattan,Roosevelt Island,Private room,4. Quincenal (8-29 noches),55.714285714285715,55.0,17.714285714285715,7
+Manhattan,Roosevelt Island,Private room,5. Mensual / Larga (30+ noches),54.0,54.0,30.0,1
+Manhattan,Roosevelt Island,Shared room,1. Corta (1 noche),45.0,45.0,1.0,1
+Manhattan,Roosevelt Island,Shared room,3. Semanal (4-7 noches),42.5,42.5,5.5,2
+Manhattan,SoHo,Entire home/apt,1. Corta (1 noche),285.5,200.0,1.0,36
+Manhattan,SoHo,Entire home/apt,2. Corta-Media (2-3 noches),393.6875,250.0,2.3839285714285716,112
+Manhattan,SoHo,Entire home/apt,3. Semanal (4-7 noches),393.53225806451616,275.0,4.806451612903226,62
+Manhattan,SoHo,Entire home/apt,4. Quincenal (8-29 noches),285.45454545454544,200.0,15.363636363636363,11
+Manhattan,SoHo,Entire home/apt,5. Mensual / Larga (30+ noches),310.2,199.5,37.55,20
+Manhattan,SoHo,Private room,1. Corta (1 noche),115.44897959183673,105.0,1.0,49
+Manhattan,SoHo,Private room,2. Corta-Media (2-3 noches),130.21621621621622,120.0,2.5675675675675675,37
+Manhattan,SoHo,Private room,3. Semanal (4-7 noches),155.0952380952381,142.0,5.238095238095238,21
+Manhattan,SoHo,Private room,4. Quincenal (8-29 noches),80.0,80.0,16.333333333333332,3
+Manhattan,SoHo,Private room,5. Mensual / Larga (30+ noches),80.4,80.0,60.0,5
+Manhattan,SoHo,Shared room,1. Corta (1 noche),100.0,100.0,1.0,1
+Manhattan,SoHo,Shared room,2. Corta-Media (2-3 noches),195.0,195.0,2.0,1
+Manhattan,Stuyvesant Town,Entire home/apt,1. Corta (1 noche),610.0,170.0,1.0,3
+Manhattan,Stuyvesant Town,Entire home/apt,2. Corta-Media (2-3 noches),234.0,234.0,2.0,2
+Manhattan,Stuyvesant Town,Entire home/apt,3. Semanal (4-7 noches),157.0,157.0,4.5,2
+Manhattan,Stuyvesant Town,Entire home/apt,4. Quincenal (8-29 noches),219.0,219.0,15.0,2
+Manhattan,Stuyvesant Town,Entire home/apt,5. Mensual / Larga (30+ noches),160.0,150.0,41.666666666666664,3
+Manhattan,Stuyvesant Town,Private room,1. Corta (1 noche),156.25,95.0,1.0,8
+Manhattan,Stuyvesant Town,Private room,2. Corta-Media (2-3 noches),94.5,79.0,2.625,8
+Manhattan,Stuyvesant Town,Private room,3. Semanal (4-7 noches),93.0,99.0,4.333333333333333,3
+Manhattan,Stuyvesant Town,Private room,4. Quincenal (8-29 noches),74.5,74.5,17.5,2
+Manhattan,Stuyvesant Town,Private room,5. Mensual / Larga (30+ noches),79.0,82.0,40.333333333333336,3
+Manhattan,Stuyvesant Town,Shared room,1. Corta (1 noche),56.0,56.0,1.0,1
+Manhattan,Theater District,Entire home/apt,1. Corta (1 noche),654.8,273.0,1.0,15
+Manhattan,Theater District,Entire home/apt,2. Corta-Media (2-3 noches),342.88,230.0,2.44,25
+Manhattan,Theater District,Entire home/apt,3. Semanal (4-7 noches),355.52941176470586,325.0,4.823529411764706,17
+Manhattan,Theater District,Entire home/apt,4. Quincenal (8-29 noches),260.2631578947368,198.5,25.657894736842106,38
+Manhattan,Theater District,Entire home/apt,5. Mensual / Larga (30+ noches),258.7536231884058,256.0,31.318840579710145,69
+Manhattan,Theater District,Private room,1. Corta (1 noche),153.34883720930233,100.0,1.0,86
+Manhattan,Theater District,Private room,2. Corta-Media (2-3 noches),199.42105263157896,139.0,2.526315789473684,19
+Manhattan,Theater District,Private room,3. Semanal (4-7 noches),133.27272727272728,125.0,5.0,11
+Manhattan,Theater District,Private room,4. Quincenal (8-29 noches),105.0,87.5,12.5,4
+Manhattan,Theater District,Private room,5. Mensual / Larga (30+ noches),112.5,112.5,75.0,2
+Manhattan,Theater District,Shared room,2. Corta-Media (2-3 noches),79.0,79.0,2.0,2
+Manhattan,Tribeca,Entire home/apt,1. Corta (1 noche),727.1739130434783,500.0,1.0,23
+Manhattan,Tribeca,Entire home/apt,2. Corta-Media (2-3 noches),425.8837209302326,295.0,2.5813953488372094,43
+Manhattan,Tribeca,Entire home/apt,3. Semanal (4-7 noches),527.5454545454545,365.0,5.181818181818182,22
+Manhattan,Tribeca,Entire home/apt,4. Quincenal (8-29 noches),416.1666666666667,470.0,13.833333333333334,12
+Manhattan,Tribeca,Entire home/apt,5. Mensual / Larga (30+ noches),667.4883720930233,299.0,33.51162790697674,43
+Manhattan,Tribeca,Private room,1. Corta (1 noche),216.8421052631579,107.0,1.0,19
+Manhattan,Tribeca,Private room,2. Corta-Media (2-3 noches),132.66666666666666,123.5,2.5,6
+Manhattan,Tribeca,Private room,3. Semanal (4-7 noches),257.4,197.0,5.2,5
+Manhattan,Tribeca,Private room,4. Quincenal (8-29 noches),65.0,65.0,19.5,2
+Manhattan,Tribeca,Private room,5. Mensual / Larga (30+ noches),85.0,85.0,30.0,2
+Manhattan,Two Bridges,Entire home/apt,1. Corta (1 noche),116.75,116.5,1.0,4
+Manhattan,Two Bridges,Entire home/apt,2. Corta-Media (2-3 noches),181.0,175.0,2.533333333333333,15
+Manhattan,Two Bridges,Entire home/apt,3. Semanal (4-7 noches),173.42857142857142,149.0,4.857142857142857,7
+Manhattan,Two Bridges,Private room,1. Corta (1 noche),98.95238095238095,89.0,1.0,21
+Manhattan,Two Bridges,Private room,2. Corta-Media (2-3 noches),115.0,105.0,2.75,16
+Manhattan,Two Bridges,Private room,3. Semanal (4-7 noches),83.0,80.0,6.0,5
+Manhattan,Two Bridges,Private room,4. Quincenal (8-29 noches),95.0,95.0,15.0,2
+Manhattan,Two Bridges,Private room,5. Mensual / Larga (30+ noches),115.0,115.0,75.0,2
+Manhattan,Upper East Side,Entire home/apt,1. Corta (1 noche),278.46781115879827,160.0,1.0,233
+Manhattan,Upper East Side,Entire home/apt,2. Corta-Media (2-3 noches),203.03571428571428,170.0,2.4309523809523808,420
+Manhattan,Upper East Side,Entire home/apt,3. Semanal (4-7 noches),223.61971830985917,180.0,5.235915492957746,284
+Manhattan,Upper East Side,Entire home/apt,4. Quincenal (8-29 noches),168.609375,150.0,15.796875,64
+Manhattan,Upper East Side,Entire home/apt,5. Mensual / Larga (30+ noches),193.18122977346277,153.0,32.689320388349515,309
+Manhattan,Upper East Side,Private room,1. Corta (1 noche),114.26060606060607,100.0,1.0,165
+Manhattan,Upper East Side,Private room,2. Corta-Media (2-3 noches),131.8896551724138,99.0,2.462068965517241,145
+Manhattan,Upper East Side,Private room,3. Semanal (4-7 noches),123.87671232876713,99.0,4.917808219178082,73
+Manhattan,Upper East Side,Private room,4. Quincenal (8-29 noches),86.91428571428571,81.0,14.714285714285714,35
+Manhattan,Upper East Side,Private room,5. Mensual / Larga (30+ noches),68.6086956521739,65.0,42.34782608695652,23
+Manhattan,Upper East Side,Shared room,1. Corta (1 noche),75.77777777777777,70.0,1.0,27
+Manhattan,Upper East Side,Shared room,2. Corta-Media (2-3 noches),120.625,107.0,2.375,8
+Manhattan,Upper East Side,Shared room,3. Semanal (4-7 noches),105.0,110.0,6.0,3
+Manhattan,Upper East Side,Shared room,4. Quincenal (8-29 noches),90.0,90.0,26.0,1
+Manhattan,Upper East Side,Shared room,5. Mensual / Larga (30+ noches),65.375,60.0,30.0,8
+Manhattan,Upper West Side,Entire home/apt,1. Corta (1 noche),316.9238095238095,180.0,1.0,210
+Manhattan,Upper West Side,Entire home/apt,2. Corta-Media (2-3 noches),215.94516971279373,188.0,2.4830287206266317,383
+Manhattan,Upper West Side,Entire home/apt,3. Semanal (4-7 noches),244.6332179930796,199.0,5.252595155709343,289
+Manhattan,Upper West Side,Entire home/apt,4. Quincenal (8-29 noches),279.39473684210526,150.0,15.078947368421053,76
+Manhattan,Upper West Side,Entire home/apt,5. Mensual / Larga (30+ noches),295.0838926174497,188.0,34.0503355704698,298
+Manhattan,Upper West Side,Private room,1. Corta (1 noche),119.4274193548387,94.0,1.0,248
+Manhattan,Upper West Side,Private room,2. Corta-Media (2-3 noches),110.8211009174312,98.0,2.463302752293578,218
+Manhattan,Upper West Side,Private room,3. Semanal (4-7 noches),135.32,90.0,5.26,100
+Manhattan,Upper West Side,Private room,4. Quincenal (8-29 noches),101.13636363636364,89.0,15.931818181818182,44
+Manhattan,Upper West Side,Private room,5. Mensual / Larga (30+ noches),169.58461538461538,60.0,41.10769230769231,65
+Manhattan,Upper West Side,Shared room,1. Corta (1 noche),93.57142857142857,61.0,1.0,21
+Manhattan,Upper West Side,Shared room,2. Corta-Media (2-3 noches),86.8125,69.0,2.5,16
+Manhattan,Upper West Side,Shared room,3. Semanal (4-7 noches),190.0,190.0,6.0,2
+Manhattan,Upper West Side,Shared room,5. Mensual / Larga (30+ noches),75.0,75.0,30.0,1
+Manhattan,Washington Heights,Entire home/apt,1. Corta (1 noche),168.60655737704917,120.0,1.0,61
+Manhattan,Washington Heights,Entire home/apt,2. Corta-Media (2-3 noches),143.38317757009347,125.0,2.457943925233645,107
+Manhattan,Washington Heights,Entire home/apt,3. Semanal (4-7 noches),126.0,105.0,5.226190476190476,84
+Manhattan,Washington Heights,Entire home/apt,4. Quincenal (8-29 noches),98.92307692307692,90.0,14.923076923076923,13
+Manhattan,Washington Heights,Entire home/apt,5. Mensual / Larga (30+ noches),101.12903225806451,85.0,69.03225806451613,31
+Manhattan,Washington Heights,Private room,1. Corta (1 noche),67.48633879781421,60.0,1.0,183
+Manhattan,Washington Heights,Private room,2. Corta-Media (2-3 noches),68.5984555984556,65.0,2.393822393822394,259
+Manhattan,Washington Heights,Private room,3. Semanal (4-7 noches),61.48863636363637,55.0,5.3977272727272725,88
+Manhattan,Washington Heights,Private room,4. Quincenal (8-29 noches),45.47826086956522,45.0,15.26086956521739,23
+Manhattan,Washington Heights,Private room,5. Mensual / Larga (30+ noches),65.26086956521739,53.0,48.30434782608695,23
+Manhattan,Washington Heights,Shared room,1. Corta (1 noche),64.66666666666667,42.0,1.0,21
+Manhattan,Washington Heights,Shared room,2. Corta-Media (2-3 noches),82.5,82.5,2.1666666666666665,6
+Manhattan,West Village,Entire home/apt,1. Corta (1 noche),344.3168316831683,220.0,1.0,101
+Manhattan,West Village,Entire home/apt,2. Corta-Media (2-3 noches),270.5,225.0,2.456081081081081,296
+Manhattan,West Village,Entire home/apt,3. Semanal (4-7 noches),282.09929078014187,200.0,5.0,141
+Manhattan,West Village,Entire home/apt,4. Quincenal (8-29 noches),205.65714285714284,199.0,15.8,35
+Manhattan,West Village,Entire home/apt,5. Mensual / Larga (30+ noches),252.3625,199.0,37.1875,80
+Manhattan,West Village,Private room,1. Corta (1 noche),230.85106382978722,115.0,1.0,47
+Manhattan,West Village,Private room,2. Corta-Media (2-3 noches),152.86363636363637,122.5,2.3181818181818183,44
+Manhattan,West Village,Private room,3. Semanal (4-7 noches),119.16666666666667,103.0,5.25,12
+Manhattan,West Village,Private room,4. Quincenal (8-29 noches),92.66666666666667,99.0,18.0,3
+Manhattan,West Village,Private room,5. Mensual / Larga (30+ noches),624.8333333333334,115.0,107.5,6
+Manhattan,West Village,Shared room,1. Corta (1 noche),95.0,95.0,1.0,2
+Manhattan,West Village,Shared room,2. Corta-Media (2-3 noches),350.0,350.0,2.0,1
+Queens,Arverne,Entire home/apt,1. Corta (1 noche),183.31578947368422,137.0,1.0,19
+Queens,Arverne,Entire home/apt,2. Corta-Media (2-3 noches),251.75,195.0,2.1785714285714284,28
+Queens,Arverne,Entire home/apt,3. Semanal (4-7 noches),250.0,250.0,4.0,1
+Queens,Arverne,Private room,1. Corta (1 noche),78.58823529411765,69.0,1.0,17
+Queens,Arverne,Private room,2. Corta-Media (2-3 noches),103.3,75.0,2.4,10
+Queens,Arverne,Shared room,1. Corta (1 noche),38.0,38.0,1.0,2
+Queens,Astoria,Entire home/apt,1. Corta (1 noche),128.48529411764707,124.0,1.0,68
+Queens,Astoria,Entire home/apt,2. Corta-Media (2-3 noches),150.17964071856287,125.0,2.431137724550898,167
+Queens,Astoria,Entire home/apt,3. Semanal (4-7 noches),150.07,121.0,5.05,100
+Queens,Astoria,Entire home/apt,4. Quincenal (8-29 noches),114.64,109.0,15.96,25
+Queens,Astoria,Entire home/apt,5. Mensual / Larga (30+ noches),118.47619047619048,100.0,35.19047619047619,21
+Queens,Astoria,Private room,1. Corta (1 noche),75.74857142857142,65.0,1.0,175
+Queens,Astoria,Private room,2. Corta-Media (2-3 noches),76.79289940828403,70.0,2.366863905325444,169
+Queens,Astoria,Private room,3. Semanal (4-7 noches),67.31460674157303,65.0,5.134831460674158,89
+Queens,Astoria,Private room,4. Quincenal (8-29 noches),58.833333333333336,55.0,15.666666666666666,24
+Queens,Astoria,Private room,5. Mensual / Larga (30+ noches),375.0,47.0,48.567567567567565,37
+Queens,Astoria,Shared room,1. Corta (1 noche),72.15384615384616,42.0,1.0,13
+Queens,Astoria,Shared room,2. Corta-Media (2-3 noches),413.6666666666667,52.5,2.3333333333333335,6
+Queens,Astoria,Shared room,3. Semanal (4-7 noches),80.0,75.0,4.666666666666667,3
+Queens,Astoria,Shared room,4. Quincenal (8-29 noches),45.0,45.0,10.0,1
+Queens,Astoria,Shared room,5. Mensual / Larga (30+ noches),37.0,37.0,30.0,2
+Queens,Bay Terrace,Entire home/apt,1. Corta (1 noche),258.0,258.0,1.0,1
+Queens,Bay Terrace,Entire home/apt,2. Corta-Media (2-3 noches),186.5,186.5,3.0,2
+Queens,Bay Terrace,Private room,2. Corta-Media (2-3 noches),94.5,94.5,3.0,2
+Queens,Bay Terrace,Shared room,2. Corta-Media (2-3 noches),32.0,32.0,2.0,1
+Queens,Bayside,Entire home/apt,1. Corta (1 noche),202.5,202.5,1.0,2
+Queens,Bayside,Entire home/apt,2. Corta-Media (2-3 noches),159.85714285714286,175.0,2.2857142857142856,7
+Queens,Bayside,Entire home/apt,3. Semanal (4-7 noches),773.0,219.5,5.25,4
+Queens,Bayside,Private room,1. Corta (1 noche),61.76923076923077,49.0,1.0,13
+Queens,Bayside,Private room,2. Corta-Media (2-3 noches),48.0,45.0,2.25,4
+Queens,Bayside,Private room,3. Semanal (4-7 noches),74.8,65.0,6.2,5
+Queens,Bayside,Private room,4. Quincenal (8-29 noches),45.0,30.0,13.333333333333334,3
+Queens,Bayside,Private room,5. Mensual / Larga (30+ noches),40.0,40.0,31.0,1
+Queens,Bayswater,Entire home/apt,1. Corta (1 noche),175.0,175.0,1.0,2
+Queens,Bayswater,Entire home/apt,2. Corta-Media (2-3 noches),115.5,115.5,2.0,2
+Queens,Bayswater,Entire home/apt,3. Semanal (4-7 noches),105.0,105.0,4.0,1
+Queens,Bayswater,Private room,1. Corta (1 noche),62.0,60.0,1.0,6
+Queens,Bayswater,Private room,2. Corta-Media (2-3 noches),75.0,60.0,2.3333333333333335,3
+Queens,Bayswater,Private room,3. Semanal (4-7 noches),105.0,105.0,5.0,1
+Queens,Bayswater,Private room,5. Mensual / Larga (30+ noches),49.5,49.5,30.0,2
+Queens,Belle Harbor,Entire home/apt,1. Corta (1 noche),142.5,142.5,1.0,2
+Queens,Belle Harbor,Entire home/apt,2. Corta-Media (2-3 noches),184.0,105.0,2.3333333333333335,3
+Queens,Belle Harbor,Private room,1. Corta (1 noche),225.0,225.0,1.0,1
+Queens,Belle Harbor,Private room,2. Corta-Media (2-3 noches),155.0,155.0,2.0,2
+Queens,Bellerose,Entire home/apt,2. Corta-Media (2-3 noches),154.0,180.0,2.3333333333333335,3
+Queens,Bellerose,Private room,1. Corta (1 noche),80.66666666666667,85.0,1.0,6
+Queens,Bellerose,Private room,2. Corta-Media (2-3 noches),73.75,65.0,2.5,4
+Queens,Bellerose,Shared room,2. Corta-Media (2-3 noches),150.0,150.0,2.0,1
+Queens,Breezy Point,Private room,1. Corta (1 noche),213.33333333333334,195.0,1.0,3
+Queens,Briarwood,Entire home/apt,1. Corta (1 noche),72.25,67.5,1.0,8
+Queens,Briarwood,Entire home/apt,2. Corta-Media (2-3 noches),242.42857142857142,93.0,2.2857142857142856,7
+Queens,Briarwood,Entire home/apt,3. Semanal (4-7 noches),138.0,85.0,4.666666666666667,3
+Queens,Briarwood,Private room,1. Corta (1 noche),83.8,70.0,1.0,20
+Queens,Briarwood,Private room,2. Corta-Media (2-3 noches),73.2,60.0,2.1,10
+Queens,Briarwood,Private room,3. Semanal (4-7 noches),126.0,73.0,4.6,5
+Queens,Briarwood,Shared room,1. Corta (1 noche),51.5,51.5,1.0,2
+Queens,Briarwood,Shared room,2. Corta-Media (2-3 noches),99.0,99.0,2.0,1
+Queens,Cambria Heights,Entire home/apt,1. Corta (1 noche),180.0,180.0,1.0,1
+Queens,Cambria Heights,Entire home/apt,2. Corta-Media (2-3 noches),136.0,160.0,2.0,3
+Queens,Cambria Heights,Private room,1. Corta (1 noche),67.0,50.0,1.0,11
+Queens,Cambria Heights,Private room,2. Corta-Media (2-3 noches),75.71428571428571,65.0,2.4285714285714284,7
+Queens,Cambria Heights,Private room,3. Semanal (4-7 noches),67.5,65.0,5.5,4
+Queens,College Point,Entire home/apt,1. Corta (1 noche),78.0,69.0,1.0,3
+Queens,College Point,Entire home/apt,2. Corta-Media (2-3 noches),152.4,87.0,2.4,5
+Queens,College Point,Entire home/apt,3. Semanal (4-7 noches),120.0,120.0,7.0,1
+Queens,College Point,Entire home/apt,5. Mensual / Larga (30+ noches),60.0,60.0,30.0,1
+Queens,College Point,Private room,1. Corta (1 noche),59.75,57.0,1.0,4
+Queens,College Point,Private room,2. Corta-Media (2-3 noches),60.0,60.0,2.0,1
+Queens,College Point,Private room,3. Semanal (4-7 noches),49.25,50.0,5.25,4
+Queens,Corona,Entire home/apt,1. Corta (1 noche),96.33333333333333,99.0,1.0,3
+Queens,Corona,Entire home/apt,2. Corta-Media (2-3 noches),145.83333333333334,109.5,2.1666666666666665,6
+Queens,Corona,Entire home/apt,3. Semanal (4-7 noches),95.0,90.0,6.0,3
+Queens,Corona,Entire home/apt,4. Quincenal (8-29 noches),100.0,100.0,14.0,1
+Queens,Corona,Private room,1. Corta (1 noche),55.111111111111114,51.0,1.0,18
+Queens,Corona,Private room,2. Corta-Media (2-3 noches),59.57142857142857,46.0,2.142857142857143,7
+Queens,Corona,Private room,4. Quincenal (8-29 noches),38.0,38.0,16.0,2
+Queens,Corona,Shared room,1. Corta (1 noche),33.0,33.0,1.0,16
+Queens,Corona,Shared room,2. Corta-Media (2-3 noches),28.125,26.5,2.0,8
+Queens,Ditmars Steinway,Entire home/apt,1. Corta (1 noche),138.42307692307693,111.0,1.0,26
+Queens,Ditmars Steinway,Entire home/apt,2. Corta-Media (2-3 noches),129.80357142857142,116.5,2.517857142857143,56
+Queens,Ditmars Steinway,Entire home/apt,3. Semanal (4-7 noches),123.42857142857143,105.0,5.392857142857143,28
+Queens,Ditmars Steinway,Entire home/apt,4. Quincenal (8-29 noches),123.0,125.0,18.444444444444443,9
+Queens,Ditmars Steinway,Entire home/apt,5. Mensual / Larga (30+ noches),69.5,69.5,42.5,2
+Queens,Ditmars Steinway,Private room,1. Corta (1 noche),78.77922077922078,60.0,1.0,77
+Queens,Ditmars Steinway,Private room,2. Corta-Media (2-3 noches),74.76119402985074,69.0,2.298507462686567,67
+Queens,Ditmars Steinway,Private room,3. Semanal (4-7 noches),64.16666666666667,62.5,5.666666666666667,24
+Queens,Ditmars Steinway,Private room,4. Quincenal (8-29 noches),46.0,50.0,16.071428571428573,14
+Queens,Ditmars Steinway,Private room,5. Mensual / Larga (30+ noches),103.25,101.5,43.75,4
+Queens,Ditmars Steinway,Shared room,1. Corta (1 noche),61.0,61.0,1.0,2
+Queens,Douglaston,Entire home/apt,1. Corta (1 noche),99.0,99.0,1.0,1
+Queens,Douglaston,Entire home/apt,2. Corta-Media (2-3 noches),125.0,125.0,3.0,1
+Queens,Douglaston,Entire home/apt,3. Semanal (4-7 noches),178.0,178.0,5.0,1
+Queens,Douglaston,Private room,1. Corta (1 noche),43.333333333333336,45.0,1.0,3
+Queens,Douglaston,Private room,2. Corta-Media (2-3 noches),65.0,65.0,2.0,2
+Queens,East Elmhurst,Entire home/apt,1. Corta (1 noche),122.87096774193549,120.0,1.0,31
+Queens,East Elmhurst,Entire home/apt,2. Corta-Media (2-3 noches),148.78947368421052,135.0,2.3157894736842106,19
+Queens,East Elmhurst,Entire home/apt,3. Semanal (4-7 noches),134.5,134.5,4.0,2
+Queens,East Elmhurst,Entire home/apt,5. Mensual / Larga (30+ noches),109.0,109.0,60.0,1
+Queens,East Elmhurst,Private room,1. Corta (1 noche),61.40425531914894,50.0,1.0,94
+Queens,East Elmhurst,Private room,2. Corta-Media (2-3 noches),64.18518518518519,55.0,2.259259259259259,27
+Queens,East Elmhurst,Private room,3. Semanal (4-7 noches),53.5,47.0,5.0,4
+Queens,East Elmhurst,Private room,4. Quincenal (8-29 noches),42.0,42.0,10.0,1
+Queens,East Elmhurst,Shared room,1. Corta (1 noche),40.666666666666664,40.5,1.0,6
+Queens,Edgemere,Entire home/apt,1. Corta (1 noche),190.0,190.0,1.0,2
+Queens,Edgemere,Entire home/apt,2. Corta-Media (2-3 noches),99.0,99.0,3.0,1
+Queens,Edgemere,Entire home/apt,3. Semanal (4-7 noches),80.0,80.0,7.0,1
+Queens,Edgemere,Private room,1. Corta (1 noche),57.5,57.5,1.0,2
+Queens,Edgemere,Private room,2. Corta-Media (2-3 noches),50.0,50.0,3.0,1
+Queens,Edgemere,Private room,3. Semanal (4-7 noches),195.0,195.0,4.0,1
+Queens,Edgemere,Private room,5. Mensual / Larga (30+ noches),41.0,40.0,30.0,3
+Queens,Elmhurst,Entire home/apt,1. Corta (1 noche),117.66666666666667,120.0,1.0,12
+Queens,Elmhurst,Entire home/apt,2. Corta-Media (2-3 noches),156.53571428571428,137.5,2.25,28
+Queens,Elmhurst,Entire home/apt,3. Semanal (4-7 noches),95.35714285714286,99.0,4.785714285714286,14
+Queens,Elmhurst,Entire home/apt,5. Mensual / Larga (30+ noches),150.25,161.5,37.5,4
+Queens,Elmhurst,Private room,1. Corta (1 noche),77.54794520547945,55.0,1.0,73
+Queens,Elmhurst,Private room,2. Corta-Media (2-3 noches),65.59615384615384,55.0,2.269230769230769,52
+Queens,Elmhurst,Private room,3. Semanal (4-7 noches),55.6,56.5,5.8,10
+Queens,Elmhurst,Private room,4. Quincenal (8-29 noches),41.07142857142857,35.0,26.857142857142858,14
+Queens,Elmhurst,Private room,5. Mensual / Larga (30+ noches),34.95454545454545,34.0,30.0,22
+Queens,Elmhurst,Shared room,1. Corta (1 noche),43.0,40.0,1.0,7
+Queens,Elmhurst,Shared room,2. Corta-Media (2-3 noches),65.0,65.0,2.0,1
+Queens,Far Rockaway,Entire home/apt,1. Corta (1 noche),171.0,104.0,1.0,4
+Queens,Far Rockaway,Entire home/apt,2. Corta-Media (2-3 noches),475.0,275.0,2.3333333333333335,3
+Queens,Far Rockaway,Entire home/apt,3. Semanal (4-7 noches),199.25,123.5,5.25,4
+Queens,Far Rockaway,Entire home/apt,4. Quincenal (8-29 noches),250.0,250.0,10.0,1
+Queens,Far Rockaway,Private room,1. Corta (1 noche),53.0,50.0,1.0,11
+Queens,Far Rockaway,Private room,2. Corta-Media (2-3 noches),875.0,875.0,2.0,1
+Queens,Far Rockaway,Private room,3. Semanal (4-7 noches),40.0,40.0,6.0,2
+Queens,Far Rockaway,Private room,5. Mensual / Larga (30+ noches),38.666666666666664,38.0,30.0,3
+Queens,Flushing,Entire home/apt,1. Corta (1 noche),144.9375,99.0,1.0,32
+Queens,Flushing,Entire home/apt,2. Corta-Media (2-3 noches),198.6888888888889,135.0,2.422222222222222,45
+Queens,Flushing,Entire home/apt,3. Semanal (4-7 noches),230.30769230769232,198.0,5.923076923076923,13
+Queens,Flushing,Entire home/apt,5. Mensual / Larga (30+ noches),121.75,115.0,30.0,16
+Queens,Flushing,Private room,1. Corta (1 noche),62.63451776649746,59.0,1.0,197
+Queens,Flushing,Private room,2. Corta-Media (2-3 noches),69.83132530120481,60.0,2.216867469879518,83
+Queens,Flushing,Private room,3. Semanal (4-7 noches),49.526315789473685,49.0,5.684210526315789,19
+Queens,Flushing,Private room,4. Quincenal (8-29 noches),42.333333333333336,40.0,19.0,3
+Queens,Flushing,Private room,5. Mensual / Larga (30+ noches),49.2,50.0,30.0,5
+Queens,Flushing,Shared room,1. Corta (1 noche),186.44444444444446,69.0,1.0,9
+Queens,Flushing,Shared room,2. Corta-Media (2-3 noches),27.0,26.0,2.3333333333333335,3
+Queens,Flushing,Shared room,3. Semanal (4-7 noches),108.0,108.0,5.0,1
+Queens,Forest Hills,Entire home/apt,1. Corta (1 noche),120.08333333333333,99.5,1.0,12
+Queens,Forest Hills,Entire home/apt,2. Corta-Media (2-3 noches),155.36111111111111,110.0,2.3333333333333335,36
+Queens,Forest Hills,Entire home/apt,3. Semanal (4-7 noches),171.28571428571428,150.0,4.428571428571429,7
+Queens,Forest Hills,Entire home/apt,4. Quincenal (8-29 noches),55.333333333333336,50.0,16.666666666666668,3
+Queens,Forest Hills,Entire home/apt,5. Mensual / Larga (30+ noches),844.6666666666666,115.0,141.66666666666666,3
+Queens,Forest Hills,Private room,1. Corta (1 noche),96.0,70.0,1.0,33
+Queens,Forest Hills,Private room,2. Corta-Media (2-3 noches),82.03448275862068,75.0,2.1379310344827585,29
+Queens,Forest Hills,Private room,3. Semanal (4-7 noches),52.333333333333336,50.0,4.833333333333333,6
+Queens,Forest Hills,Private room,4. Quincenal (8-29 noches),40.5,38.5,17.0,4
+Queens,Forest Hills,Private room,5. Mensual / Larga (30+ noches),53.333333333333336,59.0,60.0,3
+Queens,Forest Hills,Shared room,1. Corta (1 noche),60.0,60.0,1.0,1
+Queens,Forest Hills,Shared room,2. Corta-Media (2-3 noches),45.0,40.0,2.3333333333333335,3
+Queens,Forest Hills,Shared room,3. Semanal (4-7 noches),50.75,47.5,4.25,4
+Queens,Fresh Meadows,Entire home/apt,1. Corta (1 noche),128.42857142857142,94.0,1.0,7
+Queens,Fresh Meadows,Entire home/apt,2. Corta-Media (2-3 noches),157.57142857142858,114.0,2.142857142857143,7
+Queens,Fresh Meadows,Private room,1. Corta (1 noche),62.357142857142854,57.5,1.0,14
+Queens,Fresh Meadows,Private room,2. Corta-Media (2-3 noches),61.333333333333336,59.0,2.3333333333333335,3
+Queens,Fresh Meadows,Private room,3. Semanal (4-7 noches),125.0,125.0,7.0,1
+Queens,Glendale,Entire home/apt,1. Corta (1 noche),113.0,113.0,1.0,2
+Queens,Glendale,Entire home/apt,2. Corta-Media (2-3 noches),127.22222222222223,122.5,2.4444444444444446,18
+Queens,Glendale,Entire home/apt,3. Semanal (4-7 noches),140.8,125.0,4.8,5
+Queens,Glendale,Entire home/apt,4. Quincenal (8-29 noches),200.0,200.0,10.0,1
+Queens,Glendale,Private room,1. Corta (1 noche),45.2,41.5,1.0,10
+Queens,Glendale,Private room,2. Corta-Media (2-3 noches),60.166666666666664,50.0,2.0,12
+Queens,Glendale,Private room,3. Semanal (4-7 noches),45.0,50.0,7.0,3
+Queens,Glendale,Private room,4. Quincenal (8-29 noches),105.0,105.0,12.0,1
+Queens,Glendale,Private room,5. Mensual / Larga (30+ noches),34.5,34.5,30.0,2
+Queens,Hollis,Entire home/apt,1. Corta (1 noche),99.5,99.5,1.0,2
+Queens,Hollis,Entire home/apt,2. Corta-Media (2-3 noches),125.0,125.0,2.0,2
+Queens,Hollis,Private room,1. Corta (1 noche),91.66666666666667,50.0,1.0,3
+Queens,Hollis,Private room,2. Corta-Media (2-3 noches),65.0,65.0,2.25,4
+Queens,Hollis,Private room,3. Semanal (4-7 noches),68.5,68.5,5.0,2
+Queens,Hollis,Shared room,1. Corta (1 noche),120.0,120.0,1.0,1
+Queens,Holliswood,Private room,1. Corta (1 noche),100.0,100.0,1.0,1
+Queens,Holliswood,Private room,2. Corta-Media (2-3 noches),147.66666666666666,125.0,3.0,3
+Queens,Howard Beach,Entire home/apt,1. Corta (1 noche),175.33333333333334,182.5,1.0,6
+Queens,Howard Beach,Entire home/apt,2. Corta-Media (2-3 noches),150.0,150.0,2.3333333333333335,3
+Queens,Howard Beach,Entire home/apt,3. Semanal (4-7 noches),100.0,100.0,7.0,1
+Queens,Howard Beach,Entire home/apt,5. Mensual / Larga (30+ noches),63.0,63.0,30.0,1
+Queens,Howard Beach,Private room,1. Corta (1 noche),69.71428571428571,50.0,1.0,7
+Queens,Howard Beach,Private room,2. Corta-Media (2-3 noches),77.5,77.5,2.0,2
+Queens,Jackson Heights,Entire home/apt,1. Corta (1 noche),95.88888888888889,96.0,1.0,9
+Queens,Jackson Heights,Entire home/apt,2. Corta-Media (2-3 noches),132.94285714285715,125.0,2.2857142857142856,35
+Queens,Jackson Heights,Entire home/apt,3. Semanal (4-7 noches),123.53846153846153,120.0,5.461538461538462,13
+Queens,Jackson Heights,Entire home/apt,4. Quincenal (8-29 noches),110.0,110.0,9.0,1
+Queens,Jackson Heights,Private room,1. Corta (1 noche),66.55555555555556,60.0,1.0,36
+Queens,Jackson Heights,Private room,2. Corta-Media (2-3 noches),60.08695652173913,50.0,2.1739130434782608,46
+Queens,Jackson Heights,Private room,3. Semanal (4-7 noches),73.125,69.5,5.0,16
+Queens,Jackson Heights,Private room,4. Quincenal (8-29 noches),58.714285714285715,60.0,23.428571428571427,7
+Queens,Jackson Heights,Private room,5. Mensual / Larga (30+ noches),57.111111111111114,39.0,30.0,9
+Queens,Jackson Heights,Shared room,1. Corta (1 noche),33.375,28.0,1.0,8
+Queens,Jackson Heights,Shared room,2. Corta-Media (2-3 noches),55.75,56.5,2.0,4
+Queens,Jackson Heights,Shared room,5. Mensual / Larga (30+ noches),35.0,35.0,46.0,2
+Queens,Jamaica,Entire home/apt,1. Corta (1 noche),137.88888888888889,100.0,1.0,45
+Queens,Jamaica,Entire home/apt,2. Corta-Media (2-3 noches),143.40625,121.0,2.34375,32
+Queens,Jamaica,Entire home/apt,3. Semanal (4-7 noches),127.0,127.0,5.0,1
+Queens,Jamaica,Entire home/apt,5. Mensual / Larga (30+ noches),90.5,90.5,30.0,2
+Queens,Jamaica,Private room,1. Corta (1 noche),79.61616161616162,65.0,1.0,99
+Queens,Jamaica,Private room,2. Corta-Media (2-3 noches),65.43243243243244,60.0,2.2162162162162162,37
+Queens,Jamaica,Private room,3. Semanal (4-7 noches),51.375,50.0,5.5,8
+Queens,Jamaica,Private room,4. Quincenal (8-29 noches),80.0,80.0,14.0,1
+Queens,Jamaica,Shared room,1. Corta (1 noche),37.833333333333336,39.0,1.0,6
+Queens,Jamaica Estates,Entire home/apt,1. Corta (1 noche),185.71428571428572,150.0,1.0,7
+Queens,Jamaica Estates,Entire home/apt,2. Corta-Media (2-3 noches),133.2,68.0,2.0,5
+Queens,Jamaica Estates,Entire home/apt,3. Semanal (4-7 noches),206.0,145.0,5.0,3
+Queens,Jamaica Estates,Private room,1. Corta (1 noche),285.6666666666667,57.0,1.0,3
+Queens,Jamaica Estates,Private room,2. Corta-Media (2-3 noches),35.0,35.0,2.0,1
+Queens,Jamaica Hills,Entire home/apt,1. Corta (1 noche),275.0,275.0,1.0,1
+Queens,Jamaica Hills,Entire home/apt,2. Corta-Media (2-3 noches),217.5,217.5,2.0,2
+Queens,Jamaica Hills,Private room,1. Corta (1 noche),60.0,65.0,1.0,3
+Queens,Jamaica Hills,Private room,2. Corta-Media (2-3 noches),83.5,83.5,2.5,2
+Queens,Kew Gardens,Entire home/apt,1. Corta (1 noche),100.0,100.0,1.0,2
+Queens,Kew Gardens,Entire home/apt,2. Corta-Media (2-3 noches),120.0,100.0,2.25,4
+Queens,Kew Gardens,Entire home/apt,3. Semanal (4-7 noches),150.0,150.0,6.0,1
+Queens,Kew Gardens,Entire home/apt,4. Quincenal (8-29 noches),219.0,219.0,9.0,1
+Queens,Kew Gardens,Private room,1. Corta (1 noche),101.55555555555556,70.0,1.0,9
+Queens,Kew Gardens,Private room,2. Corta-Media (2-3 noches),55.0,60.0,2.2857142857142856,7
+Queens,Kew Gardens,Private room,3. Semanal (4-7 noches),67.5,67.5,6.0,2
+Queens,Kew Gardens,Private room,4. Quincenal (8-29 noches),66.0,66.0,9.0,2
+Queens,Kew Gardens,Private room,5. Mensual / Larga (30+ noches),90.0,90.0,90.0,1
+Queens,Kew Gardens,Shared room,1. Corta (1 noche),44.0,44.0,1.0,2
+Queens,Kew Gardens,Shared room,2. Corta-Media (2-3 noches),35.0,35.0,2.0,1
+Queens,Kew Gardens Hills,Entire home/apt,1. Corta (1 noche),124.0,95.0,1.0,5
+Queens,Kew Gardens Hills,Entire home/apt,2. Corta-Media (2-3 noches),139.71428571428572,149.0,2.857142857142857,7
+Queens,Kew Gardens Hills,Entire home/apt,3. Semanal (4-7 noches),116.33333333333333,105.0,4.0,3
+Queens,Kew Gardens Hills,Entire home/apt,4. Quincenal (8-29 noches),52.5,52.5,11.5,2
+Queens,Kew Gardens Hills,Private room,1. Corta (1 noche),187.66666666666666,90.0,1.0,3
+Queens,Kew Gardens Hills,Private room,2. Corta-Media (2-3 noches),63.0,63.0,2.0,2
+Queens,Kew Gardens Hills,Private room,3. Semanal (4-7 noches),44.75,44.5,5.5,4
+Queens,Laurelton,Entire home/apt,1. Corta (1 noche),80.0,80.0,1.0,4
+Queens,Laurelton,Entire home/apt,2. Corta-Media (2-3 noches),188.5,187.5,2.25,4
+Queens,Laurelton,Entire home/apt,4. Quincenal (8-29 noches),90.0,90.0,15.0,1
+Queens,Laurelton,Private room,1. Corta (1 noche),88.5,70.0,1.0,4
+Queens,Laurelton,Private room,2. Corta-Media (2-3 noches),39.6,40.0,2.0,5
+Queens,Little Neck,Entire home/apt,2. Corta-Media (2-3 noches),149.0,149.0,3.0,1
+Queens,Little Neck,Private room,1. Corta (1 noche),65.0,50.0,1.0,3
+Queens,Little Neck,Shared room,2. Corta-Media (2-3 noches),32.0,32.0,3.0,1
+Queens,Long Island City,Entire home/apt,1. Corta (1 noche),215.54761904761904,166.5,1.0,42
+Queens,Long Island City,Entire home/apt,2. Corta-Media (2-3 noches),181.43548387096774,150.0,2.403225806451613,124
+Queens,Long Island City,Entire home/apt,3. Semanal (4-7 noches),154.79591836734693,135.0,5.183673469387755,49
+Queens,Long Island City,Entire home/apt,4. Quincenal (8-29 noches),142.5,141.5,15.571428571428571,14
+Queens,Long Island City,Entire home/apt,5. Mensual / Larga (30+ noches),133.0909090909091,130.0,119.18181818181819,11
+Queens,Long Island City,Private room,1. Corta (1 noche),89.76470588235294,75.0,1.0,119
+Queens,Long Island City,Private room,2. Corta-Media (2-3 noches),87.76086956521739,78.5,2.391304347826087,92
+Queens,Long Island City,Private room,3. Semanal (4-7 noches),72.93333333333334,65.0,5.066666666666666,45
+Queens,Long Island City,Private room,4. Quincenal (8-29 noches),74.05,70.0,17.6,20
+Queens,Long Island City,Private room,5. Mensual / Larga (30+ noches),59.42857142857143,60.0,51.42857142857143,7
+Queens,Long Island City,Shared room,1. Corta (1 noche),213.71428571428572,45.0,1.0,7
+Queens,Long Island City,Shared room,2. Corta-Media (2-3 noches),79.33333333333333,48.0,2.6666666666666665,3
+Queens,Long Island City,Shared room,3. Semanal (4-7 noches),46.25,42.5,4.5,4
+Queens,Maspeth,Entire home/apt,1. Corta (1 noche),121.5,102.5,1.0,6
+Queens,Maspeth,Entire home/apt,2. Corta-Media (2-3 noches),117.6,100.0,2.48,25
+Queens,Maspeth,Entire home/apt,3. Semanal (4-7 noches),143.1,147.5,5.4,10
+Queens,Maspeth,Entire home/apt,4. Quincenal (8-29 noches),70.0,70.0,24.0,1
+Queens,Maspeth,Entire home/apt,5. Mensual / Larga (30+ noches),98.0,98.0,30.5,2
+Queens,Maspeth,Private room,1. Corta (1 noche),57.82857142857143,55.0,1.0,35
+Queens,Maspeth,Private room,2. Corta-Media (2-3 noches),73.13333333333334,59.0,2.2666666666666666,15
+Queens,Maspeth,Private room,3. Semanal (4-7 noches),55.0,55.0,4.5,2
+Queens,Maspeth,Private room,4. Quincenal (8-29 noches),51.0,52.0,20.5,4
+Queens,Maspeth,Private room,5. Mensual / Larga (30+ noches),42.0,37.0,30.0,7
+Queens,Maspeth,Shared room,1. Corta (1 noche),35.333333333333336,40.0,1.0,3
+Queens,Middle Village,Entire home/apt,1. Corta (1 noche),95.33333333333333,100.0,1.0,3
+Queens,Middle Village,Entire home/apt,2. Corta-Media (2-3 noches),136.0,124.0,2.2857142857142856,7
+Queens,Middle Village,Entire home/apt,3. Semanal (4-7 noches),151.42857142857142,115.0,5.142857142857143,7
+Queens,Middle Village,Entire home/apt,5. Mensual / Larga (30+ noches),120.5,99.0,30.25,4
+Queens,Middle Village,Private room,1. Corta (1 noche),55.75,62.5,1.0,4
+Queens,Middle Village,Private room,2. Corta-Media (2-3 noches),65.66666666666667,65.0,2.1666666666666665,6
+Queens,Neponsit,Entire home/apt,2. Corta-Media (2-3 noches),274.6666666666667,274.0,2.0,3
+Queens,Ozone Park,Entire home/apt,1. Corta (1 noche),116.5,110.0,1.0,8
+Queens,Ozone Park,Entire home/apt,2. Corta-Media (2-3 noches),104.53846153846153,99.0,2.6153846153846154,13
+Queens,Ozone Park,Entire home/apt,3. Semanal (4-7 noches),113.16666666666667,115.0,4.75,12
+Queens,Ozone Park,Private room,1. Corta (1 noche),60.1764705882353,58.0,1.0,17
+Queens,Ozone Park,Private room,2. Corta-Media (2-3 noches),61.8,65.0,2.2,5
+Queens,Ozone Park,Private room,3. Semanal (4-7 noches),43.666666666666664,50.0,6.0,3
+Queens,Ozone Park,Private room,4. Quincenal (8-29 noches),80.0,80.0,15.0,1
+Queens,Ozone Park,Shared room,1. Corta (1 noche),35.0,35.0,1.0,2
+Queens,Ozone Park,Shared room,4. Quincenal (8-29 noches),25.0,25.0,10.0,1
+Queens,Queens Village,Entire home/apt,1. Corta (1 noche),96.84615384615384,98.0,1.0,13
+Queens,Queens Village,Entire home/apt,2. Corta-Media (2-3 noches),97.05882352941177,85.0,2.235294117647059,17
+Queens,Queens Village,Entire home/apt,3. Semanal (4-7 noches),75.0,75.0,5.0,1
+Queens,Queens Village,Entire home/apt,5. Mensual / Larga (30+ noches),222.5,222.5,30.0,2
+Queens,Queens Village,Private room,1. Corta (1 noche),60.07142857142857,60.0,1.0,14
+Queens,Queens Village,Private room,2. Corta-Media (2-3 noches),58.25,46.5,2.25,8
+Queens,Queens Village,Private room,3. Semanal (4-7 noches),36.5,36.5,5.5,2
+Queens,Queens Village,Private room,5. Mensual / Larga (30+ noches),149.0,149.0,30.0,1
+Queens,Queens Village,Shared room,1. Corta (1 noche),39.0,39.0,1.0,2
+Queens,Rego Park,Entire home/apt,1. Corta (1 noche),85.5,82.5,1.0,8
+Queens,Rego Park,Entire home/apt,2. Corta-Media (2-3 noches),159.23809523809524,135.0,2.5238095238095237,21
+Queens,Rego Park,Entire home/apt,3. Semanal (4-7 noches),72.8,69.0,5.6,5
+Queens,Rego Park,Entire home/apt,4. Quincenal (8-29 noches),51.666666666666664,50.0,14.666666666666666,3
+Queens,Rego Park,Entire home/apt,5. Mensual / Larga (30+ noches),179.33333333333334,155.0,90.0,3
+Queens,Rego Park,Private room,1. Corta (1 noche),60.27777777777778,55.0,1.0,36
+Queens,Rego Park,Private room,2. Corta-Media (2-3 noches),56.8235294117647,60.0,2.2941176470588234,17
+Queens,Rego Park,Private room,3. Semanal (4-7 noches),58.333333333333336,55.0,4.5,6
+Queens,Rego Park,Shared room,1. Corta (1 noche),45.6,34.0,1.0,5
+Queens,Rego Park,Shared room,2. Corta-Media (2-3 noches),65.0,65.0,3.0,1
+Queens,Rego Park,Shared room,5. Mensual / Larga (30+ noches),27.0,27.0,60.0,1
+Queens,Richmond Hill,Entire home/apt,1. Corta (1 noche),185.5,181.5,1.0,4
+Queens,Richmond Hill,Entire home/apt,2. Corta-Media (2-3 noches),136.0952380952381,120.0,2.2857142857142856,21
+Queens,Richmond Hill,Entire home/apt,3. Semanal (4-7 noches),157.5,120.0,6.25,4
+Queens,Richmond Hill,Entire home/apt,5. Mensual / Larga (30+ noches),93.75,90.0,67.5,4
+Queens,Richmond Hill,Private room,1. Corta (1 noche),59.35294117647059,57.0,1.0,34
+Queens,Richmond Hill,Private room,2. Corta-Media (2-3 noches),55.9,50.0,2.25,20
+Queens,Richmond Hill,Private room,3. Semanal (4-7 noches),55.0,55.0,7.0,2
+Queens,Richmond Hill,Private room,5. Mensual / Larga (30+ noches),60.0,60.0,30.0,1
+Queens,Richmond Hill,Shared room,1. Corta (1 noche),72.66666666666667,60.0,1.0,3
+Queens,Richmond Hill,Shared room,3. Semanal (4-7 noches),60.0,60.0,7.0,1
+Queens,Ridgewood,Entire home/apt,1. Corta (1 noche),122.26666666666667,90.0,1.0,15
+Queens,Ridgewood,Entire home/apt,2. Corta-Media (2-3 noches),129.56603773584905,120.0,2.4716981132075473,53
+Queens,Ridgewood,Entire home/apt,3. Semanal (4-7 noches),129.975,102.5,5.35,40
+Queens,Ridgewood,Entire home/apt,4. Quincenal (8-29 noches),121.47058823529412,89.0,16.88235294117647,17
+Queens,Ridgewood,Entire home/apt,5. Mensual / Larga (30+ noches),91.25,77.5,30.0,4
+Queens,Ridgewood,Private room,1. Corta (1 noche),65.625,59.0,1.0,88
+Queens,Ridgewood,Private room,2. Corta-Media (2-3 noches),57.73118279569893,54.0,2.3333333333333335,93
+Queens,Ridgewood,Private room,3. Semanal (4-7 noches),52.53333333333333,50.0,5.733333333333333,45
+Queens,Ridgewood,Private room,4. Quincenal (8-29 noches),40.8,35.5,16.3,10
+Queens,Ridgewood,Private room,5. Mensual / Larga (30+ noches),42.958333333333336,42.0,33.75,48
+Queens,Ridgewood,Shared room,1. Corta (1 noche),35.0,35.0,1.0,1
+Queens,Ridgewood,Shared room,5. Mensual / Larga (30+ noches),34.0,30.0,30.22222222222222,9
+Queens,Rockaway Beach,Entire home/apt,1. Corta (1 noche),161.94736842105263,139.0,1.0,19
+Queens,Rockaway Beach,Entire home/apt,2. Corta-Media (2-3 noches),155.125,143.5,2.125,16
+Queens,Rockaway Beach,Entire home/apt,3. Semanal (4-7 noches),104.8,108.0,5.2,5
+Queens,Rockaway Beach,Entire home/apt,5. Mensual / Larga (30+ noches),82.0,82.0,30.0,2
+Queens,Rockaway Beach,Private room,1. Corta (1 noche),74.5,64.0,1.0,8
+Queens,Rockaway Beach,Private room,2. Corta-Media (2-3 noches),97.8,88.0,2.0,5
+Queens,Rockaway Beach,Private room,4. Quincenal (8-29 noches),70.0,70.0,27.0,1
+Queens,Rosedale,Entire home/apt,1. Corta (1 noche),82.85714285714286,80.0,1.0,7
+Queens,Rosedale,Entire home/apt,2. Corta-Media (2-3 noches),119.75,92.5,2.0,8
+Queens,Rosedale,Entire home/apt,5. Mensual / Larga (30+ noches),350.0,350.0,40.0,1
+Queens,Rosedale,Private room,1. Corta (1 noche),63.92857142857143,61.0,1.0,28
+Queens,Rosedale,Private room,2. Corta-Media (2-3 noches),67.83333333333333,55.0,2.1666666666666665,6
+Queens,Rosedale,Private room,3. Semanal (4-7 noches),53.0,44.0,6.2,5
+Queens,Rosedale,Private room,4. Quincenal (8-29 noches),43.333333333333336,45.0,14.666666666666666,3
+Queens,Rosedale,Private room,5. Mensual / Larga (30+ noches),45.0,45.0,30.0,1
+Queens,South Ozone Park,Entire home/apt,1. Corta (1 noche),140.85714285714286,89.0,1.0,7
+Queens,South Ozone Park,Entire home/apt,2. Corta-Media (2-3 noches),127.0,93.0,2.4,5
+Queens,South Ozone Park,Entire home/apt,3. Semanal (4-7 noches),92.5,92.5,4.5,2
+Queens,South Ozone Park,Private room,1. Corta (1 noche),76.6,77.5,1.0,10
+Queens,South Ozone Park,Private room,2. Corta-Media (2-3 noches),59.25,62.0,2.75,4
+Queens,South Ozone Park,Private room,3. Semanal (4-7 noches),59.0,59.0,4.0,1
+Queens,South Ozone Park,Private room,4. Quincenal (8-29 noches),60.0,55.0,11.666666666666666,3
+Queens,South Ozone Park,Shared room,3. Semanal (4-7 noches),31.0,30.0,4.5,8
+Queens,Springfield Gardens,Entire home/apt,1. Corta (1 noche),110.4375,91.5,1.0,16
+Queens,Springfield Gardens,Entire home/apt,2. Corta-Media (2-3 noches),136.9375,131.5,2.4375,16
+Queens,Springfield Gardens,Entire home/apt,5. Mensual / Larga (30+ noches),200.0,200.0,30.0,1
+Queens,Springfield Gardens,Private room,1. Corta (1 noche),76.37837837837837,70.0,1.0,37
+Queens,Springfield Gardens,Private room,2. Corta-Media (2-3 noches),58.1,43.0,2.1,10
+Queens,Springfield Gardens,Private room,3. Semanal (4-7 noches),88.33333333333333,95.0,4.666666666666667,3
+Queens,Springfield Gardens,Private room,4. Quincenal (8-29 noches),60.0,60.0,14.0,1
+Queens,Springfield Gardens,Shared room,1. Corta (1 noche),120.0,120.0,1.0,1
+Queens,St. Albans,Entire home/apt,1. Corta (1 noche),87.8,80.0,1.0,5
+Queens,St. Albans,Entire home/apt,2. Corta-Media (2-3 noches),180.9090909090909,125.0,2.3181818181818183,22
+Queens,St. Albans,Private room,1. Corta (1 noche),65.41666666666667,57.0,1.0,24
+Queens,St. Albans,Private room,2. Corta-Media (2-3 noches),52.476190476190474,55.0,2.1904761904761907,21
+Queens,St. Albans,Private room,3. Semanal (4-7 noches),143.0,65.0,4.25,4
+Queens,Sunnyside,Entire home/apt,1. Corta (1 noche),137.8148148148148,115.0,1.0,27
+Queens,Sunnyside,Entire home/apt,2. Corta-Media (2-3 noches),120.08474576271186,110.0,2.3389830508474576,59
+Queens,Sunnyside,Entire home/apt,3. Semanal (4-7 noches),140.24,119.0,4.84,25
+Queens,Sunnyside,Entire home/apt,4. Quincenal (8-29 noches),112.88888888888889,95.0,14.777777777777779,9
+Queens,Sunnyside,Entire home/apt,5. Mensual / Larga (30+ noches),107.33333333333333,99.0,31.333333333333332,15
+Queens,Sunnyside,Private room,1. Corta (1 noche),71.01666666666667,69.5,1.0,60
+Queens,Sunnyside,Private room,2. Corta-Media (2-3 noches),67.56756756756756,65.0,2.3378378378378377,74
+Queens,Sunnyside,Private room,3. Semanal (4-7 noches),59.12903225806452,55.0,5.67741935483871,31
+Queens,Sunnyside,Private room,4. Quincenal (8-29 noches),60.888888888888886,60.0,19.666666666666668,9
+Queens,Sunnyside,Private room,5. Mensual / Larga (30+ noches),43.10344827586207,39.0,34.3448275862069,29
+Queens,Sunnyside,Shared room,1. Corta (1 noche),42.7,35.0,1.0,10
+Queens,Sunnyside,Shared room,2. Corta-Media (2-3 noches),37.69230769230769,30.0,2.769230769230769,13
+Queens,Sunnyside,Shared room,3. Semanal (4-7 noches),29.5,29.5,6.0,2
+Queens,Whitestone,Entire home/apt,1. Corta (1 noche),140.0,140.0,1.0,1
+Queens,Whitestone,Entire home/apt,2. Corta-Media (2-3 noches),325.0,325.0,2.5,2
+Queens,Whitestone,Private room,1. Corta (1 noche),53.0,47.0,1.0,6
+Queens,Whitestone,Private room,2. Corta-Media (2-3 noches),40.0,40.0,2.0,1
+Queens,Whitestone,Private room,3. Semanal (4-7 noches),35.0,35.0,7.0,1
+Queens,Woodhaven,Entire home/apt,1. Corta (1 noche),64.66666666666667,71.0,1.0,3
+Queens,Woodhaven,Entire home/apt,2. Corta-Media (2-3 noches),107.57142857142857,85.0,2.7142857142857144,7
+Queens,Woodhaven,Entire home/apt,3. Semanal (4-7 noches),133.5,128.0,4.9,10
+Queens,Woodhaven,Private room,1. Corta (1 noche),52.333333333333336,50.0,1.0,18
+Queens,Woodhaven,Private room,2. Corta-Media (2-3 noches),57.513513513513516,53.0,2.5945945945945947,37
+Queens,Woodhaven,Private room,3. Semanal (4-7 noches),45.5,45.0,5.0,10
+Queens,Woodhaven,Private room,4. Quincenal (8-29 noches),35.0,35.0,9.0,1
+Queens,Woodhaven,Shared room,1. Corta (1 noche),34.5,34.5,1.0,2
+Queens,Woodside,Entire home/apt,1. Corta (1 noche),162.47619047619048,125.0,1.0,21
+Queens,Woodside,Entire home/apt,2. Corta-Media (2-3 noches),137.08823529411765,120.0,2.411764705882353,34
+Queens,Woodside,Entire home/apt,3. Semanal (4-7 noches),242.25,265.0,4.0,4
+Queens,Woodside,Entire home/apt,4. Quincenal (8-29 noches),60.0,60.0,14.0,1
+Queens,Woodside,Entire home/apt,5. Mensual / Larga (30+ noches),89.0,89.0,30.0,3
+Queens,Woodside,Private room,1. Corta (1 noche),83.69565217391305,60.0,1.0,46
+Queens,Woodside,Private room,2. Corta-Media (2-3 noches),69.63414634146342,60.0,2.2195121951219514,41
+Queens,Woodside,Private room,3. Semanal (4-7 noches),50.705882352941174,50.0,5.352941176470588,17
+Queens,Woodside,Private room,4. Quincenal (8-29 noches),39.22222222222222,35.0,24.77777777777778,9
+Queens,Woodside,Private room,5. Mensual / Larga (30+ noches),45.58620689655172,41.5,30.137931034482758,58
+Queens,Woodside,Shared room,2. Corta-Media (2-3 noches),65.0,65.0,2.0,1
+Staten Island,Arden Heights,Entire home/apt,1. Corta (1 noche),75.0,75.0,1.0,1
+Staten Island,Arden Heights,Entire home/apt,3. Semanal (4-7 noches),70.0,70.0,5.0,1
+Staten Island,Arden Heights,Entire home/apt,5. Mensual / Larga (30+ noches),83.0,83.0,30.0,1
+Staten Island,Arden Heights,Private room,2. Corta-Media (2-3 noches),41.0,41.0,2.0,1
+Staten Island,Arrochar,Entire home/apt,1. Corta (1 noche),127.0,122.0,1.0,3
+Staten Island,Arrochar,Entire home/apt,2. Corta-Media (2-3 noches),148.5,137.5,2.1666666666666665,6
+Staten Island,Arrochar,Entire home/apt,3. Semanal (4-7 noches),625.0,625.0,4.0,1
+Staten Island,Arrochar,Private room,1. Corta (1 noche),78.33333333333333,65.0,1.0,3
+Staten Island,Arrochar,Private room,3. Semanal (4-7 noches),35.375,33.5,4.375,8
+Staten Island,"Bay Terrace, Staten Island",Entire home/apt,2. Corta-Media (2-3 noches),150.0,150.0,3.0,1
+Staten Island,"Bay Terrace, Staten Island",Entire home/apt,5. Mensual / Larga (30+ noches),55.0,55.0,30.0,1
+Staten Island,Bull's Head,Private room,1. Corta (1 noche),48.0,39.0,1.0,3
+Staten Island,Bull's Head,Private room,4. Quincenal (8-29 noches),40.0,40.0,10.0,1
+Staten Island,Bull's Head,Private room,5. Mensual / Larga (30+ noches),50.0,50.0,30.0,2
+Staten Island,Castleton Corners,Entire home/apt,2. Corta-Media (2-3 noches),182.0,182.0,2.5,2
+Staten Island,Castleton Corners,Private room,1. Corta (1 noche),150.0,150.0,1.0,1
+Staten Island,Castleton Corners,Private room,5. Mensual / Larga (30+ noches),45.0,45.0,30.0,1
+Staten Island,Clifton,Entire home/apt,1. Corta (1 noche),97.0,75.0,1.0,5
+Staten Island,Clifton,Entire home/apt,2. Corta-Media (2-3 noches),85.0,85.0,2.0,2
+Staten Island,Clifton,Entire home/apt,3. Semanal (4-7 noches),75.0,75.0,5.0,1
+Staten Island,Clifton,Private room,1. Corta (1 noche),59.0,59.0,1.0,1
+Staten Island,Clifton,Private room,2. Corta-Media (2-3 noches),45.0,45.0,2.0,2
+Staten Island,Clifton,Shared room,2. Corta-Media (2-3 noches),98.75,85.0,2.25,4
+Staten Island,Concord,Entire home/apt,1. Corta (1 noche),110.0,110.0,1.0,2
+Staten Island,Concord,Entire home/apt,3. Semanal (4-7 noches),175.0,175.0,5.5,2
+Staten Island,Concord,Private room,1. Corta (1 noche),66.33333333333333,35.0,1.0,3
+Staten Island,Concord,Private room,2. Corta-Media (2-3 noches),49.333333333333336,40.0,2.3333333333333335,3
+Staten Island,Concord,Private room,3. Semanal (4-7 noches),32.45454545454545,32.0,4.0,11
+Staten Island,Concord,Private room,5. Mensual / Larga (30+ noches),75.0,75.0,30.0,2
+Staten Island,Concord,Shared room,1. Corta (1 noche),29.0,29.0,1.0,1
+Staten Island,Concord,Shared room,2. Corta-Media (2-3 noches),30.0,30.0,2.0,1
+Staten Island,Concord,Shared room,3. Semanal (4-7 noches),30.0,30.0,4.0,1
+Staten Island,Dongan Hills,Entire home/apt,2. Corta-Media (2-3 noches),103.33333333333333,85.0,2.6666666666666665,3
+Staten Island,Dongan Hills,Entire home/apt,3. Semanal (4-7 noches),95.0,95.0,4.0,1
+Staten Island,Dongan Hills,Private room,1. Corta (1 noche),50.333333333333336,49.0,1.0,3
+Staten Island,Eltingville,Entire home/apt,3. Semanal (4-7 noches),70.0,70.0,5.0,1
+Staten Island,Eltingville,Entire home/apt,4. Quincenal (8-29 noches),299.0,299.0,10.0,1
+Staten Island,Eltingville,Private room,1. Corta (1 noche),56.0,56.0,1.0,1
+Staten Island,Emerson Hill,Entire home/apt,1. Corta (1 noche),49.0,49.0,1.0,1
+Staten Island,Emerson Hill,Entire home/apt,2. Corta-Media (2-3 noches),78.0,78.0,2.0,1
+Staten Island,Emerson Hill,Private room,1. Corta (1 noche),85.0,85.0,1.0,1
+Staten Island,Emerson Hill,Private room,2. Corta-Media (2-3 noches),64.5,64.5,2.0,2
+Staten Island,Fort Wadsworth,Entire home/apt,3. Semanal (4-7 noches),800.0,800.0,7.0,1
+Staten Island,Graniteville,Entire home/apt,1. Corta (1 noche),115.0,115.0,1.0,1
+Staten Island,Graniteville,Entire home/apt,3. Semanal (4-7 noches),71.0,71.0,4.0,1
+Staten Island,Graniteville,Private room,2. Corta-Media (2-3 noches),20.0,20.0,3.0,1
+Staten Island,Grant City,Entire home/apt,2. Corta-Media (2-3 noches),71.75,73.5,3.0,4
+Staten Island,Grant City,Private room,3. Semanal (4-7 noches),30.0,30.0,7.0,1
+Staten Island,Grant City,Private room,4. Quincenal (8-29 noches),29.0,29.0,21.0,1
+Staten Island,Great Kills,Entire home/apt,3. Semanal (4-7 noches),58.0,58.0,4.5,2
+Staten Island,Great Kills,Entire home/apt,5. Mensual / Larga (30+ noches),115.33333333333333,91.0,30.0,3
+Staten Island,Great Kills,Private room,1. Corta (1 noche),167.0,167.0,1.0,2
+Staten Island,Great Kills,Private room,2. Corta-Media (2-3 noches),70.0,50.0,2.0,3
+Staten Island,Grymes Hill,Entire home/apt,1. Corta (1 noche),163.33333333333334,175.0,1.0,3
+Staten Island,Grymes Hill,Entire home/apt,2. Corta-Media (2-3 noches),117.5,117.5,2.0,2
+Staten Island,Grymes Hill,Entire home/apt,3. Semanal (4-7 noches),300.0,300.0,5.0,1
+Staten Island,Grymes Hill,Private room,1. Corta (1 noche),89.0,89.0,1.0,1
+Staten Island,Howland Hook,Entire home/apt,2. Corta-Media (2-3 noches),100.0,100.0,3.0,1
+Staten Island,Howland Hook,Entire home/apt,3. Semanal (4-7 noches),100.0,100.0,4.0,1
+Staten Island,Huguenot,Entire home/apt,1. Corta (1 noche),180.0,180.0,1.0,1
+Staten Island,Huguenot,Entire home/apt,2. Corta-Media (2-3 noches),87.5,87.5,2.0,2
+Staten Island,Lighthouse Hill,Entire home/apt,2. Corta-Media (2-3 noches),157.5,157.5,2.0,2
+Staten Island,Mariners Harbor,Entire home/apt,1. Corta (1 noche),80.0,80.0,1.0,1
+Staten Island,Mariners Harbor,Entire home/apt,2. Corta-Media (2-3 noches),130.0,130.0,2.0,1
+Staten Island,Mariners Harbor,Entire home/apt,3. Semanal (4-7 noches),150.0,150.0,5.0,1
+Staten Island,Mariners Harbor,Private room,1. Corta (1 noche),131.5,131.5,1.0,2
+Staten Island,Mariners Harbor,Private room,2. Corta-Media (2-3 noches),47.0,47.0,2.0,2
+Staten Island,Mariners Harbor,Private room,3. Semanal (4-7 noches),40.0,40.0,5.0,1
+Staten Island,Midland Beach,Entire home/apt,2. Corta-Media (2-3 noches),107.5,107.5,2.0,2
+Staten Island,Midland Beach,Entire home/apt,3. Semanal (4-7 noches),85.33333333333333,90.0,4.333333333333333,3
+Staten Island,Midland Beach,Private room,1. Corta (1 noche),80.0,80.0,1.0,1
+Staten Island,New Brighton,Entire home/apt,2. Corta-Media (2-3 noches),249.0,249.0,2.0,1
+Staten Island,New Brighton,Private room,1. Corta (1 noche),50.0,50.0,1.0,1
+Staten Island,New Brighton,Private room,2. Corta-Media (2-3 noches),85.0,85.0,3.0,2
+Staten Island,New Brighton,Private room,5. Mensual / Larga (30+ noches),40.0,40.0,30.0,1
+Staten Island,New Dorp,Entire home/apt,1. Corta (1 noche),57.0,57.0,1.0,1
+Staten Island,New Dorp Beach,Entire home/apt,1. Corta (1 noche),62.0,62.0,1.0,1
+Staten Island,New Dorp Beach,Entire home/apt,3. Semanal (4-7 noches),109.0,109.0,5.0,1
+Staten Island,New Dorp Beach,Private room,1. Corta (1 noche),40.0,40.0,1.0,2
+Staten Island,New Dorp Beach,Private room,2. Corta-Media (2-3 noches),36.0,36.0,2.0,1
+Staten Island,New Springville,Entire home/apt,1. Corta (1 noche),58.0,58.0,1.0,1
+Staten Island,New Springville,Entire home/apt,2. Corta-Media (2-3 noches),112.33333333333333,119.0,2.0,3
+Staten Island,New Springville,Private room,1. Corta (1 noche),51.0,51.0,1.0,2
+Staten Island,New Springville,Private room,2. Corta-Media (2-3 noches),68.0,68.0,2.0,1
+Staten Island,New Springville,Private room,4. Quincenal (8-29 noches),43.0,43.0,10.0,1
+Staten Island,Oakwood,Entire home/apt,1. Corta (1 noche),130.0,130.0,1.0,1
+Staten Island,Oakwood,Entire home/apt,2. Corta-Media (2-3 noches),100.0,100.0,2.0,1
+Staten Island,Oakwood,Private room,1. Corta (1 noche),58.666666666666664,65.0,1.0,3
+Staten Island,Port Richmond,Entire home/apt,5. Mensual / Larga (30+ noches),173.66666666666666,221.0,30.333333333333332,3
+Staten Island,Port Richmond,Private room,1. Corta (1 noche),48.6,50.0,1.0,5
+Staten Island,Port Richmond,Private room,2. Corta-Media (2-3 noches),47.0,47.0,2.0,1
+Staten Island,Prince's Bay,Entire home/apt,2. Corta-Media (2-3 noches),135.0,135.0,2.0,2
+Staten Island,Prince's Bay,Entire home/apt,4. Quincenal (8-29 noches),1250.0,1250.0,14.0,1
+Staten Island,Prince's Bay,Private room,1. Corta (1 noche),118.0,118.0,1.0,1
+Staten Island,Randall Manor,Entire home/apt,1. Corta (1 noche),2542.5,2542.5,1.0,2
+Staten Island,Randall Manor,Entire home/apt,2. Corta-Media (2-3 noches),110.57142857142857,109.0,2.142857142857143,7
+Staten Island,Randall Manor,Private room,1. Corta (1 noche),24.5,24.5,1.0,2
+Staten Island,Randall Manor,Private room,2. Corta-Media (2-3 noches),76.4,79.0,2.4,5
+Staten Island,Randall Manor,Private room,3. Semanal (4-7 noches),31.0,31.0,7.0,1
+Staten Island,Randall Manor,Private room,4. Quincenal (8-29 noches),50.0,50.0,10.0,1
+Staten Island,Randall Manor,Shared room,1. Corta (1 noche),13.0,13.0,1.0,1
+Staten Island,Richmondtown,Entire home/apt,2. Corta-Media (2-3 noches),78.0,78.0,3.0,1
+Staten Island,Rosebank,Entire home/apt,1. Corta (1 noche),119.0,119.0,1.0,2
+Staten Island,Rosebank,Entire home/apt,2. Corta-Media (2-3 noches),112.5,112.5,2.5,2
+Staten Island,Rosebank,Entire home/apt,3. Semanal (4-7 noches),200.0,200.0,5.0,1
+Staten Island,Rosebank,Private room,1. Corta (1 noche),65.0,65.0,1.0,1
+Staten Island,Rosebank,Private room,2. Corta-Media (2-3 noches),55.0,55.0,2.0,1
+Staten Island,Rossville,Entire home/apt,2. Corta-Media (2-3 noches),75.0,75.0,3.0,1
+Staten Island,Shore Acres,Entire home/apt,1. Corta (1 noche),300.0,300.0,1.0,1
+Staten Island,Shore Acres,Entire home/apt,2. Corta-Media (2-3 noches),120.0,120.0,2.5,2
+Staten Island,Shore Acres,Entire home/apt,3. Semanal (4-7 noches),75.0,75.0,6.0,1
+Staten Island,Shore Acres,Private room,1. Corta (1 noche),300.0,300.0,1.0,1
+Staten Island,Shore Acres,Private room,2. Corta-Media (2-3 noches),100.0,100.0,3.0,1
+Staten Island,Shore Acres,Private room,3. Semanal (4-7 noches),54.0,54.0,4.0,1
+Staten Island,Silver Lake,Entire home/apt,2. Corta-Media (2-3 noches),80.0,80.0,2.0,1
+Staten Island,Silver Lake,Private room,2. Corta-Media (2-3 noches),60.0,60.0,3.0,1
+Staten Island,South Beach,Entire home/apt,3. Semanal (4-7 noches),275.0,275.0,4.0,1
+Staten Island,South Beach,Private room,1. Corta (1 noche),78.0,80.0,1.0,3
+Staten Island,South Beach,Private room,2. Corta-Media (2-3 noches),75.0,75.0,2.0,2
+Staten Island,South Beach,Private room,3. Semanal (4-7 noches),35.0,35.0,4.0,1
+Staten Island,South Beach,Shared room,3. Semanal (4-7 noches),20.0,20.0,4.0,1
+Staten Island,St. George,Entire home/apt,1. Corta (1 noche),354.75,147.0,1.0,4
+Staten Island,St. George,Entire home/apt,2. Corta-Media (2-3 noches),125.15384615384616,120.0,2.3846153846153846,13
+Staten Island,St. George,Entire home/apt,3. Semanal (4-7 noches),109.44444444444444,86.0,4.444444444444445,9
+Staten Island,St. George,Entire home/apt,5. Mensual / Larga (30+ noches),100.0,100.0,365.0,1
+Staten Island,St. George,Private room,1. Corta (1 noche),73.55555555555556,70.0,1.0,9
+Staten Island,St. George,Private room,2. Corta-Media (2-3 noches),82.88888888888889,75.0,2.2222222222222223,9
+Staten Island,St. George,Private room,3. Semanal (4-7 noches),31.0,31.0,4.0,2
+Staten Island,St. George,Private room,5. Mensual / Larga (30+ noches),70.0,70.0,31.0,1
+Staten Island,Stapleton,Entire home/apt,1. Corta (1 noche),79.5,79.5,1.0,2
+Staten Island,Stapleton,Entire home/apt,2. Corta-Media (2-3 noches),161.0,150.0,2.0,5
+Staten Island,Stapleton,Entire home/apt,3. Semanal (4-7 noches),275.0,275.0,6.0,2
+Staten Island,Stapleton,Entire home/apt,5. Mensual / Larga (30+ noches),95.0,95.0,30.0,1
+Staten Island,Stapleton,Private room,1. Corta (1 noche),59.07692307692308,55.0,1.0,13
+Staten Island,Stapleton,Private room,2. Corta-Media (2-3 noches),73.75,68.5,2.0,4
+Staten Island,Todt Hill,Entire home/apt,2. Corta-Media (2-3 noches),282.0,282.0,2.5,2
+Staten Island,Todt Hill,Entire home/apt,4. Quincenal (8-29 noches),62.0,62.0,14.0,1
+Staten Island,Todt Hill,Private room,2. Corta-Media (2-3 noches),50.0,50.0,2.0,1
+Staten Island,Tompkinsville,Entire home/apt,1. Corta (1 noche),153.0,161.0,1.0,3
+Staten Island,Tompkinsville,Entire home/apt,2. Corta-Media (2-3 noches),109.875,105.0,2.5,8
+Staten Island,Tompkinsville,Entire home/apt,3. Semanal (4-7 noches),83.5,85.0,4.75,4
+Staten Island,Tompkinsville,Private room,1. Corta (1 noche),59.4,50.0,1.0,5
+Staten Island,Tompkinsville,Private room,2. Corta-Media (2-3 noches),55.95454545454545,52.0,2.272727272727273,22
+Staten Island,Tottenville,Entire home/apt,1. Corta (1 noche),75.0,75.0,1.0,1
+Staten Island,Tottenville,Entire home/apt,2. Corta-Media (2-3 noches),151.33333333333334,85.0,2.6666666666666665,3
+Staten Island,Tottenville,Entire home/apt,3. Semanal (4-7 noches),275.0,275.0,4.0,1
+Staten Island,Tottenville,Private room,2. Corta-Media (2-3 noches),105.0,105.0,2.0,2
+Staten Island,West Brighton,Entire home/apt,1. Corta (1 noche),132.5,132.5,1.0,2
+Staten Island,West Brighton,Entire home/apt,2. Corta-Media (2-3 noches),98.0,99.0,2.0,3
+Staten Island,West Brighton,Private room,1. Corta (1 noche),80.0,80.0,1.0,1
+Staten Island,West Brighton,Private room,2. Corta-Media (2-3 noches),73.1,55.0,2.1,10
+Staten Island,West Brighton,Private room,5. Mensual / Larga (30+ noches),40.0,40.0,31.5,2
+Staten Island,Westerleigh,Entire home/apt,2. Corta-Media (2-3 noches),103.0,103.0,3.0,1
+Staten Island,Westerleigh,Private room,2. Corta-Media (2-3 noches),40.0,40.0,2.0,1
+Staten Island,Willowbrook,Entire home/apt,3. Semanal (4-7 noches),249.0,249.0,4.0,1
+Staten Island,Woodrow,Entire home/apt,3. Semanal (4-7 noches),700.0,700.0,7.0,1

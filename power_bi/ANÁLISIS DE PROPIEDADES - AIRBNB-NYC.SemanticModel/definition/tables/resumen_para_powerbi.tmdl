@@ -1,0 +1,85 @@
+table resumen_para_powerbi
+	lineageTag: 2361b99d-bb99-4249-8613-9b3683e4b18d
+
+	column neighbourhood_group
+		dataType: string
+		lineageTag: bef2e1be-4bd9-4d32-a7ce-183727cb7743
+		summarizeBy: none
+		sourceColumn: neighbourhood_group
+
+		annotation SummarizationSetBy = Automatic
+
+	column neighbourhood
+		dataType: string
+		lineageTag: 5bcd2336-6641-4a0f-8d5b-83e5af5ad2bb
+		summarizeBy: none
+		sourceColumn: neighbourhood
+
+		annotation SummarizationSetBy = Automatic
+
+	column room_type
+		dataType: string
+		lineageTag: 9b48b39d-62af-4d67-b61a-5c0cbd9eb993
+		summarizeBy: none
+		sourceColumn: room_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column categoria_estadia
+		dataType: string
+		lineageTag: e7c28c26-807d-4e9b-84d6-0e6ad335f0f9
+		summarizeBy: none
+		sourceColumn: categoria_estadia
+
+		annotation SummarizationSetBy = Automatic
+
+	column Precio_Promedio
+		dataType: double
+		formatString: 0.00
+		lineageTag: ac986618-5c64-4356-b8df-6f3b1157ec96
+		summarizeBy: average
+		sourceColumn: Precio_Promedio
+
+		annotation SummarizationSetBy = User
+
+	column Precio_Mediana
+		dataType: double
+		lineageTag: 9cf37d10-fe79-4122-a776-402a112f04f6
+		summarizeBy: average
+		sourceColumn: Precio_Mediana
+
+		annotation SummarizationSetBy = User
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Noches_Minimas_Promedio
+		dataType: string
+		lineageTag: 0f42cba9-0206-4d88-92c9-a81b1aa52815
+		summarizeBy: none
+		sourceColumn: Noches_Minimas_Promedio
+
+		annotation SummarizationSetBy = Automatic
+
+	column Total_Propiedades
+		dataType: string
+		lineageTag: c8d75f04-df1f-4899-b3a6-dc3364621954
+		summarizeBy: none
+		sourceColumn: Total_Propiedades
+
+		annotation SummarizationSetBy = Automatic
+
+	partition resumen_para_powerbi = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents("C:\Users\Ma Eugenia Jimenez\Desktop\BI\resumen_para_powerbi.csv"),[Delimiter=",", Columns=8, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Encabezados promovidos" = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    #"Tipo cambiado con configuración regional" = Table.TransformColumnTypes(#"Encabezados promovidos", {{"Precio_Promedio", type number}}, "en-US"),
+				    #"Tipo cambiado con configuración regional1" = Table.TransformColumnTypes(#"Tipo cambiado con configuración regional", {{"Precio_Mediana", type number}}, "en-US")
+				in
+				    #"Tipo cambiado con configuración regional1"
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navegación
+
